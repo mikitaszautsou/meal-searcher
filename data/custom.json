@@ -31,6 +31,12 @@
                     "sources": [
                         "https://www.nutritionvalue.org/Buckwheat_groats%2C_cooked%2C_roasted_nutritional_value.html?size=100%20g"
                     ]
+                },
+                "vitamin_d": {
+                    "value": 0,
+                    "sources": [
+                        "https://www.nutritionvalue.org/Buckwheat_groats%2C_cooked%2C_roasted_nutritional_value.html?size=100%20g"
+                    ]
                 }
             }
         },
@@ -60,6 +66,13 @@
                     "sources": [
                         "https://www.nutritionvalue.org/Chicken%2C_stewed%2C_cooked%2C_meat_only%2C_breast%2C_broilers_or_fryers_nutritional_value.html?size=100+g"
                     ]
+                },
+                "vitamin_d": {
+                    "value": 0.1,
+                    "measure": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Buckwheat_groats%2C_cooked%2C_roasted_nutritional_value.html?size=100%20g"
+                    ]
                 }
             }
         },
@@ -88,6 +101,49 @@
                     "value": 100,
                     "sources": [
                         "https://www.nutritionvalue.org/Oil%2C_salad_or_cooking%2C_olive_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "vitamin_d": {
+                    "value": 0,
+                    "measure": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Buckwheat_groats%2C_cooked%2C_roasted_nutritional_value.html?size=100%20g"
+                    ]
+                }
+            }
+        },
+        {
+            "name": "Fish, raw, wild, Atlantic, salmon",
+            "nutrients": {
+                "calories": {
+                    "value": 142,
+                    "sources": [
+                        "https://www.nutritionvalue.org/Fish%2C_raw%2C_wild%2C_Atlantic%2C_salmon_nutritional_value.html"
+                    ]
+                },
+                "protein": {
+                    "value": 20,
+                    "sources": [
+                        "https://www.nutritionvalue.org/Fish%2C_raw%2C_wild%2C_Atlantic%2C_salmon_nutritional_value.html"
+                    ]
+                },
+                "carbohydrates": {
+                    "value": 0,
+                    "sources": [
+                        "https://www.nutritionvalue.org/Fish%2C_raw%2C_wild%2C_Atlantic%2C_salmon_nutritional_value.html"
+                    ]
+                },
+                "fat": {
+                    "value": 6.3,
+                    "sources": [
+                        "https://www.nutritionvalue.org/Fish%2C_raw%2C_wild%2C_Atlantic%2C_salmon_nutritional_value.html"
+                    ]
+                },
+                "vitamin_d": {
+                    "value": 11,
+                    "measure": "mcg",
+                    "sources": [
+                        "https://nutrivore.com/foods/wild-atlantic-salmon-nutrients/"
                     ]
                 }
             }
