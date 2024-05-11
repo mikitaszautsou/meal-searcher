@@ -2,9 +2,6 @@
     "foods": [
         {
             "name": "Cooked buckwheat",
-            "sources": [
-                
-            ],
             "nutrients": {
                 "calories": {
                     "value": 92,
@@ -34,6 +31,13 @@
                 },
                 "vitamin_d": {
                     "value": 0,
+                    "sources": [
+                        "https://www.nutritionvalue.org/Buckwheat_groats%2C_cooked%2C_roasted_nutritional_value.html?size=100%20g"
+                    ]
+                },
+                "iron": {
+                    "value": 0.8,
+                    "measure": "mg",
                     "sources": [
                         "https://www.nutritionvalue.org/Buckwheat_groats%2C_cooked%2C_roasted_nutritional_value.html?size=100%20g"
                     ]
@@ -71,7 +75,14 @@
                     "value": 0.1,
                     "measure": "mcg",
                     "sources": [
-                        "https://www.nutritionvalue.org/Buckwheat_groats%2C_cooked%2C_roasted_nutritional_value.html?size=100%20g"
+                        "https://www.nutritionvalue.org/Chicken%2C_stewed%2C_cooked%2C_meat_only%2C_breast%2C_broilers_or_fryers_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "iron": {
+                    "value": 0.9,
+                    "measure": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Chicken%2C_stewed%2C_cooked%2C_meat_only%2C_breast%2C_broilers_or_fryers_nutritional_value.html?size=100+g"
                     ]
                 }
             }
@@ -109,6 +120,13 @@
                     "sources": [
                         "https://www.nutritionvalue.org/Buckwheat_groats%2C_cooked%2C_roasted_nutritional_value.html?size=100%20g"
                     ]
+                },
+                "iron": {
+                    "value": 0.6,
+                    "measure": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Buckwheat_groats%2C_cooked%2C_roasted_nutritional_value.html?size=100%20g"
+                    ]
                 }
             }
         },
@@ -142,6 +160,13 @@
                 "vitamin_d": {
                     "value": 11,
                     "measure": "mcg",
+                    "sources": [
+                        "https://nutrivore.com/foods/wild-atlantic-salmon-nutrients/"
+                    ]
+                },
+                "iron": {
+                    "value": 0.8,
+                    "measure": "mg",
                     "sources": [
                         "https://nutrivore.com/foods/wild-atlantic-salmon-nutrients/"
                     ]
