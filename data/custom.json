@@ -1,0 +1,96 @@
+{
+    "foods": [
+        {
+            "name": "Cooked buckwheat",
+            "sources": [
+                
+            ],
+            "nutrients": {
+                "calories": {
+                    "value": 92,
+                    "sources": [
+                        "https://www.nutritionvalue.org/Buckwheat_groats%2C_cooked%2C_roasted_nutritional_value.html?size=100%20g",
+                        "https://www.yazio.com/en/foods/buckwheat-cooked.html"
+                    ]
+                },
+                "carbohydrates": {
+                    "value": 20,
+                    "sources": [
+                        "https://www.nutritionvalue.org/Buckwheat_groats%2C_cooked%2C_roasted_nutritional_value.html?size=100%20g",
+                        "https://www.yazio.com/en/foods/buckwheat-cooked.html"
+                    ]
+                },
+                "protein": {
+                    "value": 3.4,
+                    "sources": [
+                        "https://www.nutritionvalue.org/Buckwheat_groats%2C_cooked%2C_roasted_nutritional_value.html?size=100%20g"
+                    ]
+                },
+                "fat": {
+                    "value": 0.6,
+                    "sources": [
+                        "https://www.nutritionvalue.org/Buckwheat_groats%2C_cooked%2C_roasted_nutritional_value.html?size=100%20g"
+                    ]
+                }
+            }
+        },
+        {
+            "name": "Cooked Chicken Breast",
+            "nutrients": {
+                "calories": {
+                    "value": 151,
+                    "sources": [
+                        "https://www.nutritionvalue.org/Chicken%2C_stewed%2C_cooked%2C_meat_only%2C_breast%2C_broilers_or_fryers_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "protein": {
+                    "value": 29,
+                    "sources": [
+                        "https://www.nutritionvalue.org/Chicken%2C_stewed%2C_cooked%2C_meat_only%2C_breast%2C_broilers_or_fryers_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "carbohydrates": {
+                    "value": 0,
+                    "sources": [
+                        "https://www.nutritionvalue.org/Chicken%2C_stewed%2C_cooked%2C_meat_only%2C_breast%2C_broilers_or_fryers_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "fat": {
+                    "value": 3,
+                    "sources": [
+                        "https://www.nutritionvalue.org/Chicken%2C_stewed%2C_cooked%2C_meat_only%2C_breast%2C_broilers_or_fryers_nutritional_value.html?size=100+g"
+                    ]
+                }
+            }
+        },
+        {
+            "name": "Olive oil",
+            "nutrients": {
+                "calories": {
+                    "value": 884,
+                    "sources": [
+                        "https://www.nutritionvalue.org/Oil%2C_salad_or_cooking%2C_olive_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "protein": {
+                    "value": 0,
+                    "sources": [
+                        "https://www.nutritionvalue.org/Oil%2C_salad_or_cooking%2C_olive_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "carbohydrates": {
+                    "value": 0,
+                    "sources": [
+                        "https://www.nutritionvalue.org/Oil%2C_salad_or_cooking%2C_olive_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "fat": {
+                    "value": 100,
+                    "sources": [
+                        "https://www.nutritionvalue.org/Oil%2C_salad_or_cooking%2C_olive_nutritional_value.html?size=100+g"
+                    ]
+                }
+            }
+        }
+    ]
+}
