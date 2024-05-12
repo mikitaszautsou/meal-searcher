@@ -41,6 +41,13 @@
                     "sources": [
                         "https://www.nutritionvalue.org/Buckwheat_groats%2C_cooked%2C_roasted_nutritional_value.html?size=100%20g"
                     ]
+                },
+                "calcium": {
+                    "value": 7,
+                    "measure": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Buckwheat_groats%2C_cooked%2C_roasted_nutritional_value.html?size=100%20g"
+                    ]
                 }
             }
         },
@@ -84,6 +91,13 @@
                     "sources": [
                         "https://www.nutritionvalue.org/Chicken%2C_stewed%2C_cooked%2C_meat_only%2C_breast%2C_broilers_or_fryers_nutritional_value.html?size=100+g"
                     ]
+                },
+                "calcium": {
+                    "value": 13,
+                    "measure": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Chicken%2C_stewed%2C_cooked%2C_meat_only%2C_breast%2C_broilers_or_fryers_nutritional_value.html?size=100+g"
+                    ]
                 }
             }
         },
@@ -118,14 +132,21 @@
                     "value": 0,
                     "measure": "mcg",
                     "sources": [
-                        "https://www.nutritionvalue.org/Buckwheat_groats%2C_cooked%2C_roasted_nutritional_value.html?size=100%20g"
+                        "https://www.nutritionvalue.org/Oil%2C_salad_or_cooking%2C_olive_nutritional_value.html?size=100+g"
                     ]
                 },
                 "iron": {
                     "value": 0.6,
                     "measure": "mg",
                     "sources": [
-                        "https://www.nutritionvalue.org/Buckwheat_groats%2C_cooked%2C_roasted_nutritional_value.html?size=100%20g"
+                        "https://www.nutritionvalue.org/Oil%2C_salad_or_cooking%2C_olive_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "calcium": {
+                    "value": 1,
+                    "measure": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Oil%2C_salad_or_cooking%2C_olive_nutritional_value.html?size=100+g"
                     ]
                 }
             }
@@ -161,7 +182,8 @@
                     "value": 11,
                     "measure": "mcg",
                     "sources": [
-                        "https://nutrivore.com/foods/wild-atlantic-salmon-nutrients/"
+                        "https://nutrivore.com/foods/wild-atlantic-salmon-nutrients/",
+                        "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6566758/#:~:text=The%20vitamin%20D%20content%20in,14%2C15%2C16%5D."
                     ]
                 },
                 "iron": {
@@ -169,6 +191,63 @@
                     "measure": "mg",
                     "sources": [
                         "https://nutrivore.com/foods/wild-atlantic-salmon-nutrients/"
+                    ]
+                },
+                "calcium": {
+                    "value": 12,
+                    "measure": "mg",
+                    "sources": [
+                        "https://nutrivore.com/foods/wild-atlantic-salmon-nutrients/"
+                    ]
+                }
+            }
+        },
+        {
+            "name": "Yogurt",
+            "nutrients": {
+                "calories": {
+                    "value": 46,
+                    "sources": [
+                        "https://www.tabele-kalorii.pl/kalorie,Jogurt-naturalny-Milsani.html#tabela-wo"
+                    ]
+                },
+                "protein": {
+                    "value": 2.7,
+                    "sources": [
+                        "https://www.tabele-kalorii.pl/kalorie,Jogurt-naturalny-Milsani.html#tabela-wo"
+                    ]
+                },
+                "carbohydrates": {
+                    "value": 4.2,
+                    "sources": [
+                        "https://www.tabele-kalorii.pl/kalorie,Jogurt-naturalny-Milsani.html#tabela-wo"
+                    ]
+                },
+                "fat": {
+                    "value": 2,
+                    "sources": [
+                        "https://www.tabele-kalorii.pl/kalorie,Jogurt-naturalny-Milsani.html#tabela-wo"
+                    ]
+                },
+                "vitamin_d": {
+                    "value": 0,
+                    "measure": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Yogurt%2C_low_fat%2C_plain_nutritional_value.html?size=100%20g"
+                    ]
+                },
+                "iron": {
+                    "value": 0.1,
+                    "measure": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Yogurt%2C_low_fat%2C_plain_nutritional_value.html?size=100%20g"
+                    ]
+                },
+                "calcium": {
+                    "value": 183,
+                    "measure": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Yogurt%2C_low_fat%2C_plain_nutritional_value.html?size=100%20g"
                     ]
                 }
             }
