@@ -344,6 +344,64 @@
                     ]
                 }
             }
+        },
+        {
+            "name": "Brazil nut",
+            "nutrients": {
+                "calories": {
+                    "value": 659,
+                    "sources": [
+                        "https://www.nutritionvalue.org/Nuts%2C_unblanched%2C_dried%2C_brazilnuts_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "protein": {
+                    "value": 14,
+                    "sources": [
+                        "https://www.nutritionvalue.org/Nuts%2C_unblanched%2C_dried%2C_brazilnuts_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "carbohydrates": {
+                    "value": 12,
+                    "sources": [
+                        "https://www.nutritionvalue.org/Nuts%2C_unblanched%2C_dried%2C_brazilnuts_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "fat": {
+                    "value": 67,
+                    "sources": [
+                        "https://www.nutritionvalue.org/Nuts%2C_unblanched%2C_dried%2C_brazilnuts_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "vitamin_d": {
+                    "value": 0,
+                    "measure": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Nuts%2C_unblanched%2C_dried%2C_brazilnuts_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "iron": {
+                    "value": 2.4,
+                    "measure": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Nuts%2C_unblanched%2C_dried%2C_brazilnuts_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "calcium": {
+                    "value": 160,
+                    "measure": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Nuts%2C_unblanched%2C_dried%2C_brazilnuts_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "vitamin_c": {
+                    "value": 0.7,
+                    "measure": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Nuts%2C_unblanched%2C_dried%2C_brazilnuts_nutritional_value.html?size=100+g"
+
+                    ]
+                }
+            }
         }
     ]
 }
