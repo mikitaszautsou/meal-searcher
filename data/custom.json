@@ -48,6 +48,13 @@
                     "sources": [
                         "https://www.nutritionvalue.org/Buckwheat_groats%2C_cooked%2C_roasted_nutritional_value.html?size=100%20g"
                     ]
+                },
+                "vitamin_c": {
+                    "value": 0,
+                    "measure": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Buckwheat_groats%2C_cooked%2C_roasted_nutritional_value.html?size=100%20g"
+                    ]
                 }
             }
         },
@@ -98,6 +105,13 @@
                     "sources": [
                         "https://www.nutritionvalue.org/Chicken%2C_stewed%2C_cooked%2C_meat_only%2C_breast%2C_broilers_or_fryers_nutritional_value.html?size=100+g"
                     ]
+                },
+                "vitamin_c": {
+                    "value": 0,
+                    "measure": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Chicken%2C_stewed%2C_cooked%2C_meat_only%2C_breast%2C_broilers_or_fryers_nutritional_value.html?size=100+g"
+                    ]
                 }
             }
         },
@@ -144,6 +158,13 @@
                 },
                 "calcium": {
                     "value": 1,
+                    "measure": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Oil%2C_salad_or_cooking%2C_olive_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "vitamin_c": {
+                    "value": 0,
                     "measure": "mg",
                     "sources": [
                         "https://www.nutritionvalue.org/Oil%2C_salad_or_cooking%2C_olive_nutritional_value.html?size=100+g"
@@ -199,6 +220,14 @@
                     "sources": [
                         "https://nutrivore.com/foods/wild-atlantic-salmon-nutrients/"
                     ]
+                },
+                "vitamin_c": {
+                    "value": 0,
+                    "measure": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Fish%2C_raw%2C_wild%2C_Atlantic%2C_salmon_nutritional_value.html?size=100+g",
+                        "https://fdc.nal.usda.gov/fdc-app.html#/food-details/171998/nutrients"
+                    ]
                 }
             }
         },
@@ -248,6 +277,70 @@
                     "measure": "mg",
                     "sources": [
                         "https://www.nutritionvalue.org/Yogurt%2C_low_fat%2C_plain_nutritional_value.html?size=100%20g"
+                    ]
+                },
+                "vitamin_c": {
+                    "value": 0.8,
+                    "measure": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Yogurt%2C_low_fat%2C_plain_nutritional_value.html?size=100%20g"
+                    ]
+                }
+            }
+        },
+        {
+            "name": "Orange",
+            "nutrients": {
+                "calories": {
+                    "value": 47,
+                    "sources": [
+                        "https://www.nutritionvalue.org/Orange%2C_raw_61119010_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "protein": {
+                    "value": 0.9,
+                    "sources": [
+                        "https://www.nutritionvalue.org/Orange%2C_raw_61119010_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "carbohydrates": {
+                    "value": 12,
+                    "sources": [
+                        "https://www.nutritionvalue.org/Orange%2C_raw_61119010_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "fat": {
+                    "value": 0.1,
+                    "sources": [
+                        "https://www.nutritionvalue.org/Orange%2C_raw_61119010_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "vitamin_d": {
+                    "value": 0,
+                    "measure": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Orange%2C_raw_61119010_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "iron": {
+                    "value": 0.1,
+                    "measure": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Orange%2C_raw_61119010_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "calcium": {
+                    "value": 40,
+                    "measure": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Orange%2C_raw_61119010_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "vitamin_c": {
+                    "value": 53.2,
+                    "measure": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Orange%2C_raw_61119010_nutritional_value.html?size=100+g"
                     ]
                 }
             }
