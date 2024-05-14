@@ -62,6 +62,13 @@
                     "sources": [
                         "https://www.nutritionvalue.org/Buckwheat_groats%2C_cooked%2C_roasted_nutritional_value.html?size=100%20g"
                     ]
+                },
+                "vitamin_a": {
+                    "value": 0,
+                    "measure": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Buckwheat_groats%2C_cooked%2C_roasted_nutritional_value.html?size=100%20g"
+                    ]
                 }
             }
         },
@@ -123,6 +130,13 @@
                 "saturated_fat": {
                     "value": 0.9,
                     "measure": "g",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Chicken%2C_stewed%2C_cooked%2C_meat_only%2C_breast%2C_broilers_or_fryers_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "vitamin_a": {
+                    "value": 6,
+                    "measure": "mcg",
                     "sources": [
                         "https://www.nutritionvalue.org/Chicken%2C_stewed%2C_cooked%2C_meat_only%2C_breast%2C_broilers_or_fryers_nutritional_value.html?size=100+g"
                     ]
@@ -190,6 +204,13 @@
                     "sources": [
                         "https://www.nutritionvalue.org/Oil%2C_salad_or_cooking%2C_olive_nutritional_value.html?size=100+g"
                     ]
+                },
+                "vitamin_a": {
+                    "value": 0,
+                    "measure": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Oil%2C_salad_or_cooking%2C_olive_nutritional_value.html?size=100+g"
+                    ]
                 }
             }
         },
@@ -254,7 +275,14 @@
                     "value": 1,
                     "measure": "g",
                     "sources": [
-                        "https://www.nutritionvalue.org/Oil%2C_salad_or_cooking%2C_olive_nutritional_value.html?size=100+g"
+                        "https://www.nutritionvalue.org/Fish%2C_raw%2C_wild%2C_Atlantic%2C_salmon_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "vitamin_a": {
+                    "value": 12,
+                    "measure": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Fish%2C_raw%2C_wild%2C_Atlantic%2C_salmon_nutritional_value.html?size=100+g"
                     ]
                 }
             }
@@ -320,6 +348,13 @@
                     "sources": [
                         "https://www.tabele-kalorii.pl/kalorie,Jogurt-naturalny-Milsani.html#tabela-wo"
                     ]
+                },
+                "vitamin_a": {
+                    "value": 14,
+                    "measure": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Yogurt%2C_low_fat%2C_plain_nutritional_value.html?size=100%20g"
+                    ]
                 }
             }
         },
@@ -381,6 +416,13 @@
                 "saturated_fat": {
                     "value": 0.015,
                     "measure": "g",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Orange%2C_raw_61119010_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "vitamin_a": {
+                    "value": 14,
+                    "measure": "mcg",
                     "sources": [
                         "https://www.nutritionvalue.org/Orange%2C_raw_61119010_nutritional_value.html?size=100+g"
                     ]
@@ -448,6 +490,85 @@
                     "measure": "g",
                     "sources": [
                         "https://www.nutritionvalue.org/Nuts%2C_unblanched%2C_dried%2C_brazilnuts_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "vitamin_a": {
+                    "value": 0,
+                    "measure": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Nuts%2C_unblanched%2C_dried%2C_brazilnuts_nutritional_value.html?size=100+g"
+                    ]
+                }
+            }
+        },
+        {
+            "name": "Carrots, raw",
+            "nutrients": {
+                "calories": {
+                    "value": 41,
+                    "sources": [
+                        "https://www.nutritionvalue.org/Carrots%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "protein": {
+                    "value": 0.9,
+                    "sources": [
+                        "https://www.nutritionvalue.org/Carrots%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "carbohydrates": {
+                    "value": 9.6,
+                    "sources": [
+                        "https://www.nutritionvalue.org/Carrots%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "fat": {
+                    "value": 0.2,
+                    "sources": [
+                        "https://www.nutritionvalue.org/Carrots%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "vitamin_d": {
+                    "value": 0,
+                    "measure": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Carrots%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "iron": {
+                    "value": 0.3,
+                    "measure": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Carrots%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "calcium": {
+                    "value": 33,
+                    "measure": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Carrots%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "vitamin_c": {
+                    "value": 5.9,
+                    "measure": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Carrots%2C_raw_nutritional_value.html?size=100+g"
+
+                    ]
+                },
+                "saturated_fat": {
+                    "value": 0.032,
+                    "measure": "g",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Carrots%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "vitamin_a": {
+                    "value": 835,
+                    "measure": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Carrots%2C_raw_nutritional_value.html?size=100+g"
                     ]
                 }
             }
