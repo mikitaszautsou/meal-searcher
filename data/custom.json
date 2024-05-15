@@ -1,144 +1,152 @@
 {
     "foods": [
         {
-            "name": "Cooked buckwheat",
+            "name": "Buckwheat groats, dry, roasted",
             "nutrients": {
                 "calories": {
-                    "value": 92,
-                    "sources": [
-                        "https://www.nutritionvalue.org/Buckwheat_groats%2C_cooked%2C_roasted_nutritional_value.html?size=100%20g",
-                        "https://www.yazio.com/en/foods/buckwheat-cooked.html"
-                    ]
+                    "value": 350,
+                    "sources": ["Manufacturer"]
                 },
                 "carbohydrates": {
-                    "value": 20,
-                    "sources": [
-                        "https://www.nutritionvalue.org/Buckwheat_groats%2C_cooked%2C_roasted_nutritional_value.html?size=100%20g",
-                        "https://www.yazio.com/en/foods/buckwheat-cooked.html"
-                    ]
+                    "value": 65,
+                    "sources": ["Manufacturer"]
                 },
                 "protein": {
-                    "value": 3.4,
+                    "value": 13,
                     "sources": [
-                        "https://www.nutritionvalue.org/Buckwheat_groats%2C_cooked%2C_roasted_nutritional_value.html?size=100%20g"
+                        "Manufacturer"
                     ]
                 },
                 "fat": {
-                    "value": 0.6,
+                    "value": 2.6,
                     "sources": [
-                        "https://www.nutritionvalue.org/Buckwheat_groats%2C_cooked%2C_roasted_nutritional_value.html?size=100%20g"
+                        "Manufacturer"
                     ]
                 },
                 "vitamin_d": {
                     "value": 0,
                     "sources": [
-                        "https://www.nutritionvalue.org/Buckwheat_groats%2C_cooked%2C_roasted_nutritional_value.html?size=100%20g"
+                        "https://www.nutritionvalue.org/Buckwheat_groats%2C_dry%2C_roasted_nutritional_value.html?size=100+g"
                     ]
                 },
                 "iron": {
-                    "value": 0.8,
+                    "value": 2.47,
                     "measure": "mg",
                     "sources": [
-                        "https://www.nutritionvalue.org/Buckwheat_groats%2C_cooked%2C_roasted_nutritional_value.html?size=100%20g"
+                        "https://www.nutritionvalue.org/Buckwheat_groats%2C_dry%2C_roasted_nutritional_value.html?size=100+g"
                     ]
                 },
                 "calcium": {
-                    "value": 7,
+                    "value": 17,
                     "measure": "mg",
                     "sources": [
-                        "https://www.nutritionvalue.org/Buckwheat_groats%2C_cooked%2C_roasted_nutritional_value.html?size=100%20g"
+                        "https://www.nutritionvalue.org/Buckwheat_groats%2C_dry%2C_roasted_nutritional_value.html?size=100+g"
                     ]
                 },
                 "vitamin_c": {
                     "value": 0,
                     "measure": "mg",
                     "sources": [
-                        "https://www.nutritionvalue.org/Buckwheat_groats%2C_cooked%2C_roasted_nutritional_value.html?size=100%20g"
+                        "https://www.nutritionvalue.org/Buckwheat_groats%2C_dry%2C_roasted_nutritional_value.html?size=100+g"
                     ]
                 },
                 "saturated_fat": {
-                    "value": 0.1,
+                    "value": 0.6,
                     "measure": "g",
                     "sources": [
-                        "https://www.nutritionvalue.org/Buckwheat_groats%2C_cooked%2C_roasted_nutritional_value.html?size=100%20g"
+                        "Manufacturer"
                     ]
                 },
                 "vitamin_a": {
                     "value": 0,
                     "measure": "mcg",
                     "sources": [
-                        "https://www.nutritionvalue.org/Buckwheat_groats%2C_cooked%2C_roasted_nutritional_value.html?size=100%20g"
+                        "https://www.nutritionvalue.org/Buckwheat_groats%2C_dry%2C_roasted_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "fiber": {
+                    "value": 10.3,
+                    "measure": "g",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Buckwheat_groats%2C_dry%2C_roasted_nutritional_value.html?size=100+g"
                     ]
                 }
             }
         },
         {
-            "name": "Cooked Chicken Breast",
+            "name": "Chicken, raw, meat only, boneless, skinless, breast, broiler or fryers",
             "nutrients": {
                 "calories": {
-                    "value": 151,
+                    "value": 120,
                     "sources": [
-                        "https://www.nutritionvalue.org/Chicken%2C_stewed%2C_cooked%2C_meat_only%2C_breast%2C_broilers_or_fryers_nutritional_value.html?size=100+g"
+                        "https://www.nutritionvalue.org/Chicken%2C_raw%2C_meat_only%2C_boneless%2C_skinless%2C_breast%2C_broiler_or_fryers_nutritional_value.html?size=100+g"
                     ]
                 },
                 "protein": {
-                    "value": 29,
+                    "value": 23,
                     "sources": [
-                        "https://www.nutritionvalue.org/Chicken%2C_stewed%2C_cooked%2C_meat_only%2C_breast%2C_broilers_or_fryers_nutritional_value.html?size=100+g"
+                        "https://www.nutritionvalue.org/Chicken%2C_raw%2C_meat_only%2C_boneless%2C_skinless%2C_breast%2C_broiler_or_fryers_nutritional_value.html?size=100+g"
                     ]
                 },
                 "carbohydrates": {
                     "value": 0,
                     "sources": [
-                        "https://www.nutritionvalue.org/Chicken%2C_stewed%2C_cooked%2C_meat_only%2C_breast%2C_broilers_or_fryers_nutritional_value.html?size=100+g"
+                        "https://www.nutritionvalue.org/Chicken%2C_raw%2C_meat_only%2C_boneless%2C_skinless%2C_breast%2C_broiler_or_fryers_nutritional_value.html?size=100+g"
                     ]
                 },
                 "fat": {
-                    "value": 3,
+                    "value": 2.6,
                     "sources": [
-                        "https://www.nutritionvalue.org/Chicken%2C_stewed%2C_cooked%2C_meat_only%2C_breast%2C_broilers_or_fryers_nutritional_value.html?size=100+g"
+                        "https://www.nutritionvalue.org/Chicken%2C_raw%2C_meat_only%2C_boneless%2C_skinless%2C_breast%2C_broiler_or_fryers_nutritional_value.html?size=100+g"
                     ]
                 },
                 "vitamin_d": {
-                    "value": 0.1,
+                    "value": 0,
                     "measure": "mcg",
                     "sources": [
-                        "https://www.nutritionvalue.org/Chicken%2C_stewed%2C_cooked%2C_meat_only%2C_breast%2C_broilers_or_fryers_nutritional_value.html?size=100+g"
+                        "https://www.nutritionvalue.org/Chicken%2C_raw%2C_meat_only%2C_boneless%2C_skinless%2C_breast%2C_broiler_or_fryers_nutritional_value.html?size=100+g"
                     ]
                 },
                 "iron": {
-                    "value": 0.9,
+                    "value": 0.37,
                     "measure": "mg",
                     "sources": [
-                        "https://www.nutritionvalue.org/Chicken%2C_stewed%2C_cooked%2C_meat_only%2C_breast%2C_broilers_or_fryers_nutritional_value.html?size=100+g"
+                        "https://www.nutritionvalue.org/Chicken%2C_raw%2C_meat_only%2C_boneless%2C_skinless%2C_breast%2C_broiler_or_fryers_nutritional_value.html?size=100+g"
                     ]
                 },
                 "calcium": {
-                    "value": 13,
+                    "value": 5,
                     "measure": "mg",
                     "sources": [
-                        "https://www.nutritionvalue.org/Chicken%2C_stewed%2C_cooked%2C_meat_only%2C_breast%2C_broilers_or_fryers_nutritional_value.html?size=100+g"
+                        "https://www.nutritionvalue.org/Chicken%2C_raw%2C_meat_only%2C_boneless%2C_skinless%2C_breast%2C_broiler_or_fryers_nutritional_value.html?size=100+g"
                     ]
                 },
                 "vitamin_c": {
                     "value": 0,
                     "measure": "mg",
                     "sources": [
-                        "https://www.nutritionvalue.org/Chicken%2C_stewed%2C_cooked%2C_meat_only%2C_breast%2C_broilers_or_fryers_nutritional_value.html?size=100+g"
+                        "https://www.nutritionvalue.org/Chicken%2C_raw%2C_meat_only%2C_boneless%2C_skinless%2C_breast%2C_broiler_or_fryers_nutritional_value.html?size=100+g"
                     ]
                 },
                 "saturated_fat": {
-                    "value": 0.9,
+                    "value": 0.6,
                     "measure": "g",
                     "sources": [
-                        "https://www.nutritionvalue.org/Chicken%2C_stewed%2C_cooked%2C_meat_only%2C_breast%2C_broilers_or_fryers_nutritional_value.html?size=100+g"
+                        "https://www.nutritionvalue.org/Chicken%2C_raw%2C_meat_only%2C_boneless%2C_skinless%2C_breast%2C_broiler_or_fryers_nutritional_value.html?size=100+g"
                     ]
                 },
                 "vitamin_a": {
-                    "value": 6,
+                    "value": 9,
                     "measure": "mcg",
                     "sources": [
-                        "https://www.nutritionvalue.org/Chicken%2C_stewed%2C_cooked%2C_meat_only%2C_breast%2C_broilers_or_fryers_nutritional_value.html?size=100+g"
+                        "https://www.nutritionvalue.org/Chicken%2C_raw%2C_meat_only%2C_boneless%2C_skinless%2C_breast%2C_broiler_or_fryers_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "fiber": {
+                    "value": 0,
+                    "measure": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Chicken%2C_raw%2C_meat_only%2C_boneless%2C_skinless%2C_breast%2C_broiler_or_fryers_nutritional_value.html?size=100+g"
                     ]
                 }
             }
@@ -208,6 +216,13 @@
                 "vitamin_a": {
                     "value": 0,
                     "measure": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Oil%2C_salad_or_cooking%2C_olive_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "fiber": {
+                    "value": 0,
+                    "measure": "g",
                     "sources": [
                         "https://www.nutritionvalue.org/Oil%2C_salad_or_cooking%2C_olive_nutritional_value.html?size=100+g"
                     ]
@@ -284,6 +299,13 @@
                     "sources": [
                         "https://www.nutritionvalue.org/Fish%2C_raw%2C_wild%2C_Atlantic%2C_salmon_nutritional_value.html?size=100+g"
                     ]
+                },
+                "fiber": {
+                    "value": 0,
+                    "measure": "g",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Fish%2C_raw%2C_wild%2C_Atlantic%2C_salmon_nutritional_value.html?size=100+g"
+                    ]
                 }
             }
         },
@@ -355,6 +377,13 @@
                     "sources": [
                         "https://www.nutritionvalue.org/Yogurt%2C_low_fat%2C_plain_nutritional_value.html?size=100%20g"
                     ]
+                },
+                "fiber": {
+                    "value": 0,
+                    "measure": "g",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Yogurt%2C_low_fat%2C_plain_nutritional_value.html?size=100%20g"
+                    ]
                 }
             }
         },
@@ -422,6 +451,13 @@
                 },
                 "vitamin_a": {
                     "value": 14,
+                    "measure": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Orange%2C_raw_61119010_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "fiber": {
+                    "value": 2.4,
                     "measure": "mcg",
                     "sources": [
                         "https://www.nutritionvalue.org/Orange%2C_raw_61119010_nutritional_value.html?size=100+g"
@@ -498,6 +534,13 @@
                     "sources": [
                         "https://www.nutritionvalue.org/Nuts%2C_unblanched%2C_dried%2C_brazilnuts_nutritional_value.html?size=100+g"
                     ]
+                },
+                "fiber": {
+                    "value": 7.5,
+                    "measure": "g",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Nuts%2C_unblanched%2C_dried%2C_brazilnuts_nutritional_value.html?size=100+g"
+                    ]
                 }
             }
         },
@@ -567,6 +610,13 @@
                 "vitamin_a": {
                     "value": 835,
                     "measure": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Carrots%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "fiber": {
+                    "value": 2.8,
+                    "measure": "g",
                     "sources": [
                         "https://www.nutritionvalue.org/Carrots%2C_raw_nutritional_value.html?size=100+g"
                     ]
