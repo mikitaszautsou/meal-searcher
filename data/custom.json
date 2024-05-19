@@ -88,6 +88,13 @@
                     "sources": [
                         "https://fdc.nal.usda.gov/fdc-app.html#/food-details/170686/nutrients"
                     ]
+                },
+                "selenium": {
+                    "value": 8.4,
+                    "measure": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Buckwheat_groats%2C_dry%2C_roasted_nutritional_value.html?size=100+g"
+                    ]
                 }
             }
         },
@@ -176,6 +183,13 @@
                 },
                 "vitamin_k": {
                     "value": 8.4,
+                    "measure": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Chicken%2C_raw%2C_meat_only%2C_boneless%2C_skinless%2C_breast%2C_broiler_or_fryers_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "selenium": {
+                    "value": 22.80,
                     "measure": "mcg",
                     "sources": [
                         "https://www.nutritionvalue.org/Chicken%2C_raw%2C_meat_only%2C_boneless%2C_skinless%2C_breast%2C_broiler_or_fryers_nutritional_value.html?size=100+g"
@@ -270,7 +284,14 @@
                     "value": 60.2,
                     "measure": "mcg",
                     "sources": [
-                        "https://www.nutritionvalue.org/Chicken%2C_raw%2C_meat_only%2C_boneless%2C_skinless%2C_breast%2C_broiler_or_fryers_nutritional_value.html?size=100+g"
+                        "https://www.nutritionvalue.org/Oil%2C_salad_or_cooking%2C_olive_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "selenium": {
+                    "value": 0,
+                    "measure": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Oil%2C_salad_or_cooking%2C_olive_nutritional_value.html?size=100+g"
                     ]
                 }
             }
@@ -366,6 +387,13 @@
                     "sources": [
                         "https://fitaudit.com/categories/fsh/vitamin_k"
                     ]
+                },
+                "selenium": {
+                    "value": 36.5,
+                    "measure": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Fish%2C_raw%2C_wild%2C_Atlantic%2C_salmon_nutritional_value.html?size=100+g"
+                    ]
                 }
             }
         },
@@ -454,6 +482,13 @@
                 },
                 "vitamin_k": {
                     "value": 0.2,
+                    "measure": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Yogurt%2C_low_fat%2C_plain_nutritional_value.html?size=100%20g"
+                    ]
+                },
+                "selenium": {
+                    "value": 3.3,
                     "measure": "mcg",
                     "sources": [
                         "https://www.nutritionvalue.org/Yogurt%2C_low_fat%2C_plain_nutritional_value.html?size=100%20g"
@@ -550,6 +585,13 @@
                     "sources": [
                         "https://www.nutritionvalue.org/Orange%2C_raw_61119010_nutritional_value.html?size=100+g"
                     ]
+                },
+                "selenium": {
+                    "value": 0.5,
+                    "measure": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Orange%2C_raw_61119010_nutritional_value.html?size=100+g"
+                    ]
                 }
             }
         },
@@ -638,6 +680,13 @@
                 },
                 "vitamin_k": {
                     "value": 0,
+                    "measure": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Nuts%2C_unblanched%2C_dried%2C_brazilnuts_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "selenium": {
+                    "value": 1917,
                     "measure": "mcg",
                     "sources": [
                         "https://www.nutritionvalue.org/Nuts%2C_unblanched%2C_dried%2C_brazilnuts_nutritional_value.html?size=100+g"
@@ -734,6 +783,13 @@
                     "sources": [
                         "https://www.nutritionvalue.org/Carrots%2C_raw_nutritional_value.html?size=100+g"
                     ]
+                },
+                "selenium": {
+                    "value": 0.1,
+                    "measure": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Carrots%2C_raw_nutritional_value.html?size=100+g"
+                    ]
                 }
             }
         },
@@ -826,6 +882,13 @@
                     "sources": [
                         "https://www.nutritionvalue.org/Oil%2C_wheat_germ_nutritional_value.html?size=100+g"
                     ]
+                },
+                "selenium": {
+                    "value": 0.0,
+                    "measure": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Oil%2C_wheat_germ_nutritional_value.html?size=100+g"
+                    ]
                 }
             }
         },
@@ -914,6 +977,13 @@
                 },
                 "vitamin_k": {
                     "value": 389.6,
+                    "measure": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Kale%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "selenium": {
+                    "value": 0.9,
                     "measure": "mcg",
                     "sources": [
                         "https://www.nutritionvalue.org/Kale%2C_raw_nutritional_value.html?size=100+g"
