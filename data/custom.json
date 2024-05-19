@@ -5,11 +5,15 @@
             "nutrients": {
                 "calories": {
                     "value": 350,
-                    "sources": ["Manufacturer"]
+                    "sources": [
+                        "Manufacturer"
+                    ]
                 },
                 "carbohydrates": {
                     "value": 65,
-                    "sources": ["Manufacturer"]
+                    "sources": [
+                        "Manufacturer"
+                    ]
                 },
                 "protein": {
                     "value": 13,
@@ -76,6 +80,13 @@
                     "measure": "mg",
                     "sources": [
                         "https://www.nutritionvalue.org/Buckwheat_groats%2C_dry%2C_roasted_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "vitamin_k": {
+                    "value": 1.9,
+                    "measure": "mcg",
+                    "sources": [
+                        "https://fdc.nal.usda.gov/fdc-app.html#/food-details/170686/nutrients"
                     ]
                 }
             }
@@ -159,6 +170,13 @@
                 "vitamin_e": {
                     "value": 0.56,
                     "measure": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Chicken%2C_raw%2C_meat_only%2C_boneless%2C_skinless%2C_breast%2C_broiler_or_fryers_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "vitamin_k": {
+                    "value": 8.4,
+                    "measure": "mcg",
                     "sources": [
                         "https://www.nutritionvalue.org/Chicken%2C_raw%2C_meat_only%2C_boneless%2C_skinless%2C_breast%2C_broiler_or_fryers_nutritional_value.html?size=100+g"
                     ]
@@ -247,6 +265,13 @@
                     "sources": [
                         "https://www.nutritionvalue.org/Oil%2C_salad_or_cooking%2C_olive_nutritional_value.html?size=100+g"
                     ]
+                },
+                "vitamin_k": {
+                    "value": 60.2,
+                    "measure": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Chicken%2C_raw%2C_meat_only%2C_boneless%2C_skinless%2C_breast%2C_broiler_or_fryers_nutritional_value.html?size=100+g"
+                    ]
                 }
             }
         },
@@ -334,6 +359,13 @@
                     "sources": [
                         "https://nutrivore.com/foods/wild-atlantic-salmon-nutrients/"
                     ]
+                },
+                "vitamin_k": {
+                    "value": 0.3,
+                    "measure": "mcg",
+                    "sources": [
+                        "https://fitaudit.com/categories/fsh/vitamin_k"
+                    ]
                 }
             }
         },
@@ -416,6 +448,13 @@
                 "vitamin_e": {
                     "value": 0.03,
                     "measure": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Yogurt%2C_low_fat%2C_plain_nutritional_value.html?size=100%20g"
+                    ]
+                },
+                "vitamin_k": {
+                    "value": 0.2,
+                    "measure": "mcg",
                     "sources": [
                         "https://www.nutritionvalue.org/Yogurt%2C_low_fat%2C_plain_nutritional_value.html?size=100%20g"
                     ]
@@ -504,6 +543,13 @@
                     "sources": [
                         "https://www.nutritionvalue.org/Orange%2C_raw_61119010_nutritional_value.html?size=100+g"
                     ]
+                },
+                "vitamin_k": {
+                    "value": 0.1,
+                    "measure": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Orange%2C_raw_61119010_nutritional_value.html?size=100+g"
+                    ]
                 }
             }
         },
@@ -560,7 +606,6 @@
                     "measure": "mg",
                     "sources": [
                         "https://www.nutritionvalue.org/Nuts%2C_unblanched%2C_dried%2C_brazilnuts_nutritional_value.html?size=100+g"
-
                     ]
                 },
                 "saturated_fat": {
@@ -587,6 +632,13 @@
                 "vitamin_e": {
                     "value": 5.65,
                     "measure": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Nuts%2C_unblanched%2C_dried%2C_brazilnuts_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "vitamin_k": {
+                    "value": 0,
+                    "measure": "mcg",
                     "sources": [
                         "https://www.nutritionvalue.org/Nuts%2C_unblanched%2C_dried%2C_brazilnuts_nutritional_value.html?size=100+g"
                     ]
@@ -646,7 +698,6 @@
                     "measure": "mg",
                     "sources": [
                         "https://www.nutritionvalue.org/Carrots%2C_raw_nutritional_value.html?size=100+g"
-
                     ]
                 },
                 "saturated_fat": {
@@ -673,6 +724,13 @@
                 "vitamin_e": {
                     "value": 0.66,
                     "measure": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Carrots%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "vitamin_k": {
+                    "value": 13.2,
+                    "measure": "mcg",
                     "sources": [
                         "https://www.nutritionvalue.org/Carrots%2C_raw_nutritional_value.html?size=100+g"
                     ]
@@ -732,7 +790,6 @@
                     "measure": "mg",
                     "sources": [
                         "https://www.nutritionvalue.org/Oil%2C_wheat_germ_nutritional_value.html?size=100+g"
-
                     ]
                 },
                 "saturated_fat": {
@@ -761,6 +818,105 @@
                     "measure": "mg",
                     "sources": [
                         "https://www.nutritionvalue.org/Oil%2C_wheat_germ_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "vitamin_k": {
+                    "value": 24.7,
+                    "measure": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Oil%2C_wheat_germ_nutritional_value.html?size=100+g"
+                    ]
+                }
+            }
+        },
+        {
+            "name": "Kale, raw",
+            "nutrients": {
+                "calories": {
+                    "value": 35,
+                    "sources": [
+                        "https://www.nutritionvalue.org/Kale%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "protein": {
+                    "value": 2.9,
+                    "sources": [
+                        "https://www.nutritionvalue.org/Kale%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "carbohydrates": {
+                    "value": 4.4,
+                    "sources": [
+                        "https://www.nutritionvalue.org/Kale%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "fat": {
+                    "value": 1.5,
+                    "sources": [
+                        "https://www.nutritionvalue.org/Kale%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "vitamin_d": {
+                    "value": 0,
+                    "measure": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Kale%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "iron": {
+                    "value": 1.6,
+                    "measure": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Kale%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "calcium": {
+                    "value": 254,
+                    "measure": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Kale%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "vitamin_c": {
+                    "value": 93.4,
+                    "measure": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Kale%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "saturated_fat": {
+                    "value": 0.178,
+                    "measure": "g",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Kale%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "vitamin_a": {
+                    "value": 241,
+                    "measure": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Kale%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "fiber": {
+                    "value": 4.1,
+                    "measure": "g",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Kale%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "vitamin_e": {
+                    "value": 0.66,
+                    "measure": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Kale%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "vitamin_k": {
+                    "value": 389.6,
+                    "measure": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Kale%2C_raw_nutritional_value.html?size=100+g"
                     ]
                 }
             }
