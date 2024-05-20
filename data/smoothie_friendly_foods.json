@@ -30,6 +30,13 @@
                     "sources": [
                         "https://www.nutritionvalue.org/Peanut_Butter%2C_smooth_nutritional_value.html?size=100+g"
                     ]
+                },
+                "saturated_fat": {
+                    "value": 9.5,
+                    "measurement": "g",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Peanut_Butter%2C_smooth_nutritional_value.html?size=100+g"
+                    ]
                 }
             }
         },
@@ -58,6 +65,13 @@
                 },
                 "fat": {
                     "value": 0.4,
+                    "measurement": "g",
+                    "sources": [
+                        "Manufacturer"
+                    ]
+                },
+                "saturated_fat": {
+                    "value": 0.3,
                     "measurement": "g",
                     "sources": [
                         "Manufacturer"
@@ -91,6 +105,13 @@
                 },
                 "fat": {
                     "value": 0.3,
+                    "measurement": "g",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Bananas%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "saturated_fat": {
+                    "value": 0.1,
                     "measurement": "g",
                     "sources": [
                         "https://www.nutritionvalue.org/Bananas%2C_raw_nutritional_value.html?size=100+g"
