@@ -65,6 +65,13 @@
                     "sources": [
                         "https://nutritionvalue.org/Peanut_Butter%2C_smooth_nutritional_value.html?size=100+g"
                     ]
+                },
+                "calcium": {
+                    "value": 54,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://nutritionvalue.org/Peanut_Butter%2C_smooth_nutritional_value.html?size=100+g"
+                    ]
                 }
             }
         },
@@ -129,6 +136,13 @@
                 },
                 "iron": {
                     "value": 0,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Cottage_cheese_1028783_nutritional_value.html?size=100%20g"
+                    ]
+                },
+                "calcium": {
+                    "value": 70,
                     "measurement": "mg",
                     "sources": [
                         "https://www.nutritionvalue.org/Cottage_cheese_1028783_nutritional_value.html?size=100%20g"
@@ -201,6 +215,13 @@
                     "sources": [
                         "https://www.nutritionvalue.org/Bananas%2C_raw_nutritional_value.html?size=100+g"
                     ]
+                },
+                "calcium": {
+                    "value": 5,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Bananas%2C_raw_nutritional_value.html?size=100+g"
+                    ]
                 }
             }
         },
@@ -264,6 +285,13 @@
                     ]
                 },
                 "iron": {
+                    "value": 0,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Fish_oil%2C_cod_liver_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "calcium": {
                     "value": 0,
                     "measurement": "mg",
                     "sources": [
@@ -337,6 +365,13 @@
                     "sources": [
                         "https://www.nutritionvalue.org/Carrots%2C_raw_nutritional_value.html?size=100+g"
                     ]
+                },
+                "calcium": {
+                    "value": 33,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Carrots%2C_raw_nutritional_value.html?size=100+g"
+                    ]
                 }
             }
         },
@@ -404,6 +439,88 @@
                     "measurement": "mg",
                     "sources": [
                         "https://www.nutritionvalue.org/Chocolate%2C_70-85%25_cacao_solids%2C_dark_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "calcium": {
+                    "value": 73,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Chocolate%2C_70-85%25_cacao_solids%2C_dark_nutritional_value.html?size=100+g"
+                    ]
+                }
+            }
+        },
+        {
+            "name": "Milk Swieze, 2.0%",
+            "nutrients": {
+                "calories": {
+                    "value": 50,
+                    "measurement": "kkal",
+                    "sources": [
+                        "Manufacturer"
+                    ]
+                },
+                "carbohydrates": {
+                    "value": 4.8,
+                    "measurement": "g",
+                    "sources": [
+                        "Manufacturer"
+                    ]
+                },
+                "protein": {
+                    "value": 3.3,
+                    "measurement": "g",
+                    "sources": [
+                        "Manufacturer"
+                    ]
+                },
+                "fat": {
+                    "value": 2,
+                    "measurement": "g",
+                    "sources": [
+                        "Manufacturer"
+                    ]
+                },
+                "saturated_fat": {
+                    "value": 1.2,
+                    "measurement": "g",
+                    "sources": [
+                        "Manufacturer"
+                    ]
+                },
+                "fiber": {
+                    "value": 11,
+                    "measurement": "g",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Milk%2C_reduced_fat_%282%25%29_11112110_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "vitamin_d": {
+                    "value": 0.1,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Milk%2C_reduced_fat_%282%25%29_11112110_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "vitamin_a": {
+                    "value": 28,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Milk%2C_reduced_fat_%282%25%29_11112110_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "iron": {
+                    "value": 0.05,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Milk%2C_reduced_fat_%282%25%29_11112110_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "calcium": {
+                    "value": 120,
+                    "measurement": "mg",
+                    "sources": [
+                        "Manufacturer"
                     ]
                 }
             }
