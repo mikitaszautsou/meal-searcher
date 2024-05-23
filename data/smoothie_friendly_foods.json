@@ -51,6 +51,13 @@
                     "sources": [
                         "https://www.nutritionvalue.org/Peanut_Butter%2C_smooth_nutritional_value.html?size=100+g"
                     ]
+                },
+                "vitamin_a": {
+                    "value": 0,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://nutritionvalue.org/Peanut_Butter%2C_smooth_nutritional_value.html?size=100+g"
+                    ]
                 }
             }
         },
@@ -105,6 +112,13 @@
                         "https://www.nutritionvalue.org/Cottage_cheese_1028783_nutritional_value.html?size=100%20g",
                         "https://www.eatthismuch.com/food/nutrition/cottage-cheese,12/"
                     ]
+                },
+                "vitamin_a": {
+                    "value": 68,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://fitaudit.com/food/190594"
+                    ]
                 }
             }
         },
@@ -155,6 +169,13 @@
                 },
                 "vitamin_d": {
                     "value": 0,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Bananas%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "vitamin_a": {
+                    "value": 3,
                     "measurement": "mcg",
                     "sources": [
                         "https://www.nutritionvalue.org/Bananas%2C_raw_nutritional_value.html?size=100+g"
@@ -212,6 +233,74 @@
                     "measurement": "mcg",
                     "sources": [
                         "https://www.nutritionvalue.org/Fish_oil%2C_cod_liver_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "vitamin_a": {
+                    "value": 30000,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Fish_oil%2C_cod_liver_nutritional_value.html?size=100+g"
+                    ]
+                }
+            }
+        },
+        {
+            "name": "Carrots, raw",
+            "nutrients": {
+                "calories": {
+                    "value": 41,
+                    "measurement": "kkal",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Carrots%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "carbohydrates": {
+                    "value": 9.6,
+                    "measurement": "g",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Carrots%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "protein": {
+                    "value": 0.9,
+                    "measurement": "g",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Carrots%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "fat": {
+                    "value": 0.24,
+                    "measurement": "g",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Carrots%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "saturated_fat": {
+                    "value": 0.032,
+                    "measurement": "g",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Carrots%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "fiber": {
+                    "value": 2.8,
+                    "measurement": "g",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Carrots%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "vitamin_d": {
+                    "value": 0,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Carrots%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "vitamin_a": {
+                    "value": 835,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Carrots%2C_raw_nutritional_value.html?size=100+g"
                     ]
                 }
             }
