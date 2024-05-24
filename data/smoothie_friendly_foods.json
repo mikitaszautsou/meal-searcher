@@ -72,6 +72,13 @@
                     "sources": [
                         "https://nutritionvalue.org/Peanut_Butter%2C_smooth_nutritional_value.html?size=100+g"
                     ]
+                },
+                "trans_fat": {
+                    "value": 54,
+                    "measurement": "g",
+                    "sources": [
+                        "https://nutritionvalue.org/Peanut_Butter%2C_smooth_nutritional_value.html?size=100+g"
+                    ]
                 }
             }
         },
@@ -144,6 +151,13 @@
                 "calcium": {
                     "value": 70,
                     "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Cottage_cheese_1028783_nutritional_value.html?size=100%20g"
+                    ]
+                },
+                "trans_fat": {
+                    "value": 0,
+                    "measurement": "g",
                     "sources": [
                         "https://www.nutritionvalue.org/Cottage_cheese_1028783_nutritional_value.html?size=100%20g"
                     ]
@@ -222,6 +236,13 @@
                     "sources": [
                         "https://www.nutritionvalue.org/Bananas%2C_raw_nutritional_value.html?size=100+g"
                     ]
+                },
+                "trans_fat": {
+                    "value": 0,
+                    "measurement": "g",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Bananas%2C_raw_nutritional_value.html?size=100+g"
+                    ]
                 }
             }
         },
@@ -294,6 +315,13 @@
                 "calcium": {
                     "value": 0,
                     "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Fish_oil%2C_cod_liver_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "trans_fat": {
+                    "value": 0,
+                    "measurement": "g",
                     "sources": [
                         "https://www.nutritionvalue.org/Fish_oil%2C_cod_liver_nutritional_value.html?size=100+g"
                     ]
@@ -372,6 +400,13 @@
                     "sources": [
                         "https://www.nutritionvalue.org/Carrots%2C_raw_nutritional_value.html?size=100+g"
                     ]
+                },
+                "trans_fat": {
+                    "value": 0,
+                    "measurement": "g",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Carrots%2C_raw_nutritional_value.html?size=100+g"
+                    ]
                 }
             }
         },
@@ -444,6 +479,13 @@
                 "calcium": {
                     "value": 73,
                     "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Chocolate%2C_70-85%25_cacao_solids%2C_dark_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "trans_fat": {
+                    "value": 0,
+                    "measurement": "g",
                     "sources": [
                         "https://www.nutritionvalue.org/Chocolate%2C_70-85%25_cacao_solids%2C_dark_nutritional_value.html?size=100+g"
                     ]
@@ -521,6 +563,13 @@
                     "measurement": "mg",
                     "sources": [
                         "Manufacturer"
+                    ]
+                },
+                "trans_fat": {
+                    "value": 0,
+                    "measurement": "g",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Milk%2C_reduced_fat_%282%25%29_11112110_nutritional_value.html?size=100+g"
                     ]
                 }
             }
