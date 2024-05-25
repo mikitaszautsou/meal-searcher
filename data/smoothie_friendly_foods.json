@@ -86,6 +86,13 @@
                     "sources": [
                         "https://nutritionvalue.org/Peanut_Butter%2C_smooth_nutritional_value.html?size=100+g"
                     ]
+                },
+                "sodium": {
+                    "value": 16,
+                    "measurement": "mg",
+                    "sources": [
+                        "Manufacturer"
+                    ]
                 }
             }
         },
@@ -174,6 +181,13 @@
                     "measurement": "mg",
                     "sources": [
                         "https://www.nutritionvalue.org/Cottage_cheese_1028783_nutritional_value.html?size=100%20g"
+                    ]
+                },
+                "sodium": {
+                    "value": 40,
+                    "measurement": "mg",
+                    "sources": [
+                        "Manufacturer"
                     ]
                 }
             }
@@ -264,6 +278,13 @@
                     "sources": [
                         "https://www.nutritionvalue.org/Bananas%2C_raw_nutritional_value.html?size=100+g"
                     ]
+                },
+                "sodium": {
+                    "value": 1,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Bananas%2C_raw_nutritional_value.html?size=100+g"
+                    ]
                 }
             }
         },
@@ -348,6 +369,13 @@
                     ]
                 },
                 "vitamin_c": {
+                    "value": 0,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Fish_oil%2C_cod_liver_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "sodium": {
                     "value": 0,
                     "measurement": "mg",
                     "sources": [
@@ -442,6 +470,13 @@
                     "sources": [
                         "https://www.nutritionvalue.org/Carrots%2C_raw_nutritional_value.html?size=100+g"
                     ]
+                },
+                "sodium": {
+                    "value": 69,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Carrots%2C_raw_nutritional_value.html?size=100+g"
+                    ]
                 }
             }
         },
@@ -530,6 +565,13 @@
                     "measurement": "mg",
                     "sources": [
                         "https://www.nutritionvalue.org/Chocolate%2C_70-85%25_cacao_solids%2C_dark_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "sodium": {
+                    "value": 140,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Carrots%2C_raw_nutritional_value.html?size=100+g"
                     ]
                 }
             }
@@ -620,6 +662,13 @@
                     "sources": [
                         "https://www.nutritionvalue.org/Milk%2C_reduced_fat_%282%25%29_11112110_nutritional_value.html?size=100+g"
                     ]
+                },
+                "sodium": {
+                    "value": 40,
+                    "measurement": "mg",
+                    "sources": [
+                        "Manufacturer"
+                    ]
                 }
             }
         },
@@ -708,6 +757,109 @@
                     "measurement": "mg",
                     "sources": [
                         "https://www.nutritionvalue.org/Kiwifruit%2C_raw%2C_green_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "sodium": {
+                    "value": 3,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Kiwifruit%2C_raw%2C_green_nutritional_value.html?size=100+g"
+                    ]
+                }
+            }
+        },
+        {
+            "name": "Iodized salt",
+            "nutrients": {
+                "calories": {
+                    "value": 0,
+                    "measurement": "kkal",
+                    "sources": [
+                        "Manufacturer"
+                    ]
+                },
+                "carbohydrates": {
+                    "value": 0,
+                    "measurement": "g",
+                    "sources": [
+                        "Manufacturer"
+                    ]
+                },
+                "protein": {
+                    "value": 0,
+                    "measurement": "g",
+                    "sources": [
+                        "Manufacturer"
+                    ]
+                },
+                "fat": {
+                    "value": 0,
+                    "measurement": "g",
+                    "sources": [
+                        "Manufacturer"
+                    ]
+                },
+                "saturated_fat": {
+                    "value": 0,
+                    "measurement": "g",
+                    "sources": [
+                        "Manufacturer"
+                    ]
+                },
+                "fiber": {
+                    "value": 0,
+                    "measurement": "g",
+                    "sources": [
+                        "Manufacturer"
+                    ]
+                },
+                "vitamin_d": {
+                    "value": 0.0,
+                    "measurement": "mcg",
+                    "sources": [
+                        "Manufacturer"
+                    ]
+                },
+                "vitamin_a": {
+                    "value": 0,
+                    "measurement": "mcg",
+                    "sources": [
+                        "Manufacturer"
+                    ]
+                },
+                "iron": {
+                    "value": 0,
+                    "measurement": "mg",
+                    "sources": [
+                        "Manufacturer"
+                    ]
+                },
+                "calcium": {
+                    "value": 0,
+                    "measurement": "mg",
+                    "sources": [
+                        "Manufacturer"
+                    ]
+                },
+                "trans_fat": {
+                    "value": 0,
+                    "measurement": "g",
+                    "sources": [
+                        "Manufacturer"
+                    ]
+                },
+                "vitamin_c": {
+                    "value": 0,
+                    "measurement": "mg",
+                    "sources": [
+                        "Manufacturer"
+                    ]
+                },
+                "sodium": {
+                    "value": 39280,
+                    "measurement": "mg",
+                    "sources": [
+                        "Manufacturer"
                     ]
                 }
             }
