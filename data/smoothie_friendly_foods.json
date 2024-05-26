@@ -93,6 +93,13 @@
                     "sources": [
                         "Manufacturer"
                     ]
+                },
+                "zinc": {
+                    "value": 2.67,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Peanut_Butter%2C_smooth_nutritional_value.html?size=100+g"
+                    ]
                 }
             }
         },
@@ -188,6 +195,13 @@
                     "measurement": "mg",
                     "sources": [
                         "Manufacturer"
+                    ]
+                },
+                "zinc": {
+                    "value": 0.61,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://fdc.nal.usda.gov/fdc-app.html#/food-details/328841/nutrients"
                     ]
                 }
             }
@@ -285,6 +299,13 @@
                     "sources": [
                         "https://www.nutritionvalue.org/Bananas%2C_raw_nutritional_value.html?size=100+g"
                     ]
+                },
+                "zinc": {
+                    "value": 0.15,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Bananas%2C_raw_nutritional_value.html?size=100+g"
+                    ]
                 }
             }
         },
@@ -376,6 +397,13 @@
                     ]
                 },
                 "sodium": {
+                    "value": 0,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Fish_oil%2C_cod_liver_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "zinc": {
                     "value": 0,
                     "measurement": "mg",
                     "sources": [
@@ -477,6 +505,13 @@
                     "sources": [
                         "https://www.nutritionvalue.org/Carrots%2C_raw_nutritional_value.html?size=100+g"
                     ]
+                },
+                "zinc": {
+                    "value": 0.24,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Carrots%2C_raw_nutritional_value.html?size=100+g"
+                    ]
                 }
             }
         },
@@ -571,7 +606,14 @@
                     "value": 140,
                     "measurement": "mg",
                     "sources": [
-                        "https://www.nutritionvalue.org/Carrots%2C_raw_nutritional_value.html?size=100+g"
+                        "Manufacturer"
+                    ]
+                },
+                "zinc": {
+                    "value": 0.24,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Chocolate%2C_70-85%25_cacao_solids%2C_dark_nutritional_value.html?size=100+g"
                     ]
                 }
             }
@@ -669,6 +711,13 @@
                     "sources": [
                         "Manufacturer"
                     ]
+                },
+                "zinc": {
+                    "value": 0.43,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Milk%2C_reduced_fat_%282%25%29_11112110_nutritional_value.html?size=100+g"
+                    ]
                 }
             }
         },
@@ -765,6 +814,13 @@
                     "sources": [
                         "https://www.nutritionvalue.org/Kiwifruit%2C_raw%2C_green_nutritional_value.html?size=100+g"
                     ]
+                },
+                "zinc": {
+                    "value": 0.14,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Kiwifruit%2C_raw%2C_green_nutritional_value.html?size=100+g"
+                    ]
                 }
             }
         },
@@ -857,6 +913,13 @@
                 },
                 "sodium": {
                     "value": 39280,
+                    "measurement": "mg",
+                    "sources": [
+                        "Manufacturer"
+                    ]
+                },
+                "zinc": {
+                    "value": 0,
                     "measurement": "mg",
                     "sources": [
                         "Manufacturer"
