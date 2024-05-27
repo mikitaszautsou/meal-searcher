@@ -107,6 +107,13 @@
                     "sources": [
                         "https://fdc.nal.usda.gov/fdc-app.html#/food-details/172470/nutrients"
                     ]
+                },
+                "vitamin_b12": {
+                    "value": 0,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Peanut_Butter%2C_smooth_nutritional_value.html?size=100+g"
+                    ]
                 }
             }
         },
@@ -217,6 +224,13 @@
                     "sources": [
                         "https://www.eatthismuch.com/food/nutrition/cottage-cheese,5761/"
                     ]
+                },
+                "vitamin_b12": {
+                    "value": 0.4,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Cottage_cheese_1028783_nutritional_value.html?size=100%20g"
+                    ]
                 }
             }
         },
@@ -323,6 +337,13 @@
                 },
                 "vitamin_k": {
                     "value": 0.5,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Bananas%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "vitamin_b12": {
+                    "value": 0,
                     "measurement": "mcg",
                     "sources": [
                         "https://www.nutritionvalue.org/Bananas%2C_raw_nutritional_value.html?size=100+g"
@@ -437,6 +458,13 @@
                     "sources": [
                         "https://www.nutritionvalue.org/Fish_oil%2C_cod_liver_nutritional_value.html?size=100+g"
                     ]
+                },
+                "vitamin_b12": {
+                    "value": 0,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Fish_oil%2C_cod_liver_nutritional_value.html?size=100+g"
+                    ]
                 }
             }
         },
@@ -543,6 +571,13 @@
                 },
                 "vitamin_k": {
                     "value": 13.2,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Carrots%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "vitamin_b12": {
+                    "value": 0,
                     "measurement": "mcg",
                     "sources": [
                         "https://www.nutritionvalue.org/Carrots%2C_raw_nutritional_value.html?size=100+g"
@@ -657,6 +692,13 @@
                     "sources": [
                         "https://www.nutritionvalue.org/Chocolate%2C_70-85%25_cacao_solids%2C_dark_nutritional_value.html?size=100+g"
                     ]
+                },
+                "vitamin_b12": {
+                    "value": 0.28,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Chocolate%2C_70-85%25_cacao_solids%2C_dark_nutritional_value.html?size=100+g"
+                    ]
                 }
             }
         },
@@ -763,6 +805,13 @@
                 },
                 "vitamin_k": {
                     "value": 0.2,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Milk%2C_reduced_fat_%282%25%29_11112110_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "vitamin_b12": {
+                    "value": 0.55,
                     "measurement": "mcg",
                     "sources": [
                         "https://www.nutritionvalue.org/Milk%2C_reduced_fat_%282%25%29_11112110_nutritional_value.html?size=100+g"
@@ -877,6 +926,13 @@
                     "sources": [
                         "https://www.nutritionvalue.org/Kiwifruit%2C_raw%2C_green_nutritional_value.html?size=100+g"
                     ]
+                },
+                "vitamin_b12": {
+                    "value": 0,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Kiwifruit%2C_raw%2C_green_nutritional_value.html?size=100+g"
+                    ]
                 }
             }
         },
@@ -982,6 +1038,13 @@
                     ]
                 },
                 "vitamin_k": {
+                    "value": 0,
+                    "measurement": "mcg",
+                    "sources": [
+                        "Manufacturer"
+                    ]
+                },
+                "vitamin_b12": {
                     "value": 0,
                     "measurement": "mcg",
                     "sources": [
@@ -1093,6 +1156,13 @@
                 },
                 "vitamin_k": {
                     "value": 482.9,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Spinach%2C_raw_nutritional_value.html?size=100%20g"
+                    ]
+                },
+                "vitamin_b12": {
+                    "value": 0,
                     "measurement": "mcg",
                     "sources": [
                         "https://www.nutritionvalue.org/Spinach%2C_raw_nutritional_value.html?size=100%20g"
