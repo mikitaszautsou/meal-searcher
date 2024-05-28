@@ -122,6 +122,13 @@
                         "https://www.nutritionvalue.org/Peanut_Butter%2C_smooth_nutritional_value.html?size=100+g",
                         "https://www.sante.com.pl/products/peanut-butter-go-on-180g/"
                     ]
+                },
+                "potassium": {
+                    "value": 592,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Peanut_Butter%2C_smooth_nutritional_value.html?size=100+g"
+                    ]
                 }
             }
         },
@@ -245,6 +252,13 @@
                     "measurement": "mg",
                     "sources": [
                         "https://fitaudit.com/food/190594"
+                    ]
+                },
+                "potassium": {
+                    "value": 104,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://fdc.nal.usda.gov/fdc-app.html#/food-details/172179/nutrients"
                     ]
                 }
             }
@@ -370,6 +384,13 @@
                     "sources": [
                         "https://www.nutritionvalue.org/Bananas%2C_raw_nutritional_value.html?size=100+g"
                     ]
+                },
+                "potassium": {
+                    "value": 358,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Bananas%2C_raw_nutritional_value.html?size=100+g"
+                    ]
                 }
             }
         },
@@ -489,6 +510,13 @@
                     ]
                 },
                 "vitamin_e": {
+                    "value": 0,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Fish_oil%2C_cod_liver_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "potassium": {
                     "value": 0,
                     "measurement": "mg",
                     "sources": [
@@ -618,6 +646,13 @@
                     "sources": [
                         "https://www.nutritionvalue.org/Carrots%2C_raw_nutritional_value.html?size=100+g"
                     ]
+                },
+                "potassium": {
+                    "value": 320,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Carrots%2C_raw_nutritional_value.html?size=100+g"
+                    ]
                 }
             }
         },
@@ -738,6 +773,13 @@
                 },
                 "vitamin_e": {
                     "value": 0.59,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Chocolate%2C_70-85%25_cacao_solids%2C_dark_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "potassium": {
+                    "value": 715,
                     "measurement": "mg",
                     "sources": [
                         "https://www.nutritionvalue.org/Chocolate%2C_70-85%25_cacao_solids%2C_dark_nutritional_value.html?size=100+g"
@@ -866,6 +908,13 @@
                     "sources": [
                         "https://www.nutritionvalue.org/Milk%2C_reduced_fat_%282%25%29_11112110_nutritional_value.html?size=100+g"
                     ]
+                },
+                "potassium": {
+                    "value": 715,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Chocolate%2C_70-85%25_cacao_solids%2C_dark_nutritional_value.html?size=100+g"
+                    ]
                 }
             }
         },
@@ -986,6 +1035,13 @@
                 },
                 "vitamin_e": {
                     "value": 1.46,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Kiwifruit%2C_raw%2C_green_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "potassium": {
+                    "value": 312,
                     "measurement": "mg",
                     "sources": [
                         "https://www.nutritionvalue.org/Kiwifruit%2C_raw%2C_green_nutritional_value.html?size=100+g"
@@ -1114,6 +1170,12 @@
                     "sources": [
                         "Manufacturer"
                     ]
+                },
+                "potassium": {
+                    "value": 0,
+                    "measurement": "mg",
+                    "sources": [
+                    ]
                 }
             }
         },
@@ -1234,6 +1296,13 @@
                 },
                 "vitamin_e": {
                     "value": 2.03,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Spinach%2C_raw_nutritional_value.html?size=100%20g"
+                    ]
+                },
+                "potassium": {
+                    "value": 558,
                     "measurement": "mg",
                     "sources": [
                         "https://www.nutritionvalue.org/Spinach%2C_raw_nutritional_value.html?size=100%20g"
@@ -1361,6 +1430,144 @@
                     "measurement": "mg",
                     "sources": [
                         "Manufacturer"
+                    ]
+                },
+                "potassium": {
+                    "value": 733,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Nuts%2C_almonds_nutritional_value.html?size=100+g"
+                    ]
+                }
+            }
+        },
+        {
+            "name": "Apple",
+            "nutrients": {
+                "calories": {
+                    "value": 51,
+                    "measurement": "kkal",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Apples%2C_with_skin%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "carbohydrates": {
+                    "value": 14,
+                    "measurement": "g",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Apples%2C_with_skin%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "protein": {
+                    "value": 0.3,
+                    "measurement": "g",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Apples%2C_with_skin%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "fat": {
+                    "value": 0.2,
+                    "measurement": "g",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Apples%2C_with_skin%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "saturated_fat": {
+                    "value": 0.028,
+                    "measurement": "g",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Apples%2C_with_skin%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "fiber": {
+                    "value": 2.4,
+                    "measurement": "g",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Apples%2C_with_skin%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "vitamin_d": {
+                    "value": 0.0,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Apples%2C_with_skin%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "vitamin_a": {
+                    "value": 3,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Apples%2C_with_skin%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "iron": {
+                    "value": 0.12,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Apples%2C_with_skin%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "calcium": {
+                    "value": 6,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Apples%2C_with_skin%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "trans_fat": {
+                    "value": 0,
+                    "measurement": "g",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Apples%2C_with_skin%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "vitamin_c": {
+                    "value": 4.6,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Apples%2C_with_skin%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "sodium": {
+                    "value": 1,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Apples%2C_with_skin%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "zinc": {
+                    "value": 0.04,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Apples%2C_with_skin%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "vitamin_k": {
+                    "value": 2.2,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Apples%2C_with_skin%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "vitamin_b12": {
+                    "value": 0,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Apples%2C_with_skin%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "vitamin_e": {
+                    "value": 0.18,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Apples%2C_with_skin%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "potassium": {
+                    "value": 107,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Apples%2C_with_skin%2C_raw_nutritional_value.html?size=100+g"
                     ]
                 }
             }
