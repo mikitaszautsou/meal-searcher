@@ -440,17 +440,17 @@
                     ]
                 },
                 "vitamin_d": {
-                    "value": 250,
+                    "value": 300,
                     "measurement": "mcg",
                     "sources": [
                         "https://www.nutritionvalue.org/Fish_oil%2C_cod_liver_nutritional_value.html?size=100+g"
                     ]
                 },
                 "vitamin_a": {
-                    "value": 30000,
+                    "value": 5000,
                     "measurement": "mcg",
                     "sources": [
-                        "https://www.nutritionvalue.org/Fish_oil%2C_cod_liver_nutritional_value.html?size=100+g"
+                        "Manufacturer"
                     ]
                 },
                 "iron": {
@@ -510,10 +510,10 @@
                     ]
                 },
                 "vitamin_e": {
-                    "value": 0,
+                    "value": 60,
                     "measurement": "mg",
                     "sources": [
-                        "https://www.nutritionvalue.org/Fish_oil%2C_cod_liver_nutritional_value.html?size=100+g"
+                        "Manufacturer"
                     ]
                 },
                 "potassium": {
