@@ -1,0 +1,1602 @@
+[
+  {
+    "name": "Oatmeal",
+    "nutrients": {
+      "calories": {
+        "value": 389,
+        "measurement": "kcal",
+        "sources": []
+      },
+      "carbohydrates": {
+        "value": 66.3,
+        "measurement": "g",
+        "sources": []
+      },
+      "protein": {
+        "value": 16.9,
+        "measurement": "g",
+        "sources": []
+      },
+      "fat": {
+        "value": 6.9,
+        "measurement": "g",
+        "sources": []
+      },
+      "saturated_fat": {
+        "value": 1.2,
+        "measurement": "g",
+        "sources": []
+      },
+      "fiber": {
+        "value": 10.6,
+        "measurement": "g",
+        "sources": []
+      },
+      "vitamin_d": {
+        "value": 0,
+        "measurement": "mcg",
+        "sources": []
+      },
+      "vitamin_a": {
+        "value": 0,
+        "measurement": "mcg",
+        "sources": []
+      },
+      "iron": {
+        "value": 4.72,
+        "measurement": "mg",
+        "sources": []
+      },
+      "calcium": {
+        "value": 54,
+        "measurement": "mg",
+        "sources": []
+      },
+      "trans_fat": {
+        "value": 0,
+        "measurement": "g",
+        "sources": []
+      },
+      "vitamin_c": {
+        "value": 0,
+        "measurement": "mg",
+        "sources": []
+      },
+      "sodium": {
+        "value": 2,
+        "measurement": "mg",
+        "sources": []
+      },
+      "zinc": {
+        "value": 3.97,
+        "measurement": "mg",
+        "sources": []
+      },
+      "vitamin_k": {
+        "value": 0.8,
+        "measurement": "mcg",
+        "sources": []
+      },
+      "vitamin_b12": {
+        "value": 0,
+        "measurement": "mcg",
+        "sources": []
+      },
+      "vitamin_e": {
+        "value": 0.59,
+        "measurement": "mg",
+        "sources": []
+      },
+      "potassium": {
+        "value": 429,
+        "measurement": "mg",
+        "sources": []
+      },
+      "thiamin": {
+        "value": 0.763,
+        "measurement": "mg",
+        "sources": []
+      }
+    }
+  },
+  {
+    "name": "Chopped Nuts",
+    "nutrients": {
+      "calories": {
+        "value": 607,
+        "measurement": "kcal",
+        "sources": []
+      },
+      "carbohydrates": {
+        "value": 21.6,
+        "measurement": "g",
+        "sources": []
+      },
+      "protein": {
+        "value": 20.6,
+        "measurement": "g",
+        "sources": []
+      },
+      "fat": {
+        "value": 53.4,
+        "measurement": "g",
+        "sources": []
+      },
+      "saturated_fat": {
+        "value": 4.4,
+        "measurement": "g",
+        "sources": []
+      },
+      "fiber": {
+        "value": 8.4,
+        "measurement": "g",
+        "sources": []
+      },
+      "vitamin_d": {
+        "value": 0,
+        "measurement": "mcg",
+        "sources": []
+      },
+      "vitamin_a": {
+        "value": 1,
+        "measurement": "mcg",
+        "sources": []
+      },
+      "iron": {
+        "value": 4.7,
+        "measurement": "mg",
+        "sources": []
+      },
+      "calcium": {
+        "value": 98,
+        "measurement": "mg",
+        "sources": []
+      },
+      "trans_fat": {
+        "value": 0,
+        "measurement": "g",
+        "sources": []
+      },
+      "vitamin_c": {
+        "value": 0.5,
+        "measurement": "mg",
+        "sources": []
+      },
+      "sodium": {
+        "value": 2,
+        "measurement": "mg",
+        "sources": []
+      },
+      "zinc": {
+        "value": 4.8,
+        "measurement": "mg",
+        "sources": []
+      },
+      "vitamin_k": {
+        "value": 0.3,
+        "measurement": "mcg",
+        "sources": []
+      },
+      "vitamin_b12": {
+        "value": 0,
+        "measurement": "mcg",
+        "sources": []
+      },
+      "vitamin_e": {
+        "value": 7.4,
+        "measurement": "mg",
+        "sources": []
+      },
+      "potassium": {
+        "value": 659,
+        "measurement": "mg",
+        "sources": []
+      },
+      "thiamin": {
+        "value": 0.36,
+        "measurement": "mg",
+        "sources": []
+      }
+    }
+  },
+  {
+    "name": "Egg",
+    "nutrients": {
+      "calories": {
+        "value": 143,
+        "measurement": "kcal",
+        "sources": []
+      },
+      "carbohydrates": {
+        "value": 0.7,
+        "measurement": "g",
+        "sources": []
+      },
+      "protein": {
+        "value": 12.6,
+        "measurement": "g",
+        "sources": []
+      },
+      "fat": {
+        "value": 9.5,
+        "measurement": "g",
+        "sources": []
+      },
+      "saturated_fat": {
+        "value": 3.1,
+        "measurement": "g",
+        "sources": []
+      },
+      "fiber": {
+        "value": 0,
+        "measurement": "g",
+        "sources": []
+      },
+      "vitamin_d": {
+        "value": 2,
+        "measurement": "mcg",
+        "sources": []
+      },
+      "vitamin_a": {
+        "value": 160,
+        "measurement": "mcg",
+        "sources": []
+      },
+      "iron": {
+        "value": 1.75,
+        "measurement": "mg",
+        "sources": []
+      },
+      "calcium": {
+        "value": 56,
+        "measurement": "mg",
+        "sources": []
+      },
+      "trans_fat": {
+        "value": 0,
+        "measurement": "g",
+        "sources": []
+      },
+      "vitamin_c": {
+        "value": 0,
+        "measurement": "mg",
+        "sources": []
+      },
+      "sodium": {
+        "value": 142,
+        "measurement": "mg",
+        "sources": []
+      },
+      "zinc": {
+        "value": 1.29,
+        "measurement": "mg",
+        "sources": []
+      },
+      "vitamin_k": {
+        "value": 0.3,
+        "measurement": "mcg",
+        "sources": []
+      },
+      "vitamin_b12": {
+        "value": 0.89,
+        "measurement": "mcg",
+        "sources": []
+      },
+      "vitamin_e": {
+        "value": 1.05,
+        "measurement": "mg",
+        "sources": []
+      },
+      "potassium": {
+        "value": 138,
+        "measurement": "mg",
+        "sources": []
+      },
+      "thiamin": {
+        "value": 0.04,
+        "measurement": "mg",
+        "sources": []
+      }
+    }
+  },
+  {
+    "name": "Banana",
+    "nutrients": {
+      "calories": {
+        "value": 89,
+        "measurement": "kcal",
+        "sources": []
+      },
+      "carbohydrates": {
+        "value": 22.8,
+        "measurement": "g",
+        "sources": []
+      },
+      "protein": {
+        "value": 1.1,
+        "measurement": "g",
+        "sources": []
+      },
+      "fat": {
+        "value": 0.3,
+        "measurement": "g",
+        "sources": []
+      },
+      "saturated_fat": {
+        "value": 0.1,
+        "measurement": "g",
+        "sources": []
+      },
+      "fiber": {
+        "value": 2.6,
+        "measurement": "g",
+        "sources": []
+      },
+      "vitamin_d": {
+        "value": 0,
+        "measurement": "mcg",
+        "sources": []
+      },
+      "vitamin_a": {
+        "value": 3,
+        "measurement": "mcg",
+        "sources": []
+      },
+      "iron": {
+        "value": 0.26,
+        "measurement": "mg",
+        "sources": []
+      },
+      "calcium": {
+        "value": 5,
+        "measurement": "mg",
+        "sources": []
+      },
+      "trans_fat": {
+        "value": 0,
+        "measurement": "g",
+        "sources": []
+      },
+      "vitamin_c": {
+        "value": 8.7,
+        "measurement": "mg",
+        "sources": []
+      },
+      "sodium": {
+        "value": 1,
+        "measurement": "mg",
+        "sources": []
+      },
+      "zinc": {
+        "value": 0.15,
+        "measurement": "mg",
+        "sources": []
+      },
+      "vitamin_k": {
+        "value": 0.5,
+        "measurement": "mcg",
+        "sources": []
+      },
+      "vitamin_b12": {
+        "value": 0,
+        "measurement": "mcg",
+        "sources": []
+      },
+      "vitamin_e": {
+        "value": 0.1,
+        "measurement": "mg",
+        "sources": []
+      },
+      "potassium": {
+        "value": 358,
+        "measurement": "mg",
+        "sources": []
+      },
+      "thiamin": {
+        "value": 0.031,
+        "measurement": "mg",
+        "sources": []
+      }
+    }
+  },
+  {
+    "name": "Apple",
+    "nutrients": {
+      "calories": {
+        "value": 52,
+        "measurement": "kcal",
+        "sources": []
+      },
+      "carbohydrates": {
+        "value": 13.8,
+        "measurement": "g",
+        "sources": []
+      },
+      "protein": {
+        "value": 0.3,
+        "measurement": "g",
+        "sources": []
+      },
+      "fat": {
+        "value": 0.2,
+        "measurement": "g",
+        "sources": []
+      },
+      "saturated_fat": {
+        "value": 0.03,
+        "measurement": "g",
+        "sources": []
+      },
+      "fiber": {
+        "value": 2.4,
+        "measurement": "g",
+        "sources": []
+      },
+      "vitamin_d": {
+        "value": 0,
+        "measurement": "mcg",
+        "sources": []
+      },
+      "vitamin_a": {
+        "value": 3,
+        "measurement": "mcg",
+        "sources": []
+      },
+      "iron": {
+        "value": 0.12,
+        "measurement": "mg",
+        "sources": []
+      },
+      "calcium": {
+        "value": 6,
+        "measurement": "mg",
+        "sources": []
+      },
+      "trans_fat": {
+        "value": 0,
+        "measurement": "g",
+        "sources": []
+      },
+      "vitamin_c": {
+        "value": 4.6,
+        "measurement": "mg",
+        "sources": []
+      },
+      "sodium": {
+        "value": 1,
+        "measurement": "mg",
+        "sources": []
+      },
+      "zinc": {
+        "value": 0.04,
+        "measurement": "mg",
+        "sources": []
+      },
+      "vitamin_k": {
+        "value": 2.2,
+        "measurement": "mcg",
+        "sources": []
+      },
+      "vitamin_b12": {
+        "value": 0,
+        "measurement": "mcg",
+        "sources": []
+      },
+      "vitamin_e": {
+        "value": 0.18,
+        "measurement": "mg",
+        "sources": []
+      },
+      "potassium": {
+        "value": 107,
+        "measurement": "mg",
+        "sources": []
+      },
+      "thiamin": {
+        "value": 0.017,
+        "measurement": "mg",
+        "sources": []
+      }
+    }
+  },
+  {
+    "name": "Almond Butter",
+    "nutrients": {
+      "calories": {
+        "value": 614,
+        "measurement": "kcal",
+        "sources": []
+      },
+      "carbohydrates": {
+        "value": 19.4,
+        "measurement": "g",
+        "sources": []
+      },
+      "protein": {
+        "value": 21.4,
+        "measurement": "g",
+        "sources": []
+      },
+      "fat": {
+        "value": 55.8,
+        "measurement": "g",
+        "sources": []
+      },
+      "saturated_fat": {
+        "value": 4.4,
+        "measurement": "g",
+        "sources": []
+      },
+      "fiber": {
+        "value": 10.4,
+        "measurement": "g",
+        "sources": []
+      },
+      "vitamin_d": {
+        "value": 0,
+        "measurement": "mcg",
+        "sources": []
+      },
+      "vitamin_a": {
+        "value": 0,
+        "measurement": "mcg",
+        "sources": []
+      },
+      "iron": {
+        "value": 3.71,
+        "measurement": "mg",
+        "sources": []
+      },
+      "calcium": {
+        "value": 347,
+        "measurement": "mg",
+        "sources": []
+      },
+      "trans_fat": {
+        "value": 0,
+        "measurement": "g",
+        "sources": []
+      },
+      "vitamin_c": {
+        "value": 0,
+        "measurement": "mg",
+        "sources": []
+      },
+      "sodium": {
+        "value": 5,
+        "measurement": "mg",
+        "sources": []
+      },
+      "zinc": {
+        "value": 3.02,
+        "measurement": "mg",
+        "sources": []
+      },
+      "vitamin_k": {
+        "value": 0,
+        "measurement": "mcg",
+        "sources": []
+      },
+      "vitamin_b12": {
+        "value": 0,
+        "measurement": "mcg",
+        "sources": []
+      },
+      "vitamin_e": {
+        "value": 24.2,
+        "measurement": "mg",
+        "sources": []
+      },
+      "potassium": {
+        "value": 733,
+        "measurement": "mg",
+        "sources": []
+      },
+      "thiamin": {
+        "value": 0.13,
+        "measurement":"mg",
+        "sources": []
+      }
+    }
+  },
+  {
+    "name": "Grilled Chicken Salad",
+    "nutrients": {
+      "calories": {
+        "value": 190,
+        "measurement": "kcal",
+        "sources": []
+      },
+      "carbohydrates": {
+        "value": 5.4,
+        "measurement": "g",
+        "sources": []
+      },
+      "protein": {
+        "value": 28.9,
+        "measurement": "g",
+        "sources": []
+      },
+      "fat": {
+        "value": 6.2,
+        "measurement": "g",
+        "sources": []
+      },
+      "saturated_fat": {
+        "value": 1.5,
+        "measurement": "g",
+        "sources": []
+      },
+      "fiber": {
+        "value": 1.5,
+        "measurement": "g",
+        "sources": []
+      },
+      "vitamin_d": {
+        "value": 0.1,
+        "measurement": "mcg",
+        "sources": []
+      },
+      "vitamin_a": {
+        "value": 133,
+        "measurement": "mcg",
+        "sources": []
+      },
+      "iron": {
+        "value": 1.21,
+        "measurement": "mg",
+        "sources": []
+      },
+      "calcium": {
+        "value": 27,
+        "measurement": "mg",
+        "sources": []
+      },
+      "trans_fat": {
+        "value": 0,
+        "measurement": "g",
+        "sources": []
+      },
+      "vitamin_c": {
+        "value": 4.7,
+        "measurement": "mg",
+        "sources": []
+      },
+      "sodium": {
+        "value": 89,
+        "measurement": "mg",
+        "sources": []
+      },
+      "zinc": {
+        "value": 1.54,
+        "measurement": "mg",
+        "sources": []
+      },
+      "vitamin_k": {
+        "value": 79.3,
+        "measurement": "mcg",
+        "sources": []
+      },
+      "vitamin_b12": {
+        "value": 0.32,
+        "measurement": "mcg",
+        "sources": []
+      },
+      "vitamin_e": {
+        "value": 0.73,
+        "measurement": "mg",
+        "sources": []
+      },
+      "potassium": {
+        "value": 383,
+        "measurement": "mg",
+        "sources": []
+      },
+      "thiamin": {
+        "value": 0.073,
+        "measurement": "mg",
+        "sources": []
+      }
+    }
+  },
+  {
+    "name": "Whole-grain Pita Bread",
+    "nutrients": {
+      "calories": {
+        "value": 165,
+        "measurement": "kcal",
+        "sources": []
+      },
+      "carbohydrates": {
+        "value": 33.7,
+        "measurement": "g",
+        "sources": []
+      },
+      "protein": {
+        "value": 5.5,
+        "measurement": "g",
+        "sources": []
+      },
+      "fat": {
+        "value": 1.7,
+        "measurement": "g",
+        "sources": []
+      },
+      "saturated_fat": {
+        "value": 0.3,
+        "measurement": "g",
+        "sources": []
+      },
+      "fiber": {
+        "value": 4.7,
+        "measurement": "g",
+        "sources": []
+      },
+      "vitamin_d": {
+        "value": 0,
+        "measurement": "mcg",
+        "sources": []
+      },
+      "vitamin_a": {
+        "value": 0,
+        "measurement": "mcg",
+        "sources": []
+      },
+      "iron": {
+        "value": 1.46,
+        "measurement": "mg",
+        "sources": []
+      },
+      "calcium": {
+        "value": 15,
+        "measurement": "mg",
+        "sources": []
+      },
+      "trans_fat": {
+        "value": 0,
+        "measurement": "g",
+        "sources": []
+      },
+      "vitamin_c": {
+        "value": 0,
+        "measurement": "mg",
+        "sources": []
+      },
+      "sodium": {
+        "value": 322,
+        "measurement": "mg",
+        "sources": []
+      },
+      "zinc": {
+        "value": 0.64,
+        "measurement": "mg",
+        "sources": []
+      },
+      "vitamin_k": {
+        "value": 0.6,
+        "measurement": "mcg",
+        "sources": []
+      },
+      "vitamin_b12": {
+        "value": 0,
+        "measurement": "mcg",
+        "sources": []
+      },
+      "vitamin_e": {
+        "value": 0.12,
+        "measurement": "mg",
+        "sources": []
+      },
+      "potassium": {
+        "value": 88,
+        "measurement": "mg",
+        "sources": []
+      },
+      "thiamin": {
+        "value": 0.185,
+        "measurement": "mg",
+        "sources": []
+      }
+    }
+  },
+  {
+    "name": "Greek Yogurt",
+    "nutrients": {
+      "calories": {
+        "value": 59,
+        "measurement": "kcal",
+        "sources": []
+      },
+      "carbohydrates": {
+        "value": 3.6,
+        "measurement": "g",
+        "sources": []
+      },
+      "protein": {
+        "value": 10,
+        "measurement": "g",
+        "sources": []
+      },
+      "fat": {
+        "value": 0.4,
+        "measurement": "g",
+        "sources": []
+      },
+      "saturated_fat": {
+        "value": 0.1,
+        "measurement": "g",
+        "sources": []
+      },
+      "fiber": {
+        "value": 0,
+        "measurement": "g",
+        "sources": []
+      },
+      "vitamin_d": {
+        "value": 0,
+        "measurement": "mcg",
+        "sources": []
+      },
+      "vitamin_a": {
+        "value": 0,
+        "measurement": "mcg",
+        "sources": []
+      },
+      "iron": {
+        "value": 0.05,
+        "measurement": "mg",
+        "sources": []
+      },
+      "calcium": {
+        "value": 110,
+        "measurement": "mg",
+        "sources": []
+      },
+      "trans_fat": {
+        "value": 0,
+        "measurement": "g",
+        "sources": []
+      },
+      "vitamin_c": {
+        "value": 0,
+        "measurement": "mg",
+        "sources": []
+      },
+      "sodium": {
+        "value": 36,
+        "measurement": "mg",
+        "sources": []
+      },
+      "zinc": {
+        "value": 0.59,
+        "measurement": "mg",
+        "sources": []
+      },
+      "vitamin_k": {
+        "value": 0,
+        "measurement": "mcg",
+        "sources": []
+      },
+      "vitamin_b12": {
+        "value": 0.56,
+        "measurement": "mcg",
+        "sources": []
+      },
+      "vitamin_e": {
+        "value": 0.01,
+        "measurement": "mg",
+        "sources": []
+      },
+      "potassium": {
+        "value": 141,
+        "measurement": "mg",
+        "sources": []
+      },
+      "thiamin": {
+        "value": 0.034,
+        "measurement": "mg",
+        "sources": []
+      }
+    }
+  },
+  {
+    "name": "Muesli",
+    "nutrients": {
+      "calories": {
+        "value": 379,
+        "measurement": "kcal",
+        "sources": []
+      },
+      "carbohydrates": {
+        "value": 65.7,
+        "measurement": "g",
+        "sources": []
+      },
+      "protein": {
+        "value": 12.1,
+        "measurement": "g",
+        "sources": []
+      },
+      "fat": {
+        "value": 7.6,
+        "measurement": "g",
+        "sources": []
+      },
+      "saturated_fat": {
+        "value": 1.2,
+        "measurement": "g",
+        "sources": []
+      },
+      "fiber": {
+        "value": 9.4,
+        "measurement": "g",
+        "sources": []
+      },
+      "vitamin_d": {
+        "value": 0,
+        "measurement": "mcg",
+        "sources": []
+      },
+      "vitamin_a": {
+        "value": 0,
+        "measurement": "mcg",
+        "sources": []
+      },
+      "iron": {
+        "value": 4.15,
+        "measurement": "mg",
+        "sources": []
+      },
+      "calcium": {
+        "value": 52,
+        "measurement": "mg",
+        "sources": []
+      },
+      "trans_fat": {
+        "value": 0,
+        "measurement": "g",
+        "sources": []
+      },
+      "vitamin_c": {
+        "value": 0,
+        "measurement": "mg",
+        "sources": []
+      },
+      "sodium": {
+        "value": 6,
+        "measurement": "mg",
+        "sources": []
+      },
+      "zinc": {
+        "value": 2.95,
+        "measurement": "mg",
+        "sources": []
+      },
+      "vitamin_k": {
+        "value": 0.8,
+        "measurement": "mcg",
+        "sources": []
+      },
+      "vitamin_b12": {
+        "value": 0,
+        "measurement": "mcg",
+        "sources": []
+      },
+      "vitamin_e": {
+        "value": 1.8,
+        "measurement": "mg",
+        "sources": []
+      },
+      "potassium": {
+        "value": 491,
+        "measurement": "mg",
+        "sources": []
+      },
+      "thiamin": {
+        "value": 0.442,
+        "measurement": "mg",
+        "sources": []
+      }
+    }
+  },
+  {
+    "name": "Baked Salmon",
+    "nutrients": {
+      "calories": {
+        "value": 206,
+        "measurement": "kcal",
+        "sources": []
+      },
+      "carbohydrates": {
+        "value": 0,
+        "measurement": "g",
+        "sources": []
+      },
+      "protein": {
+        "value": 22.1,
+        "measurement": "g",
+        "sources": []
+      },
+      "fat": {
+        "value": 12.3,
+        "measurement": "g",
+        "sources": []
+      },
+      "saturated_fat": {
+        "value": 2.6,
+        "measurement": "g",
+        "sources": []
+      },
+      "fiber": {
+        "value": 0,
+        "measurement": "g",
+        "sources": []
+      },
+      "vitamin_d": {
+        "value": 13.1,
+        "measurement": "mcg",
+        "sources": []
+      },
+      "vitamin_a": {
+        "value": 12,
+        "measurement": "mcg",
+        "sources": []
+      },
+      "iron": {
+        "value": 0.34,
+        "measurement": "mg",
+        "sources": []
+      },
+      "calcium": {
+        "value": 12,
+        "measurement": "mg",
+        "sources": []
+      },
+      "trans_fat": {
+        "value": 0,
+        "measurement": "g",
+        "sources": []
+      },
+      "vitamin_c": {
+        "value": 0,
+        "measurement": "mg",
+        "sources": []
+      },
+      "sodium": {
+        "value": 59,
+        "measurement": "mg",
+        "sources": []
+      },
+      "zinc": {
+        "value": 0.43,
+        "measurement": "mg",
+        "sources": []
+      },
+      "vitamin_k": {
+        "value": 0.1,
+        "measurement": "mcg",
+        "sources": []
+      },
+      "vitamin_b12": {
+        "value": 3.23,
+        "measurement": "mcg",
+        "sources": []
+      },
+      "vitamin_e": {
+        "value": 2.29,
+        "measurement": "mg",
+        "sources": []
+      },
+      "potassium": {
+        "value": 384,
+        "measurement": "mg",
+        "sources": []
+      },
+      "thiamin": {
+        "value": 0.214,
+        "measurement": "mg",
+        "sources": []
+      }
+    }
+  },
+  {
+    "name": "Steamed Broccoli",
+    "nutrients": {
+      "calories": {
+        "value": 55,
+        "measurement": "kcal",
+        "sources": []
+      },
+      "carbohydrates": {
+        "value": 11.2,
+        "measurement": "g",
+        "sources": []
+      },
+      "protein": {
+        "value": 4.4,
+        "measurement": "g",
+        "sources": []
+      },
+      "fat": {
+        "value": 0.6,
+        "measurement": "g",
+        "sources": []
+      },
+      "saturated_fat": {
+        "value": 0.1,
+        "measurement": "g",
+        "sources": []
+      },
+      "fiber": {
+        "value": 5.2,
+        "measurement": "g",
+        "sources": []
+      },
+      "vitamin_d": {
+        "value": 0,
+        "measurement": "mcg",
+        "sources": []
+      },
+      "vitamin_a": {
+        "value": 77,
+        "measurement": "mcg",
+        "sources": []
+      },
+      "iron": {
+        "value": 1.14,
+        "measurement": "mg",
+        "sources": []
+      },
+      "calcium": {
+        "value": 62,
+        "measurement": "mg",
+        "sources": []
+      },
+      "trans_fat": {
+        "value": 0,
+        "measurement": "g",
+        "sources": []
+      },
+      "vitamin_c": {
+        "value": 168,
+        "measurement": "mg",
+        "sources": []
+      },
+      "sodium": {
+        "value": 49,
+        "measurement": "mg",
+        "sources": []
+      },
+      "zinc": {
+        "value": 0.67,
+        "measurement": "mg",
+        "sources": []
+      },
+      "vitamin_k": {
+        "value": 220.1,
+        "measurement": "mcg",
+        "sources": []
+      },
+      "vitamin_b12": {
+        "value": 0,
+        "measurement": "mcg",
+        "sources": []
+      },
+      "vitamin_e": {
+        "value": 2.33,
+        "measurement": "mg",
+        "sources": []
+      },
+      "potassium": {
+        "value": 457,
+        "measurement": "mg",
+        "sources": []
+      },
+      "thiamin": {
+        "value": 0.105,
+        "measurement": "mg",
+        "sources": []
+      }
+    }
+  },
+  {
+    "name": "Quinoa",
+    "nutrients": {
+      "calories": {
+        "value": 120,
+        "measurement": "kcal",
+        "sources": []
+      },
+      "carbohydrates": {
+        "value": 21.3,
+        "measurement": "g",
+        "sources": []
+      },
+      "protein": {
+        "value": 4.4,
+        "measurement": "g",
+        "sources": []
+      },
+      "fat": {
+        "value": 1.9,
+        "measurement": "g",
+        "sources": []
+      },
+      "saturated_fat": {
+        "value": 0.2,
+        "measurement": "g",
+        "sources": []
+      },
+      "fiber": {
+        "value": 2.8,
+        "measurement": "g",
+        "sources": []
+      },
+      "vitamin_d": {
+        "value": 0,
+        "measurement": "mcg",
+        "sources": []
+      },
+      "vitamin_a": {
+        "value": 0,
+        "measurement": "mcg",
+        "sources": []
+      },
+      "iron": {
+        "value": 1.49,
+        "measurement": "mg",
+        "sources": []
+      },
+      "calcium": {
+        "value": 17,
+        "measurement": "mg",
+        "sources": []
+      },
+      "trans_fat": {
+        "value": 0,
+        "measurement": "g",
+        "sources": []
+      },
+      "vitamin_c": {
+        "value": 0,
+        "measurement": "mg",
+        "sources": []
+      },
+      "sodium": {
+        "value": 7,
+        "measurement": "mg",
+        "sources": []
+      },
+      "zinc": {
+        "value": 1.09,
+        "measurement": "mg",
+        "sources": []
+      },
+      "vitamin_k": {
+        "value": 0,
+        "measurement": "mcg",
+        "sources": []
+      },
+      "vitamin_b12": {
+        "value": 0,
+        "measurement": "mcg",
+        "sources": []
+      },
+      "vitamin_e": {
+        "value": 0.63,
+        "measurement": "mg",
+        "sources": []
+      },
+      "potassium": {
+        "value": 172,
+        "measurement": "mg",
+        "sources": []
+      },
+      "thiamin": {
+        "value": 0.107,
+        "measurement": "mg",
+        "sources": []
+      }
+    }
+  },
+  {
+    "name": "Side Salad",
+    "nutrients": {
+      "calories": {
+        "value": 15,
+        "measurement": "kcal",
+        "sources": []
+      },
+      "carbohydrates": {
+        "value": 3.3,
+        "measurement": "g",
+        "sources": []
+      },
+      "protein": {
+        "value": 0.9,
+        "measurement": "g",
+        "sources": []
+      },
+      "fat": {
+        "value": 0.1,
+        "measurement": "g",
+        "sources": []
+      },
+      "saturated_fat": {
+        "value": 0,
+        "measurement": "g",
+        "sources": []
+      },
+      "fiber": {
+        "value": 1.3,
+        "measurement": "g",
+        "sources": []
+      },
+      "vitamin_d": {
+        "value": 0,
+        "measurement": "mcg",
+        "sources": []
+      },
+      "vitamin_a": {
+        "value": 105,
+        "measurement": "mcg",
+        "sources": []
+      },
+      "iron": {
+        "value": 0.41,
+        "measurement": "mg",
+        "sources": []
+      },
+      "calcium": {
+        "value": 18,
+        "measurement": "mg",
+        "sources": []
+      },
+      "trans_fat": {
+        "value": 0,
+        "measurement": "g",
+        "sources": []
+      },
+      "vitamin_c": {
+        "value": 3.2,
+        "measurement": "mg",
+        "sources": []
+      },
+      "sodium": {
+        "value": 8,
+        "measurement": "mg",
+        "sources": []
+      },
+      "zinc": {
+        "value": 0.15,
+        "measurement": "mg",
+        "sources": []
+      },
+      "vitamin_k": {
+        "value": 66.3,
+        "measurement": "mcg",
+        "sources": []
+      },
+      "vitamin_b12": {
+        "value": 0,
+        "measurement": "mcg",
+        "sources": []
+      },
+      "vitamin_e": {
+        "value": 0.13,
+        "measurement": "mg",
+        "sources": []
+      },
+      "potassium": {
+        "value": 136,
+        "measurement": "mg",
+        "sources": []
+      },
+      "thiamin": {
+        "value": 0.038,
+        "measurement": "mg",
+        "sources": []
+      }
+    }
+  },
+  {
+    "name": "Pear",
+    "nutrients": {
+      "calories": {
+        "value": 57,
+        "measurement": "kcal",
+        "sources": []
+      },
+      "carbohydrates": {
+        "value": 15.2,
+        "measurement": "g",
+        "sources": []
+      },
+      "protein": {
+        "value": 0.4,
+        "measurement": "g",
+        "sources": []
+      },
+      "fat": {
+        "value": 0.1,
+        "measurement": "g",
+        "sources": []
+      },
+      "saturated_fat": {
+        "value": 0,
+        "measurement": "g",
+        "sources": []
+      },
+      "fiber": {
+        "value": 5.1,
+        "measurement": "g",
+        "sources": []
+      },
+      "vitamin_d": {
+        "value": 0,
+        "measurement": "mcg",
+        "sources": []
+      },
+      "vitamin_a": {
+        "value": 1,
+        "measurement": "mcg",
+        "sources": []
+      },
+      "iron": {
+        "value": 0.18,
+        "measurement": "mg",
+        "sources": []
+      },
+      "calcium": {
+        "value": 9,
+        "measurement": "mg",
+        "sources": []
+      },
+      "trans_fat": {
+        "value": 0,
+        "measurement": "g",
+        "sources": []
+      },
+      "vitamin_c": {
+        "value": 4.3,
+        "measurement": "mg",
+        "sources": []
+      },
+      "sodium": {
+        "value": 1,
+        "measurement": "mg",
+        "sources": []
+      },
+      "zinc": {
+        "value": 0.1,
+        "measurement": "mg",
+        "sources": []
+      },
+      "vitamin_k": {
+        "value": 4.4,
+        "measurement": "mcg",
+        "sources": []
+      },
+      "vitamin_b12": {
+        "value": 0,
+        "measurement": "mcg",
+        "sources": []
+      },
+      "vitamin_e": {
+        "value": 0.12,
+        "measurement": "mg",
+        "sources": []
+      },
+      "potassium": {
+        "value": 116,
+        "measurement": "mg",
+        "sources": []
+      },
+      "thiamin": {
+        "value": 0.012,
+        "measurement": "mg",
+        "sources": []
+      }
+    }
+  },
+  {
+    "name": "Low-fat Cheese",
+    "nutrients": {
+      "calories": {
+        "value": 72,
+        "measurement": "kcal",
+        "sources": []
+      },
+      "carbohydrates": {
+        "value": 1,
+        "measurement": "g",
+        "sources": []
+      },
+      "protein": {
+        "value": 7,
+        "measurement": "g",
+        "sources": []
+      },
+      "fat": {
+        "value": 4.5,
+        "measurement": "g",
+        "sources": []
+      },
+      "saturated_fat": {
+        "value": 2.8,
+        "measurement": "g",
+        "sources": []
+      },
+      "fiber": {
+        "value": 0,
+        "measurement": "g",
+        "sources": []
+      },
+      "vitamin_d": {
+        "value": 0.1,
+        "measurement": "mcg",
+        "sources": []
+      },
+      "vitamin_a": {
+        "value": 45,
+        "measurement": "mcg",
+        "sources": []
+      },
+      "iron": {
+        "value": 0.07,
+        "measurement": "mg",
+        "sources": []
+      },
+      "calcium": {
+        "value": 200,
+        "measurement": "mg",
+        "sources": []
+      },
+      "trans_fat": {
+        "value": 0,
+        "measurement": "g",
+        "sources": []
+      },
+      "vitamin_c": {
+        "value": 0,
+        "measurement": "mg",
+        "sources": []
+      },
+      "sodium": {
+        "value": 160,
+        "measurement": "mg",
+        "sources": []
+      },
+      "zinc": {
+        "value": 0.91,
+        "measurement": "mg",
+        "sources": []
+      },
+      "vitamin_k": {
+        "value": 0.6,
+        "measurement": "mcg",
+        "sources": []
+      },
+      "vitamin_b12": {
+        "value": 0.32,
+        "measurement": "mcg",
+        "sources": []
+      },
+      "vitamin_e": {
+        "value": 0.07,
+        "measurement": "mg",
+        "sources": []
+      },
+      "potassium": {
+        "value": 22,
+        "measurement": "mg",
+        "sources": []
+      },
+      "thiamin": {
+        "value": 0.011,
+        "measurement": "mg",
+        "sources": []
+      }
+    }
+  }
+]
