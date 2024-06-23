@@ -150,6 +150,13 @@
                     "sources": [
                         "https://www.cibdol.com/blog/1404-is-peanut-butter-high-in-omega-6-fatty-acids"
                     ]
+                },
+                "vitamin_b6": {
+                    "value": 0.551,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Peanut_Butter%2C_smooth_nutritional_value.html?size=100+g"
+                    ]
                 }
             }
         },
@@ -301,6 +308,13 @@
                     "measurement": "g",
                     "sources": [
                         "https://www.nutritionadvance.com/cottage-cheese-nutrition/"
+                    ]
+                },
+                "vitamin_b6": {
+                    "value": 0.046,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://fdc.nal.usda.gov/fdc-app.html#/food-details/172179/nutrients"
                     ]
                 }
             }
@@ -454,6 +468,13 @@
                     "sources": [
                         "https://natureclaim.com/nutrition/info/banana/"
                     ]
+                },
+                "vitamin_b6": {
+                    "value": 0.367,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Bananas%2C_raw_nutritional_value.html?size=100+g"
+                    ]
                 }
             }
         },
@@ -604,6 +625,13 @@
                     "value": 1,
                     "measurement": "g",
                     "sources": [
+                    ]
+                },
+                "vitamin_b6": {
+                    "value": 0.0,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Fish_oil%2C_cod_liver_nutritional_value.html?size=100+g"
                     ]
                 }
             }
@@ -757,8 +785,14 @@
                     "sources": [
                         "https://natureclaim.com/nutrition/info/carrot/"
                     ]
+                },
+                "vitamin_b6": {
+                    "value": 0.138,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Carrots%2C_raw_nutritional_value.html?size=100+g"
+                    ]
                 }
-
             }
         },
         {
@@ -907,6 +941,13 @@
                 "omega-6": {
                     "value": 1.21,
                     "measurement": "g",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Chocolate%2C_70-85%25_cacao_solids%2C_dark_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "vitamin_b6": {
+                    "value": 0.038,
+                    "measurement": "mg",
                     "sources": [
                         "https://www.nutritionvalue.org/Chocolate%2C_70-85%25_cacao_solids%2C_dark_nutritional_value.html?size=100+g"
                     ]
@@ -1062,6 +1103,13 @@
                     "sources": [
                         "https://hygeia-analytics.com/nutrition/organic-vs-conventional-foods/2018-grassmilk-paper/paper-faq-fatty-acid-content-of-grassmilk/"
                     ]
+                },
+                "vitamin_b6": {
+                    "value": 0.061,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Milk%2C_reduced_fat_%282%25%29_11112110_nutritional_value.html?size=100+g"
+                    ]
                 }
             }
         },
@@ -1214,6 +1262,13 @@
                     "sources": [
                         "https://www.soupersage.com/nutrition-calories-protein/kiwi"
                     ]
+                },
+                "vitamin_b6": {
+                    "value": 0.063,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Kiwifruit%2C_raw%2C_green_nutritional_value.html?size=100+g"
+                    ]
                 }
             }
         },
@@ -1360,6 +1415,12 @@
                 "omega-6": {
                     "value": 0.0,
                     "measurement": "g",
+                    "sources": [
+                    ]
+                },
+                "vitamin_b6": {
+                    "value": 0.0,
+                    "measurement": "mg",
                     "sources": [
                     ]
                 }
@@ -1514,6 +1575,12 @@
                     "sources": [
                         "https://www.soupersage.com/compare-nutrition/salmon-vs-spinach"
                     ]
+                },
+                "vitamin_b6": {
+                    "value": 0.195,
+                    "measurement": "mg",
+                    "sources": [
+                    ]
                 }
             }
         },
@@ -1665,6 +1732,13 @@
                     "measurement": "g",
                     "sources": [
                         "https://en.wikipedia.org/wiki/Fatty_acid_ratio_in_food"
+                    ]
+                },
+                "vitamin_b6": {
+                    "value": 0.137,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Nuts%2C_almonds_nutritional_value.html?size=100+g"
                     ]
                 }
             }
@@ -1818,6 +1892,13 @@
                     "sources": [
                         "https://tools.myfooddata.com/nutrition-facts/171688/100g/1"
                     ]
+                },
+                "vitamin_b6": {
+                    "value": 0.041,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Apples%2C_with_skin%2C_raw_nutritional_value.html?size=100+g"
+                    ]
                 }
             }
         },
@@ -1969,6 +2050,13 @@
                     "measurement": "g",
                     "sources": [
                         "https://blog.algaecal.com/wp-content/uploads/PDFCommonOmega3Foods.pdf"
+                    ]
+                },
+                "vitamin_b6": {
+                    "value": 0.032,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Yogurt%2C_whole_milk%2C_plain_nutritional_value.html?size=100%20g"
                     ]
                 }
             }
@@ -2122,6 +2210,13 @@
                     "sources": [
                         "https://www.matvaretabellen.no/en/strawberries-raw/"
                     ]
+                },
+                "vitamin_b6": {
+                    "value": 0.047,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Strawberries%2C_raw_nutritional_value.html?size=100+g"
+                    ]
                 }
             }
         },
@@ -2274,6 +2369,13 @@
                     "sources": [
                         "https://blog.algaecal.com/omega3-omega6-chart/"
                     ]
+                },
+                "vitamin_b6": {
+                    "value": 0.216,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Bread%2C_whole_wheat_51300110_nutritional_value.html?size=100+g"
+                    ]
                 }
             }
         },
@@ -2423,6 +2525,13 @@
                 "omega-6": {
                     "value": 0.34,
                     "measurement": "g",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Chicken%2C_raw%2C_meat_only%2C_boneless%2C_skinless%2C_breast%2C_broiler_or_fryers_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "vitamin_b6": {
+                    "value": 0.811,
+                    "measurement": "mg",
                     "sources": [
                         "https://www.nutritionvalue.org/Chicken%2C_raw%2C_meat_only%2C_boneless%2C_skinless%2C_breast%2C_broiler_or_fryers_nutritional_value.html?size=100+g"
                     ]
@@ -2578,6 +2687,13 @@
                     "sources": [
                         "https://www.nutritionvalue.org/Oil%2C_salad_or_cooking%2C_olive_nutritional_value.html?size=100%20g"
                     ]
+                },
+                "vitamin_b6": {
+                    "value": 0.0,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Oil%2C_salad_or_cooking%2C_olive_nutritional_value.html?size=100%20g"
+                    ]
                 }
             }
         },
@@ -2727,6 +2843,13 @@
                 "omega-6": {
                     "value": 0.04,
                     "measurement": "g",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Raisins%2C_seedless%2C_dark_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "vitamin_b6": {
+                    "value": 0.174,
+                    "measurement": "mg",
                     "sources": [
                         "https://www.nutritionvalue.org/Raisins%2C_seedless%2C_dark_nutritional_value.html?size=100+g"
                     ]
@@ -2882,6 +3005,13 @@
                     "sources": [
                         "https://www.nutritionvalue.org/Pasta%2C_dry%2C_whole-wheat_nutritional_value.html?size=100+g"
                     ]
+                },
+                "vitamin_b6": {
+                    "value": 0.283,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Pasta%2C_dry%2C_whole-wheat_nutritional_value.html?size=100+g"
+                    ]
                 }
             }
         },
@@ -3033,6 +3163,13 @@
                     "measurement": "g",
                     "sources": [
                         "https://en.wikipedia.org/wiki/Fatty_acid_ratio_in_food"
+                    ]
+                },
+                "vitamin_b6": {
+                    "value": 0.537,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Nuts%2C_english%2C_walnuts_nutritional_value.html?size=100%20g"
                     ]
                 }
             }
