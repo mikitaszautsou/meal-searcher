@@ -136,6 +136,20 @@
                     "sources": [
                         "https://www.nutritionvalue.org/Peanut_Butter%2C_smooth_nutritional_value.html?size=100+g#google_vignette"
                     ]
+                },
+                "omega-3": {
+                    "value": 0.01,
+                    "measurement": "g",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Peanut_Butter%2C_smooth_nutritional_value.html?size=100+g#google_vignette"
+                    ]
+                },
+                "omega-6": {
+                    "value": 17,
+                    "measurement": "g",
+                    "sources": [
+                        "https://www.cibdol.com/blog/1404-is-peanut-butter-high-in-omega-6-fatty-acids"
+                    ]
                 }
             }
         },
@@ -273,6 +287,20 @@
                     "measurement": "mg",
                     "sources": [
                         "https://www.nutritionvalue.org/Cottage_cheese_1028783_nutritional_value.html?size=100%20g"
+                    ]
+                },
+                "omega-3": {
+                    "value": 0.02,
+                    "measurement": "g",
+                    "sources": [
+                        "https://www.nutritionadvance.com/cottage-cheese-nutrition/"
+                    ]
+                },
+                "omega-6": {
+                    "value": 0.1,
+                    "measurement": "g",
+                    "sources": [
+                        "https://www.nutritionadvance.com/cottage-cheese-nutrition/"
                     ]
                 }
             }
@@ -412,6 +440,20 @@
                     "sources": [
                         "https://www.nutritionvalue.org/Bananas%2C_raw_nutritional_value.html?size=100+g"
                     ]
+                },
+                "omega-3": {
+                    "value": 0.03,
+                    "measurement": "g",
+                    "sources": [
+                        "https://natureclaim.com/nutrition/info/banana/"
+                    ]
+                },
+                "omega-6": {
+                    "value": 0.05,
+                    "measurement": "g",
+                    "sources": [
+                        "https://natureclaim.com/nutrition/info/banana/"
+                    ]
                 }
             }
         },
@@ -549,6 +591,19 @@
                     "measurement": "mg",
                     "sources": [
                         "https://www.nutritionvalue.org/Fish_oil%2C_cod_liver_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "omega-3": {
+                    "value": 18.8,
+                    "measurement": "g",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Fish_oil%2C_cod_liver_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "omega-6": {
+                    "value": 1,
+                    "measurement": "g",
+                    "sources": [
                     ]
                 }
             }
@@ -688,7 +743,22 @@
                     "sources": [
                         "https://www.nutritionvalue.org/Carrots%2C_raw_nutritional_value.html?size=100+g"
                     ]
+                },
+                "omega-3": {
+                    "value": 0.002,
+                    "measurement": "g",
+                    "sources": [
+                        "https://www.cibdol.com/blog/1416-what-vegetables-are-high-in-omega-3"
+                    ]
+                },
+                "omega-6": {
+                    "value": 0.1,
+                    "measurement": "g",
+                    "sources": [
+                        "https://natureclaim.com/nutrition/info/carrot/"
+                    ]
                 }
+
             }
         },
         {
@@ -823,6 +893,20 @@
                 "thiamin": {
                     "value": 0.034,
                     "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Chocolate%2C_70-85%25_cacao_solids%2C_dark_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "omega-3": {
+                    "value": 0.03,
+                    "measurement": "g",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Chocolate%2C_70-85%25_cacao_solids%2C_dark_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "omega-6": {
+                    "value": 1.21,
+                    "measurement": "g",
                     "sources": [
                         "https://www.nutritionvalue.org/Chocolate%2C_70-85%25_cacao_solids%2C_dark_nutritional_value.html?size=100+g"
                     ]
@@ -964,6 +1048,20 @@
                     "sources": [
                         "https://www.nutritionvalue.org/Milk%2C_reduced_fat_%282%25%29_11112110_nutritional_value.html?size=100+g"
                     ]
+                },
+                "omega-3": {
+                    "value": 0.075,
+                    "measurement": "g",
+                    "sources": [
+                        "https://biobeef.faculty.ucdavis.edu/2016/02/15/omega-3-fatty-acids-and-milk/"
+                    ]
+                },
+                "omega-6": {
+                    "value": 0.095,
+                    "measurement": "g",
+                    "sources": [
+                        "https://hygeia-analytics.com/nutrition/organic-vs-conventional-foods/2018-grassmilk-paper/paper-faq-fatty-acid-content-of-grassmilk/"
+                    ]
                 }
             }
         },
@@ -1102,6 +1200,20 @@
                     "sources": [
                         "https://www.nutritionvalue.org/Kiwifruit%2C_raw%2C_green_nutritional_value.html?size=100+g"
                     ]
+                },
+                "omega-3": {
+                    "value": 0.1,
+                    "measurement": "g",
+                    "sources": [
+                        "https://en.wikipedia.org/wiki/List_of_omega-3_fatty_acids"
+                    ]
+                },
+                "omega-6": {
+                    "value": 0.2,
+                    "measurement": "g",
+                    "sources": [
+                        "https://www.soupersage.com/nutrition-calories-protein/kiwi"
+                    ]
                 }
             }
         },
@@ -1236,6 +1348,18 @@
                 "thiamin": {
                     "value": 0,
                     "measurement": "mg",
+                    "sources": [
+                    ]
+                },
+                "omega-3": {
+                    "value": 0.0,
+                    "measurement": "g",
+                    "sources": [
+                    ]
+                },
+                "omega-6": {
+                    "value": 0.0,
+                    "measurement": "g",
                     "sources": [
                     ]
                 }
@@ -1376,6 +1500,20 @@
                     "sources": [
                         "https://www.nutritionvalue.org/Spinach%2C_raw_nutritional_value.html?size=100%20g"
                     ]
+                },
+                "omega-3": {
+                    "value": 0.138,
+                    "measurement": "g",
+                    "sources": [
+                        "https://www.soupersage.com/compare-nutrition/salmon-vs-spinach"
+                    ]
+                },
+                "omega-6": {
+                    "value": 0.026,
+                    "measurement": "g",
+                    "sources": [
+                        "https://www.soupersage.com/compare-nutrition/salmon-vs-spinach"
+                    ]
                 }
             }
         },
@@ -1513,6 +1651,20 @@
                     "measurement": "mg",
                     "sources": [
                         "https://www.nutritionvalue.org/Nuts%2C_almonds_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "omega-3": {
+                    "value": 0.003,
+                    "measurement": "g",
+                    "sources": [
+                        "https://en.wikipedia.org/wiki/Fatty_acid_ratio_in_food"
+                    ]
+                },
+                "omega-6": {
+                    "value": 12.065,
+                    "measurement": "g",
+                    "sources": [
+                        "https://en.wikipedia.org/wiki/Fatty_acid_ratio_in_food"
                     ]
                 }
             }
@@ -1652,6 +1804,20 @@
                     "sources": [
                         "https://www.nutritionvalue.org/Apples%2C_with_skin%2C_raw_nutritional_value.html?size=100+g"
                     ]
+                },
+                "omega-3": {
+                    "value": 0.0088,
+                    "measurement": "g",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Apples%2C_with_skin%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "omega-6": {
+                    "value": 0.043,
+                    "measurement": "g",
+                    "sources": [
+                        "https://tools.myfooddata.com/nutrition-facts/171688/100g/1"
+                    ]
                 }
             }
         },
@@ -1789,6 +1955,20 @@
                     "measurement": "mg",
                     "sources": [
                         "https://www.nutritionvalue.org/Yogurt%2C_whole_milk%2C_plain_nutritional_value.html?size=100%20g"
+                    ]
+                },
+                "omega-3": {
+                    "value": 0.04,
+                    "measurement": "g",
+                    "sources": [
+                        "https://blog.algaecal.com/wp-content/uploads/PDFCommonOmega3Foods.pdf"
+                    ]
+                },
+                "omega-6": {
+                    "value": 0.08,
+                    "measurement": "g",
+                    "sources": [
+                        "https://blog.algaecal.com/wp-content/uploads/PDFCommonOmega3Foods.pdf"
                     ]
                 }
             }
@@ -1928,6 +2108,20 @@
                     "sources": [
                         "https://www.nutritionvalue.org/Strawberries%2C_raw_nutritional_value.html?size=100+g"
                     ]
+                },
+                "omega-3": {
+                    "value": 0.055,
+                    "measurement": "g",
+                    "sources": [
+                        "https://www.cibdol.com/blog/1415-what-fruit-is-very-high-in-omega-3"
+                    ]
+                },
+                "omega-6": {
+                    "value": 0.090,
+                    "measurement": "g",
+                    "sources": [
+                        "https://www.matvaretabellen.no/en/strawberries-raw/"
+                    ]
                 }
             }
         },
@@ -2066,6 +2260,20 @@
                     "sources": [
                         "https://www.nutritionvalue.org/Bread%2C_whole_wheat_51300110_nutritional_value.html?size=100+g"
                     ]
+                },
+                "omega-3": {
+                    "value": 0.06,
+                    "measurement": "g",
+                    "sources": [
+                        "https://blog.algaecal.com/omega3-omega6-chart/"
+                    ]
+                },
+                "omega-6": {
+                    "value": 1,
+                    "measurement": "g",
+                    "sources": [
+                        "https://blog.algaecal.com/omega3-omega6-chart/"
+                    ]
                 }
             }
         },
@@ -2201,6 +2409,20 @@
                 "thiamin": {
                     "value": 0.094,
                     "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Chicken%2C_raw%2C_meat_only%2C_boneless%2C_skinless%2C_breast%2C_broiler_or_fryers_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "omega-3": {
+                    "value": 0.02,
+                    "measurement": "g",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Chicken%2C_raw%2C_meat_only%2C_boneless%2C_skinless%2C_breast%2C_broiler_or_fryers_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "omega-6": {
+                    "value": 0.34,
+                    "measurement": "g",
                     "sources": [
                         "https://www.nutritionvalue.org/Chicken%2C_raw%2C_meat_only%2C_boneless%2C_skinless%2C_breast%2C_broiler_or_fryers_nutritional_value.html?size=100+g"
                     ]
@@ -2342,6 +2564,20 @@
                     "sources": [
                         "https://www.nutritionvalue.org/Oil%2C_salad_or_cooking%2C_olive_nutritional_value.html?size=100%20g"
                     ]
+                },
+                "omega-3": {
+                    "value": 0.7,
+                    "measurement": "g",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Oil%2C_salad_or_cooking%2C_olive_nutritional_value.html?size=100%20g"
+                    ]
+                },
+                "omega-6": {
+                    "value": 9.8,
+                    "measurement": "g",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Oil%2C_salad_or_cooking%2C_olive_nutritional_value.html?size=100%20g"
+                    ]
                 }
             }
         },
@@ -2478,7 +2714,21 @@
                     "value": 0.106,
                     "measurement": "mg",
                     "sources": [
-                        "https://www.nutritionvalue.org/Oil%2C_salad_or_cooking%2C_olive_nutritional_value.html?size=100%20g"
+                        "https://www.nutritionvalue.org/Raisins%2C_seedless%2C_dark_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "omega-3": {
+                    "value": 0.01,
+                    "measurement": "g",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Raisins%2C_seedless%2C_dark_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "omega-6": {
+                    "value": 0.04,
+                    "measurement": "g",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Raisins%2C_seedless%2C_dark_nutritional_value.html?size=100+g"
                     ]
                 }
             }
@@ -2617,6 +2867,172 @@
                     "measurement": "mg",
                     "sources": [
                         "https://www.nutritionvalue.org/Pasta%2C_dry%2C_whole-wheat_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "omega-3": {
+                    "value": 0.07,
+                    "measurement": "g",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Pasta%2C_dry%2C_whole-wheat_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "omega-6": {
+                    "value": 1.06,
+                    "measurement": "g",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Pasta%2C_dry%2C_whole-wheat_nutritional_value.html?size=100+g"
+                    ]
+                }
+            }
+        },
+        {
+            "name": "Walnuts, Trader Joe's",
+            "nutrients": {
+                "calories": {
+                    "value": 725,
+                    "measurement": "kkal",
+                    "sources": [
+                        "Manufacturer"
+                    ]
+                },
+                "carbohydrates": {
+                    "value": 5.2,
+                    "measurement": "g",
+                    "sources": [
+                        "Manufacturer"
+                    ]
+                },
+                "protein": {
+                    "value": 17,
+                    "measurement": "g",
+                    "sources": [
+                        "Manufacturer"
+                    ]
+                },
+                "fat": {
+                    "value": 70,
+                    "measurement": "g",
+                    "sources": [
+                        "Manufacturer"
+                    ]
+                },
+                "saturated_fat": {
+                    "value": 6.2,
+                    "measurement": "g",
+                    "sources": [
+                        "Manufacturer"
+                    ]
+                },
+                "fiber": {
+                    "value": 6.7,
+                    "measurement": "g",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Nuts%2C_english%2C_walnuts_nutritional_value.html?size=100%20g"
+                    ]
+                },
+                "vitamin_d": {
+                    "value": 0.0,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Nuts%2C_english%2C_walnuts_nutritional_value.html?size=100%20g"
+                    ]
+                },
+                "vitamin_a": {
+                    "value": 1,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Nuts%2C_english%2C_walnuts_nutritional_value.html?size=100%20g"
+                    ]
+                },
+                "iron": {
+                    "value": 2.91,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Nuts%2C_english%2C_walnuts_nutritional_value.html?size=100%20g"
+                    ]
+                },
+                "calcium": {
+                    "value": 98,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Nuts%2C_english%2C_walnuts_nutritional_value.html?size=100%20gz"
+                    ]
+                },
+                "trans_fat": {
+                    "value": 0.1,
+                    "measurement": "g",
+                    "sources": [
+                        "https://fdc.nal.usda.gov/fdc-app.html#/food-details/168600/nutrients"
+                    ]
+                },
+                "vitamin_c": {
+                    "value": 1.3,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Nuts%2C_english%2C_walnuts_nutritional_value.html?size=100%20g"
+                    ]
+                },
+                "sodium": {
+                    "value": 8,
+                    "measurement": "mg",
+                    "sources": [
+                        "Manufacturer"
+                    ]
+                },
+                "zinc": {
+                    "value": 3.09,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Nuts%2C_english%2C_walnuts_nutritional_value.html?size=100%20g"
+                    ]
+                },
+                "vitamin_k": {
+                    "value": 2.7,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Nuts%2C_english%2C_walnuts_nutritional_value.html?size=100%20g"
+                    ]
+                },
+                "vitamin_b12": {
+                    "value": 0.00,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Nuts%2C_english%2C_walnuts_nutritional_value.html?size=100%20g"
+                    ]
+                },
+                "vitamin_e": {
+                    "value": 0.70,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Nuts%2C_english%2C_walnuts_nutritional_value.html?size=100%20g"
+                    ]
+                },
+                "potassium": {
+                    "value": 441,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Nuts%2C_english%2C_walnuts_nutritional_value.html?size=100%20g"
+                    ]
+                },
+                "thiamin": {
+                    "value": 0.341,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Nuts%2C_english%2C_walnuts_nutritional_value.html?size=100%20g"
+                    ]
+                },
+                "omega-3": {
+                    "value": 9.08,
+                    "measurement": "g",
+                    "sources": [
+                        "https://www.nutsforlife.com.au/resource/omega-3-fatty-acids-in-nuts/"
+                    ]
+                },
+                "omega-6": {
+                    "value": 38,
+                    "measurement": "g",
+                    "sources": [
+                        "https://en.wikipedia.org/wiki/Fatty_acid_ratio_in_food"
                     ]
                 }
             }
