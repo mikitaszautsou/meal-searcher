@@ -157,6 +157,13 @@
                     "sources": [
                         "https://www.nutritionvalue.org/Peanut_Butter%2C_smooth_nutritional_value.html?size=100+g"
                     ]
+                },
+                "folate": {
+                    "value": 35,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Peanut_Butter%2C_smooth_nutritional_value.html?size=100+g"
+                    ]
                 }
             }
         },
@@ -315,6 +322,13 @@
                     "measurement": "mg",
                     "sources": [
                         "https://fdc.nal.usda.gov/fdc-app.html#/food-details/172179/nutrients"
+                    ]
+                },
+                "folate": {
+                    "value": 12,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://fdc.nal.usda.gov/fdc-app.html#/food-details/2341159/nutrients"
                     ]
                 }
             }
@@ -475,6 +489,13 @@
                     "sources": [
                         "https://www.nutritionvalue.org/Bananas%2C_raw_nutritional_value.html?size=100+g"
                     ]
+                },
+                "folate": {
+                    "value": 20,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Bananas%2C_raw_nutritional_value.html?size=100+g"
+                    ]
                 }
             }
         },
@@ -630,6 +651,13 @@
                 "vitamin_b6": {
                     "value": 0.0,
                     "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Fish_oil%2C_cod_liver_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "folate": {
+                    "value": 0,
+                    "measurement": "mcg",
                     "sources": [
                         "https://www.nutritionvalue.org/Fish_oil%2C_cod_liver_nutritional_value.html?size=100+g"
                     ]
@@ -792,6 +820,13 @@
                     "sources": [
                         "https://www.nutritionvalue.org/Carrots%2C_raw_nutritional_value.html?size=100+g"
                     ]
+                },
+                "folate": {
+                    "value": 19,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Carrots%2C_raw_nutritional_value.html?size=100+g"
+                    ]
                 }
             }
         },
@@ -951,6 +986,13 @@
                     "sources": [
                         "https://www.nutritionvalue.org/Chocolate%2C_70-85%25_cacao_solids%2C_dark_nutritional_value.html?size=100+g"
                     ]
+                },
+                "folate": {
+                    "value": 5,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://www.whitakerschocolates.com/blogs/blog/vitamins-in-chocolate"
+                    ]
                 }
             }
         },
@@ -1107,6 +1149,13 @@
                 "vitamin_b6": {
                     "value": 0.061,
                     "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Milk%2C_reduced_fat_%282%25%29_11112110_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "folate": {
+                    "value": 2,
+                    "measurement": "mcg",
                     "sources": [
                         "https://www.nutritionvalue.org/Milk%2C_reduced_fat_%282%25%29_11112110_nutritional_value.html?size=100+g"
                     ]
@@ -1269,6 +1318,13 @@
                     "sources": [
                         "https://www.nutritionvalue.org/Kiwifruit%2C_raw%2C_green_nutritional_value.html?size=100+g"
                     ]
+                },
+                "folate": {
+                    "value": 25,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Kiwifruit%2C_raw%2C_green_nutritional_value.html?size=100+g"
+                    ]
                 }
             }
         },
@@ -1421,6 +1477,12 @@
                 "vitamin_b6": {
                     "value": 0.0,
                     "measurement": "mg",
+                    "sources": [
+                    ]
+                },
+                "folate": {
+                    "value": 0,
+                    "measurement": "mcg",
                     "sources": [
                     ]
                 }
@@ -1581,6 +1643,13 @@
                     "measurement": "mg",
                     "sources": [
                     ]
+                },
+                "folate": {
+                    "value": 194.00,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Spinach%2C_raw_nutritional_value.html?size=100%20g"
+                    ]
                 }
             }
         },
@@ -1737,6 +1806,13 @@
                 "vitamin_b6": {
                     "value": 0.137,
                     "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Nuts%2C_almonds_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "folate": {
+                    "value": 44.00,
+                    "measurement": "mcg",
                     "sources": [
                         "https://www.nutritionvalue.org/Nuts%2C_almonds_nutritional_value.html?size=100+g"
                     ]
@@ -1899,6 +1975,13 @@
                     "sources": [
                         "https://www.nutritionvalue.org/Apples%2C_with_skin%2C_raw_nutritional_value.html?size=100+g"
                     ]
+                },
+                "folate": {
+                    "value": 3.00,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Apples%2C_with_skin%2C_raw_nutritional_value.html?size=100+g"
+                    ]
                 }
             }
         },
@@ -2055,6 +2138,13 @@
                 "vitamin_b6": {
                     "value": 0.032,
                     "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Yogurt%2C_whole_milk%2C_plain_nutritional_value.html?size=100%20g"
+                    ]
+                },
+                "folate": {
+                    "value": 7.00,
+                    "measurement": "mcg",
                     "sources": [
                         "https://www.nutritionvalue.org/Yogurt%2C_whole_milk%2C_plain_nutritional_value.html?size=100%20g"
                     ]
@@ -2217,6 +2307,13 @@
                     "sources": [
                         "https://www.nutritionvalue.org/Strawberries%2C_raw_nutritional_value.html?size=100+g"
                     ]
+                },
+                "folate": {
+                    "value": 24.00,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Strawberries%2C_raw_nutritional_value.html?size=100+g"
+                    ]
                 }
             }
         },
@@ -2373,6 +2470,13 @@
                 "vitamin_b6": {
                     "value": 0.216,
                     "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Bread%2C_whole_wheat_51300110_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "folate": {
+                    "value": 42.00,
+                    "measurement": "mcg",
                     "sources": [
                         "https://www.nutritionvalue.org/Bread%2C_whole_wheat_51300110_nutritional_value.html?size=100+g"
                     ]
@@ -2535,6 +2639,13 @@
                     "sources": [
                         "https://www.nutritionvalue.org/Chicken%2C_raw%2C_meat_only%2C_boneless%2C_skinless%2C_breast%2C_broiler_or_fryers_nutritional_value.html?size=100+g"
                     ]
+                },
+                "folate": {
+                    "value": 9.00,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Chicken%2C_raw%2C_meat_only%2C_boneless%2C_skinless%2C_breast%2C_broiler_or_fryers_nutritional_value.html?size=100+g"
+                    ]
                 }
             }
         },
@@ -2691,6 +2802,13 @@
                 "vitamin_b6": {
                     "value": 0.0,
                     "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Oil%2C_salad_or_cooking%2C_olive_nutritional_value.html?size=100%20g"
+                    ]
+                },
+                "folate": {
+                    "value": 0.00,
+                    "measurement": "mcg",
                     "sources": [
                         "https://www.nutritionvalue.org/Oil%2C_salad_or_cooking%2C_olive_nutritional_value.html?size=100%20g"
                     ]
@@ -2853,6 +2971,13 @@
                     "sources": [
                         "https://www.nutritionvalue.org/Raisins%2C_seedless%2C_dark_nutritional_value.html?size=100+g"
                     ]
+                },
+                "folate": {
+                    "value": 5,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Raisins%2C_seedless%2C_dark_nutritional_value.html?size=100+g"
+                    ]
                 }
             }
         },
@@ -3009,6 +3134,13 @@
                 "vitamin_b6": {
                     "value": 0.283,
                     "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Pasta%2C_dry%2C_whole-wheat_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "folate": {
+                    "value": 69,
+                    "measurement": "mcg",
                     "sources": [
                         "https://www.nutritionvalue.org/Pasta%2C_dry%2C_whole-wheat_nutritional_value.html?size=100+g"
                     ]
@@ -3170,6 +3302,179 @@
                     "measurement": "mg",
                     "sources": [
                         "https://www.nutritionvalue.org/Nuts%2C_english%2C_walnuts_nutritional_value.html?size=100%20g"
+                    ]
+                },
+                "folate": {
+                    "value": 98,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Nuts%2C_english%2C_walnuts_nutritional_value.html?size=100%20g"
+                    ]
+                }
+            }
+        },
+        {
+            "name": "Oatmeal",
+            "nutrients": {
+                "calories": {
+                    "value": 374,
+                    "measurement": "kkal",
+                    "sources": [
+                        "Manufacturer"
+                    ]
+                },
+                "carbohydrates": {
+                    "value": 61,
+                    "measurement": "g",
+                    "sources": [
+                        "Manufacturer"
+                    ]
+                },
+                "protein": {
+                    "value": 13,
+                    "measurement": "g",
+                    "sources": [
+                        "Manufacturer"
+                    ]
+                },
+                "fat": {
+                    "value": 6.7,
+                    "measurement": "g",
+                    "sources": [
+                        "Manufacturer"
+                    ]
+                },
+                "saturated_fat": {
+                    "value": 1.3,
+                    "measurement": "g",
+                    "sources": [
+                        "Manufacturer"
+                    ]
+                },
+                "fiber": {
+                    "value": 9,
+                    "measurement": "g",
+                    "sources": [
+                        "Manufacturer"
+                    ]
+                },
+                "vitamin_d": {
+                    "value": 0.0,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Cereals%2C_Regular%2C_Instant_Oatmeal_Organic%2C_QUAKER_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "vitamin_a": {
+                    "value": 0,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Cereals%2C_Regular%2C_Instant_Oatmeal_Organic%2C_QUAKER_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "iron": {
+                    "value": 4.2,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Cereals%2C_Regular%2C_Instant_Oatmeal_Organic%2C_QUAKER_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "calcium": {
+                    "value": 52,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Cereals%2C_Regular%2C_Instant_Oatmeal_Organic%2C_QUAKER_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "trans_fat": {
+                    "value": 0.0,
+                    "measurement": "g",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Cereals%2C_Regular%2C_Instant_Oatmeal_Organic%2C_QUAKER_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "vitamin_c": {
+                    "value": 0,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Cereals%2C_Regular%2C_Instant_Oatmeal_Organic%2C_QUAKER_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "sodium": {
+                    "value": 4,
+                    "measurement": "mg",
+                    "sources": [
+                        "Manufacturer"
+                    ]
+                },
+                "zinc": {
+                    "value": 3.07,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Cereals%2C_Regular%2C_Instant_Oatmeal_Organic%2C_QUAKER_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "vitamin_k": {
+                    "value": 3,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://www.eatthismuch.com/food/nutrition/oatmeal,1112/?a=1.25%3A0"
+                    ]
+                },
+                "vitamin_b12": {
+                    "value": 0.00,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Cereals%2C_Regular%2C_Instant_Oatmeal_Organic%2C_QUAKER_nutritional_value.html?size=100+gz"
+                    ]
+                },
+                "vitamin_e": {
+                    "value": 0.47,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Cereals%2C_Regular%2C_Instant_Oatmeal_Organic%2C_QUAKER_nutritional_value.html?size=100+gz"
+                    ]
+                },
+                "potassium": {
+                    "value": 350,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Cereals%2C_Regular%2C_Instant_Oatmeal_Organic%2C_QUAKER_nutritional_value.html?size=100+gz"
+                    ]
+                },
+                "thiamin": {
+                    "value": 0.730,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Cereals%2C_Regular%2C_Instant_Oatmeal_Organic%2C_QUAKER_nutritional_value.html?size=100+gz"
+                    ]
+                },
+                "omega-3": {
+                    "value": 0.15,
+                    "measurement": "g",
+                    "sources": [
+                        "https://blog.algaecal.com/wp-content/uploads/PDFCommonOmega3Foods.pdf"
+                    ]
+                },
+                "omega-6": {
+                    "value": 2.25,
+                    "measurement": "g",
+                    "sources": [
+                        "https://blog.algaecal.com/wp-content/uploads/PDFCommonOmega3Foods.pdf"
+                    ]
+                },
+                "vitamin_b6": {
+                    "value": 0.120,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Cereals%2C_Regular%2C_Instant_Oatmeal_Organic%2C_QUAKER_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "folate": {
+                    "value": 32,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Cereals%2C_Regular%2C_Instant_Oatmeal_Organic%2C_QUAKER_nutritional_value.html?size=100+g"
                     ]
                 }
             }
