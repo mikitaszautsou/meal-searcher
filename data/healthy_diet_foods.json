@@ -164,6 +164,13 @@
                     "sources": [
                         "https://www.nutritionvalue.org/Peanut_Butter%2C_smooth_nutritional_value.html?size=100+g"
                     ]
+                },
+                "riboflavin": {
+                    "value": 0.105,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Peanut_Butter%2C_smooth_nutritional_value.html?size=100+g"
+                    ]
                 }
             }
         },
@@ -330,9 +337,17 @@
                     "sources": [
                         "https://fdc.nal.usda.gov/fdc-app.html#/food-details/2341159/nutrients"
                     ]
+                },
+                "riboflavin": {
+                    "value": 0.185,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionadvance.com/cottage-cheese-nutrition/"
+                    ]
                 }
             }
         },
+        -------
         {
             "name": "Bananas",
             "nutrients": {
