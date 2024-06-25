@@ -171,6 +171,13 @@
                     "sources": [
                         "https://www.nutritionvalue.org/Peanut_Butter%2C_smooth_nutritional_value.html?size=100+g"
                     ]
+                },
+                "niacin": {
+                    "value": 12.066,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Peanut_Butter%2C_smooth_nutritional_value.html?size=100+g"
+                    ]
                 }
             }
         },
@@ -344,6 +351,13 @@
                     "sources": [
                         "https://www.nutritionadvance.com/cottage-cheese-nutrition/"
                     ]
+                },
+                "niacin": {
+                    "value": 0.388,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Cottage_cheese_1028783_nutritional_value.html?size=100%20g"
+                    ]
                 }
             }
         },
@@ -513,6 +527,13 @@
                 },
                 "riboflavin": {
                     "value": 0.073,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Bananas%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "niacin": {
+                    "value": 0.665,
                     "measurement": "mg",
                     "sources": [
                         "https://www.nutritionvalue.org/Bananas%2C_raw_nutritional_value.html?size=100+g"
@@ -689,6 +710,13 @@
                     "sources": [
                         "https://nutrientoptimiser.com/nutritional-value-fish-oil-cod-liver/"
                     ]
+                },
+                "niacin": {
+                    "value": 0,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Fish_oil%2C_cod_liver_nutritional_value.html?size=100+g"
+                    ]
                 }
             }
         },
@@ -858,6 +886,13 @@
                 },
                 "riboflavin": {
                     "value": 0.058,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Carrots%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "niacin": {
+                    "value": 0.983,
                     "measurement": "mg",
                     "sources": [
                         "https://www.nutritionvalue.org/Carrots%2C_raw_nutritional_value.html?size=100+g"
@@ -1035,6 +1070,13 @@
                     "sources": [
                         "https://www.nutritionvalue.org/Chocolate%2C_70-85%25_cacao_solids%2C_dark_nutritional_value.html?size=100+g"
                     ]
+                },
+                "niacin": {
+                    "value": 1.054,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Chocolate%2C_70-85%25_cacao_solids%2C_dark_nutritional_value.html?size=100+g"
+                    ]
                 }
             }
         },
@@ -1204,6 +1246,13 @@
                 },
                 "riboflavin": {
                     "value": 0.078,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Milk%2C_reduced_fat_%282%25%29_11112110_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "niacin": {
+                    "value": 0.112,
                     "measurement": "mg",
                     "sources": [
                         "https://www.nutritionvalue.org/Milk%2C_reduced_fat_%282%25%29_11112110_nutritional_value.html?size=100+g"
@@ -1381,6 +1430,13 @@
                     "sources": [
                         "https://www.nutritionvalue.org/Kiwifruit%2C_raw%2C_green_nutritional_value.html?size=100+g"
                     ]
+                },
+                "niacin": {
+                    "value": 0.341,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Kiwifruit%2C_raw%2C_green_nutritional_value.html?size=100+g"
+                    ]
                 }
             }
         },
@@ -1544,6 +1600,12 @@
                 },
                 "riboflavin": {
                     "value": 0.0,
+                    "measurement": "mg",
+                    "sources": [
+                    ]
+                },
+                "niacin": {
+                    "value": 0,
                     "measurement": "mg",
                     "sources": [
                     ]
@@ -1715,6 +1777,13 @@
                 },
                 "riboflavin": {
                     "value": 0.189,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Spinach%2C_raw_nutritional_value.html?size=100%20g"
+                    ]
+                },
+                "niacin": {
+                    "value": 0.724,
                     "measurement": "mg",
                     "sources": [
                         "https://www.nutritionvalue.org/Spinach%2C_raw_nutritional_value.html?size=100%20g"
@@ -1892,6 +1961,13 @@
                     "sources": [
                         "https://www.nutritionvalue.org/Nuts%2C_almonds_nutritional_value.html?size=100+g"
                     ]
+                },
+                "niacin": {
+                    "value": 3.618,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Nuts%2C_almonds_nutritional_value.html?size=100+g"
+                    ]
                 }
             }
         },
@@ -2061,6 +2137,13 @@
                 },
                 "riboflavin": {
                     "value": 0.026,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Apples%2C_with_skin%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "niacin": {
+                    "value": 0.091,
                     "measurement": "mg",
                     "sources": [
                         "https://www.nutritionvalue.org/Apples%2C_with_skin%2C_raw_nutritional_value.html?size=100+g"
@@ -2238,6 +2321,13 @@
                     "sources": [
                         "https://www.nutritionvalue.org/Yogurt%2C_whole_milk%2C_plain_nutritional_value.html?size=100%20g"
                     ]
+                },
+                "niacin": {
+                    "value": 0.075,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Yogurt%2C_whole_milk%2C_plain_nutritional_value.html?size=100%20g"
+                    ]
                 }
             }
         },
@@ -2407,6 +2497,13 @@
                 },
                 "riboflavin": {
                     "value": 0.022,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Strawberries%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "niacin": {
+                    "value": 0.386,
                     "measurement": "mg",
                     "sources": [
                         "https://www.nutritionvalue.org/Strawberries%2C_raw_nutritional_value.html?size=100+g"
@@ -2584,6 +2681,13 @@
                     "sources": [
                         "https://www.nutritionvalue.org/Bread%2C_whole_wheat_51300110_nutritional_value.html?size=100+g"
                     ]
+                },
+                "niacin": {
+                    "value": 4.430,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Bread%2C_whole_wheat_51300110_nutritional_value.html?size=100+g"
+                    ]
                 }
             }
         },
@@ -2753,6 +2857,13 @@
                 },
                 "riboflavin": {
                     "value": 0.177,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Chicken%2C_raw%2C_meat_only%2C_boneless%2C_skinless%2C_breast%2C_broiler_or_fryers_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "niacin": {
+                    "value": 9.600,
                     "measurement": "mg",
                     "sources": [
                         "https://www.nutritionvalue.org/Chicken%2C_raw%2C_meat_only%2C_boneless%2C_skinless%2C_breast%2C_broiler_or_fryers_nutritional_value.html?size=100+g"
@@ -2930,6 +3041,13 @@
                     "sources": [
                         "https://www.nutritionvalue.org/Oil%2C_salad_or_cooking%2C_olive_nutritional_value.html?size=100%20g"
                     ]
+                },
+                "niacin": {
+                    "value": 0,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Oil%2C_salad_or_cooking%2C_olive_nutritional_value.html?size=100%20g"
+                    ]
                 }
             }
         },
@@ -3099,6 +3217,13 @@
                 },
                 "riboflavin": {
                     "value": 0.125,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Raisins%2C_seedless%2C_dark_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "niacin": {
+                    "value": 0.766,
                     "measurement": "mg",
                     "sources": [
                         "https://www.nutritionvalue.org/Raisins%2C_seedless%2C_dark_nutritional_value.html?size=100+g"
@@ -3276,6 +3401,13 @@
                     "sources": [
                         "https://www.nutritionvalue.org/Pasta%2C_dry%2C_whole-wheat_nutritional_value.html?size=100+g"
                     ]
+                },
+                "niacin": {
+                    "value": 8.691,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Pasta%2C_dry%2C_whole-wheat_nutritional_value.html?size=100+g"
+                    ]
                 }
             }
         },
@@ -3445,6 +3577,13 @@
                 },
                 "riboflavin": {
                     "value": 0.150,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Nuts%2C_english%2C_walnuts_nutritional_value.html?size=100%20g"
+                    ]
+                },
+                "niacin": {
+                    "value": 1.125,
                     "measurement": "mg",
                     "sources": [
                         "https://www.nutritionvalue.org/Nuts%2C_english%2C_walnuts_nutritional_value.html?size=100%20g"
@@ -3622,6 +3761,13 @@
                     "sources": [
                         "https://www.nutritionvalue.org/Cereals%2C_Regular%2C_Instant_Oatmeal_Organic%2C_QUAKER_nutritional_value.html?size=100+g"
                     ]
+                },
+                "niacin": {
+                    "value": 0.780,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Cereals%2C_Regular%2C_Instant_Oatmeal_Organic%2C_QUAKER_nutritional_value.html?size=100+g"
+                    ]
                 }
             }
         },
@@ -3791,6 +3937,13 @@
                 },
                 "riboflavin": {
                     "value": 0.061,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Sweet_potato%2C_unprepared%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "niacin": {
+                    "value": 0.557,
                     "measurement": "mg",
                     "sources": [
                         "https://www.nutritionvalue.org/Sweet_potato%2C_unprepared%2C_raw_nutritional_value.html?size=100+g"
