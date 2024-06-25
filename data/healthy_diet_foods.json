@@ -347,7 +347,6 @@
                 }
             }
         },
-        -------
         {
             "name": "Bananas",
             "nutrients": {
@@ -508,6 +507,13 @@
                 "folate": {
                     "value": 20,
                     "measurement": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Bananas%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "riboflavin": {
+                    "value": 0.073,
+                    "measurement": "mg",
                     "sources": [
                         "https://www.nutritionvalue.org/Bananas%2C_raw_nutritional_value.html?size=100+g"
                     ]
@@ -676,6 +682,13 @@
                     "sources": [
                         "https://www.nutritionvalue.org/Fish_oil%2C_cod_liver_nutritional_value.html?size=100+g"
                     ]
+                },
+                "riboflavin": {
+                    "value": 0.0,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://nutrientoptimiser.com/nutritional-value-fish-oil-cod-liver/"
+                    ]
                 }
             }
         },
@@ -839,6 +852,13 @@
                 "folate": {
                     "value": 19,
                     "measurement": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Carrots%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "riboflavin": {
+                    "value": 0.058,
+                    "measurement": "mg",
                     "sources": [
                         "https://www.nutritionvalue.org/Carrots%2C_raw_nutritional_value.html?size=100+g"
                     ]
@@ -1008,6 +1028,13 @@
                     "sources": [
                         "https://www.whitakerschocolates.com/blogs/blog/vitamins-in-chocolate"
                     ]
+                },
+                "riboflavin": {
+                    "value": 0.078,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Chocolate%2C_70-85%25_cacao_solids%2C_dark_nutritional_value.html?size=100+g"
+                    ]
                 }
             }
         },
@@ -1171,6 +1198,13 @@
                 "folate": {
                     "value": 2,
                     "measurement": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Milk%2C_reduced_fat_%282%25%29_11112110_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "riboflavin": {
+                    "value": 0.078,
+                    "measurement": "mg",
                     "sources": [
                         "https://www.nutritionvalue.org/Milk%2C_reduced_fat_%282%25%29_11112110_nutritional_value.html?size=100+g"
                     ]
@@ -1340,6 +1374,13 @@
                     "sources": [
                         "https://www.nutritionvalue.org/Kiwifruit%2C_raw%2C_green_nutritional_value.html?size=100+g"
                     ]
+                },
+                "riboflavin": {
+                    "value": 0.025,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Kiwifruit%2C_raw%2C_green_nutritional_value.html?size=100+g"
+                    ]
                 }
             }
         },
@@ -1498,6 +1539,12 @@
                 "folate": {
                     "value": 0,
                     "measurement": "mcg",
+                    "sources": [
+                    ]
+                },
+                "riboflavin": {
+                    "value": 0.0,
+                    "measurement": "mg",
                     "sources": [
                     ]
                 }
@@ -1662,6 +1709,13 @@
                 "folate": {
                     "value": 194.00,
                     "measurement": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Spinach%2C_raw_nutritional_value.html?size=100%20g"
+                    ]
+                },
+                "riboflavin": {
+                    "value": 0.189,
+                    "measurement": "mg",
                     "sources": [
                         "https://www.nutritionvalue.org/Spinach%2C_raw_nutritional_value.html?size=100%20g"
                     ]
@@ -1831,6 +1885,13 @@
                     "sources": [
                         "https://www.nutritionvalue.org/Nuts%2C_almonds_nutritional_value.html?size=100+g"
                     ]
+                },
+                "riboflavin": {
+                    "value": 1.138,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Nuts%2C_almonds_nutritional_value.html?size=100+g"
+                    ]
                 }
             }
         },
@@ -1997,11 +2058,18 @@
                     "sources": [
                         "https://www.nutritionvalue.org/Apples%2C_with_skin%2C_raw_nutritional_value.html?size=100+g"
                     ]
+                },
+                "riboflavin": {
+                    "value": 0.026,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Apples%2C_with_skin%2C_raw_nutritional_value.html?size=100+g"
+                    ]
                 }
             }
         },
         {
-            "name": "Joghurt",
+            "name": "Yogurt",
             "nutrients": {
                 "calories": {
                     "value": 70,
@@ -2160,6 +2228,13 @@
                 "folate": {
                     "value": 7.00,
                     "measurement": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Yogurt%2C_whole_milk%2C_plain_nutritional_value.html?size=100%20g"
+                    ]
+                },
+                "riboflavin": {
+                    "value": 0.142,
+                    "measurement": "mg",
                     "sources": [
                         "https://www.nutritionvalue.org/Yogurt%2C_whole_milk%2C_plain_nutritional_value.html?size=100%20g"
                     ]
@@ -2329,6 +2404,13 @@
                     "sources": [
                         "https://www.nutritionvalue.org/Strawberries%2C_raw_nutritional_value.html?size=100+g"
                     ]
+                },
+                "riboflavin": {
+                    "value": 0.022,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Strawberries%2C_raw_nutritional_value.html?size=100+g"
+                    ]
                 }
             }
         },
@@ -2492,6 +2574,13 @@
                 "folate": {
                     "value": 42.00,
                     "measurement": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Bread%2C_whole_wheat_51300110_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "riboflavin": {
+                    "value": 0.166,
+                    "measurement": "mg",
                     "sources": [
                         "https://www.nutritionvalue.org/Bread%2C_whole_wheat_51300110_nutritional_value.html?size=100+g"
                     ]
@@ -2661,6 +2750,13 @@
                     "sources": [
                         "https://www.nutritionvalue.org/Chicken%2C_raw%2C_meat_only%2C_boneless%2C_skinless%2C_breast%2C_broiler_or_fryers_nutritional_value.html?size=100+g"
                     ]
+                },
+                "riboflavin": {
+                    "value": 0.177,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Chicken%2C_raw%2C_meat_only%2C_boneless%2C_skinless%2C_breast%2C_broiler_or_fryers_nutritional_value.html?size=100+g"
+                    ]
                 }
             }
         },
@@ -2824,6 +2920,13 @@
                 "folate": {
                     "value": 0.00,
                     "measurement": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Oil%2C_salad_or_cooking%2C_olive_nutritional_value.html?size=100%20g"
+                    ]
+                },
+                "riboflavin": {
+                    "value": 0.0,
+                    "measurement": "mg",
                     "sources": [
                         "https://www.nutritionvalue.org/Oil%2C_salad_or_cooking%2C_olive_nutritional_value.html?size=100%20g"
                     ]
@@ -2993,6 +3096,13 @@
                     "sources": [
                         "https://www.nutritionvalue.org/Raisins%2C_seedless%2C_dark_nutritional_value.html?size=100+g"
                     ]
+                },
+                "riboflavin": {
+                    "value": 0.125,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Raisins%2C_seedless%2C_dark_nutritional_value.html?size=100+g"
+                    ]
                 }
             }
         },
@@ -3156,6 +3266,13 @@
                 "folate": {
                     "value": 69,
                     "measurement": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Pasta%2C_dry%2C_whole-wheat_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "riboflavin": {
+                    "value": 0.218,
+                    "measurement": "mg",
                     "sources": [
                         "https://www.nutritionvalue.org/Pasta%2C_dry%2C_whole-wheat_nutritional_value.html?size=100+g"
                     ]
@@ -3325,6 +3442,13 @@
                     "sources": [
                         "https://www.nutritionvalue.org/Nuts%2C_english%2C_walnuts_nutritional_value.html?size=100%20g"
                     ]
+                },
+                "riboflavin": {
+                    "value": 0.150,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Nuts%2C_english%2C_walnuts_nutritional_value.html?size=100%20g"
+                    ]
                 }
             }
         },
@@ -3490,6 +3614,186 @@
                     "measurement": "mcg",
                     "sources": [
                         "https://www.nutritionvalue.org/Cereals%2C_Regular%2C_Instant_Oatmeal_Organic%2C_QUAKER_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "riboflavin": {
+                    "value": 0.140,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Cereals%2C_Regular%2C_Instant_Oatmeal_Organic%2C_QUAKER_nutritional_value.html?size=100+g"
+                    ]
+                }
+            }
+        },
+        {
+            "name": "Potatoes",
+            "nutrients": {
+                "calories": {
+                    "value": 86,
+                    "measurement": "kkal",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Sweet_potato%2C_unprepared%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "carbohydrates": {
+                    "value": 20,
+                    "measurement": "g",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Sweet_potato%2C_unprepared%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "protein": {
+                    "value": 1.6,
+                    "measurement": "g",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Sweet_potato%2C_unprepared%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "fat": {
+                    "value": 0.1,
+                    "measurement": "g",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Sweet_potato%2C_unprepared%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "saturated_fat": {
+                    "value": 0,
+                    "measurement": "g",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Sweet_potato%2C_unprepared%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "fiber": {
+                    "value": 3,
+                    "measurement": "g",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Sweet_potato%2C_unprepared%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "vitamin_d": {
+                    "value": 0.0,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Sweet_potato%2C_unprepared%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "vitamin_a": {
+                    "value": 709.00,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Sweet_potato%2C_unprepared%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "iron": {
+                    "value": 0.61,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Sweet_potato%2C_unprepared%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "calcium": {
+                    "value": 30,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Sweet_potato%2C_unprepared%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "trans_fat": {
+                    "value": 0.0,
+                    "measurement": "g",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Sweet_potato%2C_unprepared%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "vitamin_c": {
+                    "value": 2.4,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Sweet_potato%2C_unprepared%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "sodium": {
+                    "value": 10,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionix.com/food/potatoes/100-g"
+                    ]
+                },
+                "zinc": {
+                    "value": 0.3,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Sweet_potato%2C_unprepared%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "vitamin_k": {
+                    "value": 1.8,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Sweet_potato%2C_unprepared%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "vitamin_b12": {
+                    "value": 0.00,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Sweet_potato%2C_unprepared%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "vitamin_e": {
+                    "value": 0.01,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://fdc.nal.usda.gov/fdc-app.html#/food-details/170026/nutrients"
+                    ]
+                },
+                "potassium": {
+                    "value": 337,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Sweet_potato%2C_unprepared%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "thiamin": {
+                    "value": 0.078,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Sweet_potato%2C_unprepared%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "omega-3": {
+                    "value": 0.01,
+                    "measurement": "g",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Sweet_potato%2C_unprepared%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "omega-6": {
+                    "value": 0.06,
+                    "measurement": "g",
+                    "sources": [
+                        "https://www.nutritionadvance.com/are-potatoes-healthy/"
+                    ]
+                },
+                "vitamin_b6": {
+                    "value": 0.209,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Sweet_potato%2C_unprepared%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "folate": {
+                    "value": 11,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Sweet_potato%2C_unprepared%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "riboflavin": {
+                    "value": 0.061,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Sweet_potato%2C_unprepared%2C_raw_nutritional_value.html?size=100+g"
                     ]
                 }
             }
