@@ -185,6 +185,13 @@
                     "sources": [
                         "https://www.nutritionvalue.org/Peanut_Butter%2C_smooth_nutritional_value.html?size=100+g"
                     ]
+                },
+                "iodine": {
+                    "value": 0,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Peanut_Butter%2C_smooth_nutritional_value.html?size=100+g"
+                    ]
                 }
             }
         },
@@ -371,6 +378,13 @@
                     "measurement": "mg",
                     "sources": [
                         "https://greatist.com/eat/cottage-cheese-benefits"
+                    ]
+                },
+                "iodine": {
+                    "value": 60,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://www.healthline.com/nutrition/iodine-rich-foods#TOC_TITLE_HDR_4"
                     ]
                 }
             }
@@ -559,6 +573,13 @@
                     "sources": [
                         "https://www.nutritionvalue.org/Bananas%2C_raw_nutritional_value.html?size=100+g"
                     ]
+                },
+                "iodine": {
+                    "value": 3,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://fdc.nal.usda.gov/fdc-app.html#/food-details/1105314/nutrients"
+                    ]
                 }
             }
         },
@@ -744,6 +765,13 @@
                     "measurement": "mg",
                     "sources": [
                         "https://www.nutritionvalue.org/Fish_oil%2C_cod_liver_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "iodine": {
+                    "value": 400,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://rapsol.dk/En/0315.php"
                     ]
                 }
             }
@@ -932,6 +960,13 @@
                     "sources": [
                         "https://www.nutritionvalue.org/Carrots%2C_raw_nutritional_value.html?size=100+g"
                     ]
+                },
+                "iodine": {
+                    "value": 1.4,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://www.ars.usda.gov/ARSUSERFILES/80400535/DATA/IODINE/IODINE%20DATABASE_DOCUMENTATION.PDF"
+                    ]
                 }
             }
         },
@@ -1118,6 +1153,13 @@
                     "measurement": "mg",
                     "sources": [
                         "https://www.nutritionvalue.org/Chocolate%2C_70-85%25_cacao_solids%2C_dark_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "iodine": {
+                    "value": 12,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://www.ars.usda.gov/ARSUSERFILES/80400535/DATA/IODINE/IODINE%20DATABASE_DOCUMENTATION.PDF"
                     ]
                 }
             }
@@ -1306,6 +1348,13 @@
                     "sources": [
                         "https://www.nutritionvalue.org/Milk%2C_reduced_fat_%282%25%29_11112110_nutritional_value.html?size=100+g"
                     ]
+                },
+                "iodine": {
+                    "value": 20,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://www.ars.usda.gov/ARSUSERFILES/80400535/DATA/IODINE/IODINE%20DATABASE_DOCUMENTATION.PDF"
+                    ]
                 }
             }
         },
@@ -1493,6 +1542,13 @@
                     "sources": [
                         "https://fdc.nal.usda.gov/fdc-app.html#/food-details/168153/nutrients"
                     ]
+                },
+                "iodine": {
+                    "value": 0,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://wholefoodcatalog.info/nutrient/iodine/fruits/k/"
+                    ]
                 }
             }
         },
@@ -1671,6 +1727,13 @@
                     "measurement": "mg",
                     "sources": [
                         "https://fdc.nal.usda.gov/fdc-app.html#/food-details/173468/nutrients"
+                    ]
+                },
+                "iodine": {
+                    "value": 2300,
+                    "measurement": "mcg",
+                    "sources": [
+                        "Manufacturer"
                     ]
                 }
             }
@@ -1857,6 +1920,13 @@
                     "measurement": "mg",
                     "sources": [
                         "https://www.nutritionvalue.org/Spinach%2C_raw_nutritional_value.html?size=100%20g"
+                    ]
+                },
+                "iodine": {
+                    "value": 9,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://www.ars.usda.gov/ARSUSERFILES/80400535/DATA/IODINE/IODINE%20DATABASE_DOCUMENTATION.PDF"
                     ]
                 }
             }
@@ -2045,6 +2115,13 @@
                     "sources": [
                         "https://www.nutritionvalue.org/Nuts%2C_almonds_nutritional_value.html?size=100+g"
                     ]
+                },
+                "iodine": {
+                    "value": 1,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://www.ars.usda.gov/ARSUSERFILES/80400535/DATA/IODINE/IODINE%20DATABASE_DOCUMENTATION.PDF"
+                    ]
                 }
             }
         },
@@ -2231,6 +2308,13 @@
                     "measurement": "mg",
                     "sources": [
                         "https://www.nutritionvalue.org/Apples%2C_with_skin%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "iodine": {
+                    "value": 0.1,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://www.ars.usda.gov/ARSUSERFILES/80400535/DATA/IODINE/IODINE%20DATABASE_DOCUMENTATION.PDF"
                     ]
                 }
             }
@@ -2419,6 +2503,13 @@
                     "sources": [
                         "https://www.nutritionvalue.org/Yogurt%2C_whole_milk%2C_plain_nutritional_value.html?size=100%20g"
                     ]
+                },
+                "iodine": {
+                    "value": 50,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://www.ars.usda.gov/ARSUSERFILES/80400535/DATA/IODINE/IODINE%20DATABASE_DOCUMENTATION.PDF"
+                    ]
                 }
             }
         },
@@ -2605,6 +2696,13 @@
                     "measurement": "mg",
                     "sources": [
                         "https://www.nutritionvalue.org/Strawberries%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "iodine": {
+                    "value": 0.4,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://www.ars.usda.gov/ARSUSERFILES/80400535/DATA/IODINE/IODINE%20DATABASE_DOCUMENTATION.PDF"
                     ]
                 }
             }
@@ -2793,6 +2891,13 @@
                     "sources": [
                         "https://www.nutritionvalue.org/Bread%2C_whole_wheat_51300110_nutritional_value.html?size=100+g"
                     ]
+                },
+                "iodine": {
+                    "value": 5,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://www.ars.usda.gov/ARSUSERFILES/80400535/DATA/IODINE/IODINE%20DATABASE_DOCUMENTATION.PDF"
+                    ]
                 }
             }
         },
@@ -2979,6 +3084,13 @@
                     "measurement": "mg",
                     "sources": [
                         "https://www.nutritionvalue.org/Chicken%2C_raw%2C_meat_only%2C_boneless%2C_skinless%2C_breast%2C_broiler_or_fryers_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "iodine": {
+                    "value": 7,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://www.ars.usda.gov/ARSUSERFILES/80400535/DATA/IODINE/IODINE%20DATABASE_DOCUMENTATION.PDF"
                     ]
                 }
             }
@@ -3167,6 +3279,13 @@
                     "sources": [
                         "https://www.nutritionvalue.org/Oil%2C_salad_or_cooking%2C_olive_nutritional_value.html?size=100%20g"
                     ]
+                },
+                "iodine": {
+                    "value": 0.3,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://www.ars.usda.gov/ARSUSERFILES/80400535/DATA/IODINE/IODINE%20DATABASE_DOCUMENTATION.PDF"
+                    ]
                 }
             }
         },
@@ -3353,6 +3472,13 @@
                     "measurement": "mg",
                     "sources": [
                         "https://www.nutritionvalue.org/Raisins%2C_seedless%2C_dark_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "iodine": {
+                    "value": 2.3,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://www.ars.usda.gov/ARSUSERFILES/80400535/DATA/IODINE/IODINE%20DATABASE_DOCUMENTATION.PDF"
                     ]
                 }
             }
@@ -3541,6 +3667,13 @@
                     "sources": [
                         "https://www.nutritionvalue.org/Pasta%2C_dry%2C_whole-wheat_nutritional_value.html?size=100+g"
                     ]
+                },
+                "iodine": {
+                    "value": 5,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://www.ars.usda.gov/ARSUSERFILES/80400535/DATA/IODINE/IODINE%20DATABASE_DOCUMENTATION.PDF"
+                    ]
                 }
             }
         },
@@ -3727,6 +3860,13 @@
                     "measurement": "mg",
                     "sources": [
                         "https://www.nutritionvalue.org/Nuts%2C_english%2C_walnuts_nutritional_value.html?size=100%20g"
+                    ]
+                },
+                "iodine": {
+                    "value": 0.6,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://www.ars.usda.gov/ARSUSERFILES/80400535/DATA/IODINE/IODINE%20DATABASE_DOCUMENTATION.PDF"
                     ]
                 }
             }
@@ -3915,6 +4055,13 @@
                     "sources": [
                         "https://www.nutritionvalue.org/Cereals%2C_Regular%2C_Instant_Oatmeal_Organic%2C_QUAKER_nutritional_value.html?size=100+g"
                     ]
+                },
+                "iodine": {
+                    "value": 2,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://www.ars.usda.gov/ARSUSERFILES/80400535/DATA/IODINE/IODINE%20DATABASE_DOCUMENTATION.PDF"
+                    ]
                 }
             }
         },
@@ -4101,6 +4248,13 @@
                     "measurement": "mg",
                     "sources": [
                         "https://www.nutritionvalue.org/Sweet_potato%2C_unprepared%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "iodine": {
+                    "value": 1,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://www.ars.usda.gov/ARSUSERFILES/80400535/DATA/IODINE/IODINE%20DATABASE_DOCUMENTATION.PDF"
                     ]
                 }
             }
@@ -4289,6 +4443,13 @@
                     "sources": [
                         "https://www.nutritionvalue.org/Fish%2C_raw%2C_wild%2C_Atlantic%2C_salmon_nutritional_value.html?size=100+g"
                     ]
+                },
+                "iodine": {
+                    "value": 26.2,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://www.ars.usda.gov/ARSUSERFILES/80400535/DATA/IODINE/IODINE%20DATABASE_DOCUMENTATION.PDF"
+                    ]
                 }
             }
         },
@@ -4475,6 +4636,13 @@
                     "measurement": "mg",
                     "sources": [
                         "https://www.nutritionvalue.org/Kefir%2C_LIFEWAY%2C_plain%2C_lowfat_nutritional_value.html?size=100+g#google_vignette"
+                    ]
+                },
+                "iodine": {
+                    "value": 15,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://www.checkyourfood.com/ingredients/ingredient/1845/kefir-milk"
                     ]
                 }
             }
@@ -4663,6 +4831,13 @@
                     "sources": [
                         "https://www.nutritionvalue.org/Chickpeas_%28garbanzo_beans%2C_bengal_gram%29%2C_raw%2C_mature_seeds_nutritional_value.html?size=100+g"
                     ]
+                },
+                "iodine": {
+                    "value": 0.4,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://afcd.foodstandards.gov.au/fooddetails.aspx?PFKID=F002881"
+                    ]
                 }
             }
         },
@@ -4849,6 +5024,13 @@
                     "measurement": "mg",
                     "sources": [
                         "https://www.nutritionvalue.org/Honey_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "iodine": {
+                    "value": 0.6,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://afcd.foodstandards.gov.au/fooddetails.aspx?PFKID=F002881"
                     ]
                 }
             }
