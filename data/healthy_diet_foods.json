@@ -178,6 +178,13 @@
                     "sources": [
                         "https://www.nutritionvalue.org/Peanut_Butter%2C_smooth_nutritional_value.html?size=100+g"
                     ]
+                },
+                "magnesium": {
+                    "value": 179,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Peanut_Butter%2C_smooth_nutritional_value.html?size=100+g"
+                    ]
                 }
             }
         },
@@ -357,6 +364,13 @@
                     "measurement": "mg",
                     "sources": [
                         "https://www.nutritionvalue.org/Cottage_cheese_1028783_nutritional_value.html?size=100%20g"
+                    ]
+                },
+                "magnesium": {
+                    "value": 9.5,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://greatist.com/eat/cottage-cheese-benefits"
                     ]
                 }
             }
@@ -538,6 +552,13 @@
                     "sources": [
                         "https://www.nutritionvalue.org/Bananas%2C_raw_nutritional_value.html?size=100+g"
                     ]
+                },
+                "magnesium": {
+                    "value": 27,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Bananas%2C_raw_nutritional_value.html?size=100+g"
+                    ]
                 }
             }
         },
@@ -712,6 +733,13 @@
                     ]
                 },
                 "niacin": {
+                    "value": 0,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Fish_oil%2C_cod_liver_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "magnesium": {
                     "value": 0,
                     "measurement": "mg",
                     "sources": [
@@ -897,6 +925,13 @@
                     "sources": [
                         "https://www.nutritionvalue.org/Carrots%2C_raw_nutritional_value.html?size=100+g"
                     ]
+                },
+                "magnesium": {
+                    "value": 12,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Carrots%2C_raw_nutritional_value.html?size=100+g"
+                    ]
                 }
             }
         },
@@ -1073,6 +1108,13 @@
                 },
                 "niacin": {
                     "value": 1.054,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Chocolate%2C_70-85%25_cacao_solids%2C_dark_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "magnesium": {
+                    "value": 228,
                     "measurement": "mg",
                     "sources": [
                         "https://www.nutritionvalue.org/Chocolate%2C_70-85%25_cacao_solids%2C_dark_nutritional_value.html?size=100+g"
@@ -1257,6 +1299,13 @@
                     "sources": [
                         "https://www.nutritionvalue.org/Milk%2C_reduced_fat_%282%25%29_11112110_nutritional_value.html?size=100+g"
                     ]
+                },
+                "magnesium": {
+                    "value": 12,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Milk%2C_reduced_fat_%282%25%29_11112110_nutritional_value.html?size=100+g"
+                    ]
                 }
             }
         },
@@ -1437,6 +1486,13 @@
                     "sources": [
                         "https://www.nutritionvalue.org/Kiwifruit%2C_raw%2C_green_nutritional_value.html?size=100+g"
                     ]
+                },
+                "magnesium": {
+                    "value": 17,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://fdc.nal.usda.gov/fdc-app.html#/food-details/168153/nutrients"
+                    ]
                 }
             }
         },
@@ -1608,6 +1664,13 @@
                     "value": 0,
                     "measurement": "mg",
                     "sources": [
+                    ]
+                },
+                "magnesium": {
+                    "value": 0.1,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://fdc.nal.usda.gov/fdc-app.html#/food-details/173468/nutrients"
                     ]
                 }
             }
@@ -1784,6 +1847,13 @@
                 },
                 "niacin": {
                     "value": 0.724,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Spinach%2C_raw_nutritional_value.html?size=100%20g"
+                    ]
+                },
+                "magnesium": {
+                    "value": 79,
                     "measurement": "mg",
                     "sources": [
                         "https://www.nutritionvalue.org/Spinach%2C_raw_nutritional_value.html?size=100%20g"
@@ -1968,6 +2038,13 @@
                     "sources": [
                         "https://www.nutritionvalue.org/Nuts%2C_almonds_nutritional_value.html?size=100+g"
                     ]
+                },
+                "magnesium": {
+                    "value": 270,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Nuts%2C_almonds_nutritional_value.html?size=100+g"
+                    ]
                 }
             }
         },
@@ -2144,6 +2221,13 @@
                 },
                 "niacin": {
                     "value": 0.091,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Apples%2C_with_skin%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "magnesium": {
+                    "value": 5,
                     "measurement": "mg",
                     "sources": [
                         "https://www.nutritionvalue.org/Apples%2C_with_skin%2C_raw_nutritional_value.html?size=100+g"
@@ -2328,6 +2412,13 @@
                     "sources": [
                         "https://www.nutritionvalue.org/Yogurt%2C_whole_milk%2C_plain_nutritional_value.html?size=100%20g"
                     ]
+                },
+                "magnesium": {
+                    "value": 12,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Yogurt%2C_whole_milk%2C_plain_nutritional_value.html?size=100%20g"
+                    ]
                 }
             }
         },
@@ -2504,6 +2595,13 @@
                 },
                 "niacin": {
                     "value": 0.386,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Strawberries%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "magnesium": {
+                    "value": 13,
                     "measurement": "mg",
                     "sources": [
                         "https://www.nutritionvalue.org/Strawberries%2C_raw_nutritional_value.html?size=100+g"
@@ -2688,6 +2786,13 @@
                     "sources": [
                         "https://www.nutritionvalue.org/Bread%2C_whole_wheat_51300110_nutritional_value.html?size=100+g"
                     ]
+                },
+                "magnesium": {
+                    "value": 77,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Bread%2C_whole_wheat_51300110_nutritional_value.html?size=100+g"
+                    ]
                 }
             }
         },
@@ -2868,6 +2973,13 @@
                     "sources": [
                         "https://www.nutritionvalue.org/Chicken%2C_raw%2C_meat_only%2C_boneless%2C_skinless%2C_breast%2C_broiler_or_fryers_nutritional_value.html?size=100+g"
                     ]
+                },
+                "magnesium": {
+                    "value": 28,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Chicken%2C_raw%2C_meat_only%2C_boneless%2C_skinless%2C_breast%2C_broiler_or_fryers_nutritional_value.html?size=100+g"
+                    ]
                 }
             }
         },
@@ -3043,6 +3155,13 @@
                     ]
                 },
                 "niacin": {
+                    "value": 0,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Oil%2C_salad_or_cooking%2C_olive_nutritional_value.html?size=100%20g"
+                    ]
+                },
+                "magnesium": {
                     "value": 0,
                     "measurement": "mg",
                     "sources": [
@@ -3228,6 +3347,13 @@
                     "sources": [
                         "https://www.nutritionvalue.org/Raisins%2C_seedless%2C_dark_nutritional_value.html?size=100+g"
                     ]
+                },
+                "magnesium": {
+                    "value": 36,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Raisins%2C_seedless%2C_dark_nutritional_value.html?size=100+g"
+                    ]
                 }
             }
         },
@@ -3404,6 +3530,13 @@
                 },
                 "niacin": {
                     "value": 8.691,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Pasta%2C_dry%2C_whole-wheat_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "magnesium": {
+                    "value": 128,
                     "measurement": "mg",
                     "sources": [
                         "https://www.nutritionvalue.org/Pasta%2C_dry%2C_whole-wheat_nutritional_value.html?size=100+g"
@@ -3588,6 +3721,13 @@
                     "sources": [
                         "https://www.nutritionvalue.org/Nuts%2C_english%2C_walnuts_nutritional_value.html?size=100%20g"
                     ]
+                },
+                "magnesium": {
+                    "value": 158,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Nuts%2C_english%2C_walnuts_nutritional_value.html?size=100%20g"
+                    ]
                 }
             }
         },
@@ -3764,6 +3904,13 @@
                 },
                 "niacin": {
                     "value": 0.780,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Cereals%2C_Regular%2C_Instant_Oatmeal_Organic%2C_QUAKER_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "magnesium": {
+                    "value": 148,
                     "measurement": "mg",
                     "sources": [
                         "https://www.nutritionvalue.org/Cereals%2C_Regular%2C_Instant_Oatmeal_Organic%2C_QUAKER_nutritional_value.html?size=100+g"
@@ -3947,6 +4094,761 @@
                     "measurement": "mg",
                     "sources": [
                         "https://www.nutritionvalue.org/Sweet_potato%2C_unprepared%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "magnesium": {
+                    "value": 25,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Sweet_potato%2C_unprepared%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                }
+            }
+        },
+        {
+            "name": "Salmon",
+            "nutrients": {
+                "calories": {
+                    "value": 122,
+                    "measurement": "kkal",
+                    "sources": [
+                        "Manufacturer"
+                    ]
+                },
+                "carbohydrates": {
+                    "value": 0.5,
+                    "measurement": "g",
+                    "sources": [
+                        "Manufacturer"
+                    ]
+                },
+                "protein": {
+                    "value": 21,
+                    "measurement": "g",
+                    "sources": [
+                        "Manufacturer"
+                    ]
+                },
+                "fat": {
+                    "value": 4.4,
+                    "measurement": "g",
+                    "sources": [
+                        "Manufacturer"
+                    ]
+                },
+                "saturated_fat": {
+                    "value": 0.8,
+                    "measurement": "g",
+                    "sources": [
+                        "Manufacturer"
+                    ]
+                },
+                "fiber": {
+                    "value": 0,
+                    "measurement": "g",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Fish%2C_raw%2C_wild%2C_Atlantic%2C_salmon_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "vitamin_d": {
+                    "value": 11,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://fdc.nal.usda.gov/fdc-app.html#/food-details/175167/nutrients"
+                    ]
+                },
+                "vitamin_a": {
+                    "value": 12.00,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Fish%2C_raw%2C_wild%2C_Atlantic%2C_salmon_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "iron": {
+                    "value": 0.80,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Fish%2C_raw%2C_wild%2C_Atlantic%2C_salmon_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "calcium": {
+                    "value": 12,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Fish%2C_raw%2C_wild%2C_Atlantic%2C_salmon_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "trans_fat": {
+                    "value": 0.0,
+                    "measurement": "g",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Fish%2C_raw%2C_wild%2C_Atlantic%2C_salmon_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "vitamin_c": {
+                    "value": 0,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Fish%2C_raw%2C_wild%2C_Atlantic%2C_salmon_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "sodium": {
+                    "value": 80,
+                    "measurement": "mg",
+                    "sources": [
+                        "Manufacturer"
+                    ]
+                },
+                "zinc": {
+                    "value": 0.64,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Fish%2C_raw%2C_wild%2C_Atlantic%2C_salmon_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "vitamin_k": {
+                    "value": 0.5,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://fdc.nal.usda.gov/fdc-app.html#/food-details/175167/nutrients"
+                    ]
+                },
+                "vitamin_b12": {
+                    "value": 3.18,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Fish%2C_raw%2C_wild%2C_Atlantic%2C_salmon_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "vitamin_e": {
+                    "value": 3.55,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Fish%2C_raw%2C_wild%2C_Atlantic%2C_salmon_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "potassium": {
+                    "value": 363,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://fdc.nal.usda.gov/fdc-app.html#/food-details/175167/nutrients"
+                    ]
+                },
+                "thiamin": {
+                    "value": 0.207,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://fdc.nal.usda.gov/fdc-app.html#/food-details/175167/nutrients"
+                    ]
+                },
+                "omega-3": {
+                    "value": 1.72,
+                    "measurement": "g",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Fish%2C_raw%2C_wild%2C_Atlantic%2C_salmon_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "omega-6": {
+                    "value": 0.172,
+                    "measurement": "g",
+                    "sources": [
+                        "https://en.wikipedia.org/wiki/Fatty_acid_ratio_in_food"
+                    ]
+                },
+                "vitamin_b6": {
+                    "value": 0.818,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Fish%2C_raw%2C_wild%2C_Atlantic%2C_salmon_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "folate": {
+                    "value": 25,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Fish%2C_raw%2C_wild%2C_Atlantic%2C_salmon_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "riboflavin": {
+                    "value": 0.380,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Fish%2C_raw%2C_wild%2C_Atlantic%2C_salmon_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "niacin": {
+                    "value": 7.860,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Fish%2C_raw%2C_wild%2C_Atlantic%2C_salmon_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "magnesium": {
+                    "value": 29,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Fish%2C_raw%2C_wild%2C_Atlantic%2C_salmon_nutritional_value.html?size=100+g"
+                    ]
+                }
+            }
+        },
+        {
+            "name": "Kefir",
+            "nutrients": {
+                "calories": {
+                    "value": 43,
+                    "measurement": "kkal",
+                    "sources": [
+                        "Manufacturer"
+                    ]
+                },
+                "carbohydrates": {
+                    "value": 4.3,
+                    "measurement": "g",
+                    "sources": [
+                        "Manufacturer"
+                    ]
+                },
+                "protein": {
+                    "value": 3.2,
+                    "measurement": "g",
+                    "sources": [
+                        "Manufacturer"
+                    ]
+                },
+                "fat": {
+                    "value": 1.5,
+                    "measurement": "g",
+                    "sources": [
+                        "Manufacturer"
+                    ]
+                },
+                "saturated_fat": {
+                    "value": 1.0,
+                    "measurement": "g",
+                    "sources": [
+                        "Manufacturer"
+                    ]
+                },
+                "fiber": {
+                    "value": 0,
+                    "measurement": "g",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Kefir%2C_LIFEWAY%2C_plain%2C_lowfat_nutritional_value.html?size=100+g#google_vignette"
+                    ]
+                },
+                "vitamin_d": {
+                    "value": 0.1,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Kefir%2C_LIFEWAY%2C_plain%2C_lowfat_nutritional_value.html?size=100+g#google_vignette"
+                    ]
+                },
+                "vitamin_a": {
+                    "value": 60.00,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Kefir%2C_LIFEWAY%2C_plain%2C_lowfat_nutritional_value.html?size=100+g#google_vignette"
+                    ]
+                },
+                "iron": {
+                    "value": 0.04,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Kefir%2C_LIFEWAY%2C_plain%2C_lowfat_nutritional_value.html?size=100+g#google_vignette"
+                    ]
+                },
+                "calcium": {
+                    "value": 130.00,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Kefir%2C_LIFEWAY%2C_plain%2C_lowfat_nutritional_value.html?size=100+g#google_vignette"
+                    ]
+                },
+                "trans_fat": {
+                    "value": 0.037,
+                    "measurement": "g",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Kefir%2C_LIFEWAY%2C_plain%2C_lowfat_nutritional_value.html?size=100+g#google_vignette"
+                    ]
+                },
+                "vitamin_c": {
+                    "value": 0.2,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Kefir%2C_LIFEWAY%2C_plain%2C_lowfat_nutritional_value.html?size=100+g#google_vignette"
+                    ]
+                },
+                "sodium": {
+                    "value": 40,
+                    "measurement": "mg",
+                    "sources": [
+                        "Manufacturer"
+                    ]
+                },
+                "zinc": {
+                    "value": 0.46,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Kefir%2C_LIFEWAY%2C_plain%2C_lowfat_nutritional_value.html?size=100+g#google_vignette"
+                    ]
+                },
+                "vitamin_k": {
+                    "value": 0.1,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Kefir%2C_LIFEWAY%2C_plain%2C_lowfat_nutritional_value.html?size=100+g#google_vignette"
+                    ]
+                },
+                "vitamin_b12": {
+                    "value": 0.29,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Kefir%2C_LIFEWAY%2C_plain%2C_lowfat_nutritional_value.html?size=100+g#google_vignette"
+                    ]
+                },
+                "vitamin_e": {
+                    "value": 0.02,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Kefir%2C_LIFEWAY%2C_plain%2C_lowfat_nutritional_value.html?size=100+g#google_vignette"
+                    ]
+                },
+                "potassium": {
+                    "value": 164,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Kefir%2C_LIFEWAY%2C_plain%2C_lowfat_nutritional_value.html?size=100+g#google_vignette"
+                    ]
+                },
+                "thiamin": {
+                    "value": 0.030,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Kefir%2C_LIFEWAY%2C_plain%2C_lowfat_nutritional_value.html?size=100+g#google_vignette"
+                    ]
+                },
+                "omega-3": {
+                    "value": 0.006,
+                    "measurement": "g",
+                    "sources": [
+                        "https://tools.myfooddata.com/nutrition-facts/781102/100g/1"
+                    ]
+                },
+                "omega-6": {
+                    "value": 0.038,
+                    "measurement": "g",
+                    "sources": [
+                        "https://tools.myfooddata.com/nutrition-facts/781102/100g/1"
+                    ]
+                },
+                "vitamin_b6": {
+                    "value": 0.058,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Kefir%2C_LIFEWAY%2C_plain%2C_lowfat_nutritional_value.html?size=100+g#google_vignette"
+                    ]
+                },
+                "folate": {
+                    "value": 13,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Kefir%2C_LIFEWAY%2C_plain%2C_lowfat_nutritional_value.html?size=100+g#google_vignette"
+                    ]
+                },
+                "riboflavin": {
+                    "value": 0.135,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Kefir%2C_LIFEWAY%2C_plain%2C_lowfat_nutritional_value.html?size=100+g#google_vignette"
+                    ]
+                },
+                "niacin": {
+                    "value": 0.150,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Kefir%2C_LIFEWAY%2C_plain%2C_lowfat_nutritional_value.html?size=100+g#google_vignette"
+                    ]
+                },
+                "magnesium": {
+                    "value": 12,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Kefir%2C_LIFEWAY%2C_plain%2C_lowfat_nutritional_value.html?size=100+g#google_vignette"
+                    ]
+                }
+            }
+        },
+        {
+            "name": "Chickpea",
+            "nutrients": {
+                "calories": {
+                    "value": 342,
+                    "measurement": "kkal",
+                    "sources": [
+                        "Manufacturer"
+                    ]
+                },
+                "carbohydrates": {
+                    "value": 45,
+                    "measurement": "g",
+                    "sources": [
+                        "Manufacturer"
+                    ]
+                },
+                "protein": {
+                    "value": 18.6,
+                    "measurement": "g",
+                    "sources": [
+                        "Manufacturer"
+                    ]
+                },
+                "fat": {
+                    "value": 6.2,
+                    "measurement": "g",
+                    "sources": [
+                        "Manufacturer"
+                    ]
+                },
+                "saturated_fat": {
+                    "value": 0.8,
+                    "measurement": "g",
+                    "sources": [
+                        "Manufacturer"
+                    ]
+                },
+                "fiber": {
+                    "value": 15.7,
+                    "measurement": "g",
+                    "sources": [
+                        "Manufacturer"
+                    ]
+                },
+                "vitamin_d": {
+                    "value": 0.0,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Chickpeas_%28garbanzo_beans%2C_bengal_gram%29%2C_raw%2C_mature_seeds_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "vitamin_a": {
+                    "value": 3.00,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Chickpeas_%28garbanzo_beans%2C_bengal_gram%29%2C_raw%2C_mature_seeds_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "iron": {
+                    "value": 4.31,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Chickpeas_%28garbanzo_beans%2C_bengal_gram%29%2C_raw%2C_mature_seeds_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "calcium": {
+                    "value": 57.00,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Chickpeas_%28garbanzo_beans%2C_bengal_gram%29%2C_raw%2C_mature_seeds_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "trans_fat": {
+                    "value": 0,
+                    "measurement": "g",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Chickpeas_%28garbanzo_beans%2C_bengal_gram%29%2C_raw%2C_mature_seeds_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "vitamin_c": {
+                    "value": 4,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Chickpeas_%28garbanzo_beans%2C_bengal_gram%29%2C_raw%2C_mature_seeds_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "sodium": {
+                    "value": 4,
+                    "measurement": "mg",
+                    "sources": [
+                        "Manufacturer"
+                    ]
+                },
+                "zinc": {
+                    "value": 2.76,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Chickpeas_%28garbanzo_beans%2C_bengal_gram%29%2C_raw%2C_mature_seeds_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "vitamin_k": {
+                    "value": 9,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Chickpeas_%28garbanzo_beans%2C_bengal_gram%29%2C_raw%2C_mature_seeds_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "vitamin_b12": {
+                    "value": 0.0,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Chickpeas_%28garbanzo_beans%2C_bengal_gram%29%2C_raw%2C_mature_seeds_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "vitamin_e": {
+                    "value": 0.82,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Chickpeas_%28garbanzo_beans%2C_bengal_gram%29%2C_raw%2C_mature_seeds_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "potassium": {
+                    "value": 718,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Chickpeas_%28garbanzo_beans%2C_bengal_gram%29%2C_raw%2C_mature_seeds_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "thiamin": {
+                    "value": 0.477,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Chickpeas_%28garbanzo_beans%2C_bengal_gram%29%2C_raw%2C_mature_seeds_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "omega-3": {
+                    "value": 0.070,
+                    "measurement": "g",
+                    "sources": [
+                        "https://www.medicinenet.com/15_health_and_nutrition_benefits_of_chickpeas/article.htm"
+                    ]
+                },
+                "omega-6": {
+                    "value": 0.96,
+                    "measurement": "g",
+                    "sources": [
+                        "https://www.medicinenet.com/15_health_and_nutrition_benefits_of_chickpeas/article.htm"
+                    ]
+                },
+                "vitamin_b6": {
+                    "value": 0.535,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Chickpeas_%28garbanzo_beans%2C_bengal_gram%29%2C_raw%2C_mature_seeds_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "folate": {
+                    "value": 557,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Chickpeas_%28garbanzo_beans%2C_bengal_gram%29%2C_raw%2C_mature_seeds_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "riboflavin": {
+                    "value": 0.212,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Chickpeas_%28garbanzo_beans%2C_bengal_gram%29%2C_raw%2C_mature_seeds_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "niacin": {
+                    "value": 1.541,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Chickpeas_%28garbanzo_beans%2C_bengal_gram%29%2C_raw%2C_mature_seeds_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "magnesium": {
+                    "value": 79,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Chickpeas_%28garbanzo_beans%2C_bengal_gram%29%2C_raw%2C_mature_seeds_nutritional_value.html?size=100+g"
+                    ]
+                }
+            }
+        },
+        {
+            "name": "Honey",
+            "nutrients": {
+                "calories": {
+                    "value": 333,
+                    "measurement": "kkal",
+                    "sources": [
+                        "Manufacturer"
+                    ]
+                },
+                "carbohydrates": {
+                    "value": 83,
+                    "measurement": "g",
+                    "sources": [
+                        "Manufacturer"
+                    ]
+                },
+                "protein": {
+                    "value": 0.3,
+                    "measurement": "g",
+                    "sources": [
+                        "Manufacturer"
+                    ]
+                },
+                "fat": {
+                    "value": 0,
+                    "measurement": "g",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Honey_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "saturated_fat": {
+                    "value": 0.0,
+                    "measurement": "g",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Honey_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "fiber": {
+                    "value": 0.2,
+                    "measurement": "g",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Honey_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "vitamin_d": {
+                    "value": 0.0,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Honey_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "vitamin_a": {
+                    "value": 0,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Honey_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "iron": {
+                    "value": 0.42,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Honey_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "calcium": {
+                    "value": 6.00,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Honey_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "trans_fat": {
+                    "value": 0,
+                    "measurement": "g",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Honey_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "vitamin_c": {
+                    "value": 0.5,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Honey_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "sodium": {
+                    "value": 0,
+                    "measurement": "mg",
+                    "sources": [
+                        "Manufacturer"
+                    ]
+                },
+                "zinc": {
+                    "value": 0.22,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Honey_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "vitamin_k": {
+                    "value": 0,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Honey_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "vitamin_b12": {
+                    "value": 0.0,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Honey_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "vitamin_e": {
+                    "value": 0.00,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Honey_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "potassium": {
+                    "value": 52,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Honey_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "thiamin": {
+                    "value": 0.00,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Honey_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "omega-3": {
+                    "value": 0.000,
+                    "measurement": "g",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Honey_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "omega-6": {
+                    "value": 0.00,
+                    "measurement": "g",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Honey_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "vitamin_b6": {
+                    "value": 0.024,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Honey_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "folate": {
+                    "value": 2,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Honey_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "riboflavin": {
+                    "value": 0.038,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Honey_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "niacin": {
+                    "value": 0.121,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Honey_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "magnesium": {
+                    "value": 2,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Honey_nutritional_value.html?size=100+g"
                     ]
                 }
             }
