@@ -199,6 +199,13 @@
                     "sources": [
                         "https://fdc.nal.usda.gov/fdc-app.html#/food-details/1100559/nutrients"
                     ]
+                },
+                "copper": {
+                    "value": 420,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://fdc.nal.usda.gov/fdc-app.html#/food-details/1100559/nutrients"
+                    ]
                 }
             }
         },
@@ -396,6 +403,13 @@
                 },
                 "selenium": {
                     "value": 14.6,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://fdc.nal.usda.gov/fdc-app.html#/food-details/328841/nutrients"
+                    ]
+                },
+                "copper": {
+                    "value": 30,
                     "measurement": "mcg",
                     "sources": [
                         "https://fdc.nal.usda.gov/fdc-app.html#/food-details/328841/nutrients"
@@ -599,7 +613,14 @@
                     "value": 2.5,
                     "measurement": "mcg",
                     "sources": [
-                        "https://fdc.nal.usda.gov/fdc-app.html#/food-details/328841/nutrients"
+                        "https://fdc.nal.usda.gov/fdc-app.html#/food-details/1105314/nutrients"
+                    ]
+                },
+                "copper": {
+                    "value": 101,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://fdc.nal.usda.gov/fdc-app.html#/food-details/1105314/nutrients"
                     ]
                 }
             }
@@ -796,6 +817,13 @@
                     ]
                 },
                 "selenium": {
+                    "value": 0,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Fish_oil%2C_cod_liver_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "copper": {
                     "value": 0,
                     "measurement": "mcg",
                     "sources": [
@@ -1002,6 +1030,13 @@
                     "sources": [
                         "https://www.nutritionvalue.org/Carrots%2C_raw_nutritional_value.html?size=100+g"
                     ]
+                },
+                "copper": {
+                    "value": 40,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Carrots%2C_raw_nutritional_value.html?size=100+g"
+                    ]
                 }
             }
         },
@@ -1199,6 +1234,13 @@
                 },
                 "selenium": {
                     "value": 6.8,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Chocolate%2C_70-85%25_cacao_solids%2C_dark_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "copper": {
+                    "value": 1770,
                     "measurement": "mcg",
                     "sources": [
                         "https://www.nutritionvalue.org/Chocolate%2C_70-85%25_cacao_solids%2C_dark_nutritional_value.html?size=100+g"
@@ -1404,6 +1446,13 @@
                     "sources": [
                         "https://www.nutritionvalue.org/Milk%2C_reduced_fat_%282%25%29_11112110_nutritional_value.html?size=100+g"
                     ]
+                },
+                "copper": {
+                    "value": 0,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Milk%2C_reduced_fat_%282%25%29_11112110_nutritional_value.html?size=100+g"
+                    ]
                 }
             }
         },
@@ -1605,6 +1654,13 @@
                     "sources": [
                         "https://www.nutritionvalue.org/Kiwifruit%2C_raw%2C_green_nutritional_value.html?size=100+g"
                     ]
+                },
+                "copper": {
+                    "value": 130,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Kiwifruit%2C_raw%2C_green_nutritional_value.html?size=100+g"
+                    ]
                 }
             }
         },
@@ -1794,6 +1850,13 @@
                 },
                 "selenium": {
                     "value": 0.1,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://fdc.nal.usda.gov/fdc-app.html#/food-details/173468/nutrients"
+                    ]
+                },
+                "copper": {
+                    "value": 30,
                     "measurement": "mcg",
                     "sources": [
                         "https://fdc.nal.usda.gov/fdc-app.html#/food-details/173468/nutrients"
@@ -1994,6 +2057,13 @@
                 },
                 "selenium": {
                     "value": 1,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Spinach%2C_raw_nutritional_value.html?size=100%20g"
+                    ]
+                },
+                "copper": {
+                    "value": 130,
                     "measurement": "mcg",
                     "sources": [
                         "https://www.nutritionvalue.org/Spinach%2C_raw_nutritional_value.html?size=100%20g"
@@ -2199,6 +2269,13 @@
                     "sources": [
                         "https://www.nutritionvalue.org/Nuts%2C_almonds_nutritional_value.html?size=100+g"
                     ]
+                },
+                "copper": {
+                    "value": 1031,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Nuts%2C_almonds_nutritional_value.html?size=100+g"
+                    ]
                 }
             }
         },
@@ -2396,6 +2473,13 @@
                 },
                 "selenium": {
                     "value": 0,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Apples%2C_with_skin%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "copper": {
+                    "value": 27,
                     "measurement": "mcg",
                     "sources": [
                         "https://www.nutritionvalue.org/Apples%2C_with_skin%2C_raw_nutritional_value.html?size=100+g"
@@ -2601,6 +2685,13 @@
                     "sources": [
                         "https://www.nutritionvalue.org/Yogurt%2C_whole_milk%2C_plain_nutritional_value.html?size=100%20g"
                     ]
+                },
+                "copper": {
+                    "value": 10,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Yogurt%2C_whole_milk%2C_plain_nutritional_value.html?size=100%20g"
+                    ]
                 }
             }
         },
@@ -2798,6 +2889,13 @@
                 },
                 "selenium": {
                     "value": 0.4,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Strawberries%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "copper": {
+                    "value": 50,
                     "measurement": "mcg",
                     "sources": [
                         "https://www.nutritionvalue.org/Strawberries%2C_raw_nutritional_value.html?size=100+g"
@@ -3003,6 +3101,13 @@
                     "sources": [
                         "https://www.nutritionvalue.org/Bread%2C_whole_wheat_51300110_nutritional_value.html?size=100+g"
                     ]
+                },
+                "copper": {
+                    "value": 230,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Bread%2C_whole_wheat_51300110_nutritional_value.html?size=100+g"
+                    ]
                 }
             }
         },
@@ -3204,6 +3309,13 @@
                     "sources": [
                         "https://www.nutritionvalue.org/Chicken%2C_raw%2C_meat_only%2C_boneless%2C_skinless%2C_breast%2C_broiler_or_fryers_nutritional_value.html?size=100+g"
                     ]
+                },
+                "copper": {
+                    "value": 40,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Chicken%2C_raw%2C_meat_only%2C_boneless%2C_skinless%2C_breast%2C_broiler_or_fryers_nutritional_value.html?size=100+g"
+                    ]
                 }
             }
         },
@@ -3400,6 +3512,13 @@
                     ]
                 },
                 "selenium": {
+                    "value": 0,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Oil%2C_salad_or_cooking%2C_olive_nutritional_value.html?size=100%20g"
+                    ]
+                },
+                "copper": {
                     "value": 0,
                     "measurement": "mcg",
                     "sources": [
@@ -3606,6 +3725,13 @@
                     "sources": [
                         "https://www.nutritionvalue.org/Raisins%2C_seedless%2C_dark_nutritional_value.html?size=100+g"
                     ]
+                },
+                "copper": {
+                    "value": 270,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Raisins%2C_seedless%2C_dark_nutritional_value.html?size=100+g"
+                    ]
                 }
             }
         },
@@ -3803,6 +3929,13 @@
                 },
                 "selenium": {
                     "value": 77.6,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Pasta%2C_dry%2C_whole-wheat_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "copper": {
+                    "value": 500,
                     "measurement": "mcg",
                     "sources": [
                         "https://www.nutritionvalue.org/Pasta%2C_dry%2C_whole-wheat_nutritional_value.html?size=100+g"
@@ -4008,6 +4141,13 @@
                     "sources": [
                         "https://www.nutritionvalue.org/Nuts%2C_english%2C_walnuts_nutritional_value.html?size=100%20g"
                     ]
+                },
+                "copper": {
+                    "value": 1590,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Nuts%2C_english%2C_walnuts_nutritional_value.html?size=100%20g"
+                    ]
                 }
             }
         },
@@ -4205,6 +4345,13 @@
                 },
                 "selenium": {
                     "value": 28.9,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://fdc.nal.usda.gov/fdc-app.html#/food-details/1101825/nutrients"
+                    ]
+                },
+                "copper": {
+                    "value": 391,
                     "measurement": "mcg",
                     "sources": [
                         "https://fdc.nal.usda.gov/fdc-app.html#/food-details/1101825/nutrients"
@@ -4410,6 +4557,13 @@
                     "sources": [
                         "https://www.nutritionvalue.org/Sweet_potato%2C_unprepared%2C_raw_nutritional_value.html?size=100+g"
                     ]
+                },
+                "copper": {
+                    "value": 150,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Sweet_potato%2C_unprepared%2C_raw_nutritional_value.html?size=100+g"
+                    ]
                 }
             }
         },
@@ -4607,6 +4761,13 @@
                 },
                 "selenium": {
                     "value": 36.5,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Fish%2C_raw%2C_wild%2C_Atlantic%2C_salmon_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "copper": {
+                    "value": 250,
                     "measurement": "mcg",
                     "sources": [
                         "https://www.nutritionvalue.org/Fish%2C_raw%2C_wild%2C_Atlantic%2C_salmon_nutritional_value.html?size=100+g"
@@ -4812,6 +4973,13 @@
                     "sources": [
                         "https://www.nutritionvalue.org/Kefir%2C_LIFEWAY%2C_plain%2C_lowfat_nutritional_value.html?size=100+g#google_vignette"
                     ]
+                },
+                "copper": {
+                    "value": 10,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Kefir%2C_LIFEWAY%2C_plain%2C_lowfat_nutritional_value.html?size=100+g#google_vignette"
+                    ]
                 }
             }
         },
@@ -5013,6 +5181,13 @@
                     "sources": [
                         "https://www.nutritionvalue.org/Chickpeas_%28garbanzo_beans%2C_bengal_gram%29%2C_raw%2C_mature_seeds_nutritional_value.html?size=100+g"
                     ]
+                },
+                "copper": {
+                    "value": 656,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Chickpeas_%28garbanzo_beans%2C_bengal_gram%29%2C_raw%2C_mature_seeds_nutritional_value.html?size=100+g"
+                    ]
                 }
             }
         },
@@ -5210,6 +5385,13 @@
                 },
                 "selenium": {
                     "value": 0.8,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Honey_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "copper": {
+                    "value": 40,
                     "measurement": "mcg",
                     "sources": [
                         "https://www.nutritionvalue.org/Honey_nutritional_value.html?size=100+g"
