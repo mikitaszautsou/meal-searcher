@@ -5398,6 +5398,214 @@
                     ]
                 }
             }
+        },
+        {
+            "name": "Blueberries",
+            "nutrients": {
+                "calories": {
+                    "value": 57,
+                    "measurement": "kkal",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Blueberries%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "carbohydrates": {
+                    "value": 14,
+                    "measurement": "g",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Blueberries%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "protein": {
+                    "value": 0.7,
+                    "measurement": "g",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Blueberries%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "fat": {
+                    "value": 0.3,
+                    "measurement": "g",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Blueberries%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "saturated_fat": {
+                    "value": 0.03,
+                    "measurement": "g",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Blueberries%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "fiber": {
+                    "value": 2.4,
+                    "measurement": "g",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Blueberries%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "vitamin_d": {
+                    "value": 0.0,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Blueberries%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "vitamin_a": {
+                    "value": 3,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Blueberries%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "iron": {
+                    "value": 0.28,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Blueberries%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "calcium": {
+                    "value": 6.00,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Blueberries%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "trans_fat": {
+                    "value": 0,
+                    "measurement": "g",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Blueberries%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "vitamin_c": {
+                    "value": 9.7,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Blueberries%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "sodium": {
+                    "value": 1,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Blueberries%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "zinc": {
+                    "value": 0.16,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Blueberries%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "vitamin_k": {
+                    "value": 19.3,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Blueberries%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "vitamin_b12": {
+                    "value": 0.0,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Blueberries%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "vitamin_e": {
+                    "value": 0.57,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Blueberries%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "potassium": {
+                    "value": 77,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Blueberries%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "thiamin": {
+                    "value": 0.037,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Blueberries%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "omega-3": {
+                    "value": 0.06,
+                    "measurement": "g",
+                    "sources": [
+                        "https://natureclaim.com/nutrition/info/blueberry/"
+                    ]
+                },
+                "omega-6": {
+                    "value": 0.09,
+                    "measurement": "g",
+                    "sources": [
+                        "https://natureclaim.com/nutrition/info/blueberry/"
+                    ]
+                },
+                "vitamin_b6": {
+                    "value": 0.052,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Blueberries%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "folate": {
+                    "value": 6,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Blueberries%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "riboflavin": {
+                    "value": 0.041,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Blueberries%2C_raw_nutritional_value.html?size=100+gz"
+                    ]
+                },
+                "niacin": {
+                    "value": 0.418,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Blueberries%2C_raw_nutritional_value.html?size=100+gz"
+                    ]
+                },
+                "magnesium": {
+                    "value": 6,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Blueberries%2C_raw_nutritional_value.html?size=100+gz"
+                    ]
+                },
+                "iodine": {
+                    "value": 0.0,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Blueberries%2C_raw_nutritional_value.html?size=100+gz"
+                    ]
+                },
+                "selenium": {
+                    "value": 0.1,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Blueberries%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "copper": {
+                    "value": 0.06,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Blueberries%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                }
+            }
         }
     ]
 }
