@@ -206,6 +206,13 @@
                     "sources": [
                         "https://fdc.nal.usda.gov/fdc-app.html#/food-details/1100559/nutrients"
                     ]
+                },
+                "phosphorus": {
+                    "value": 339,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://fdc.nal.usda.gov/fdc-app.html#/food-details/1100559/nutrients"
+                    ]
                 }
             }
         },
@@ -411,6 +418,13 @@
                 "copper": {
                     "value": 30,
                     "measurement": "mcg",
+                    "sources": [
+                        "https://fdc.nal.usda.gov/fdc-app.html#/food-details/328841/nutrients"
+                    ]
+                },
+                "phosphorus": {
+                    "value": 148,
+                    "measurement": "mg",
                     "sources": [
                         "https://fdc.nal.usda.gov/fdc-app.html#/food-details/328841/nutrients"
                     ]
@@ -622,6 +636,13 @@
                     "sources": [
                         "https://fdc.nal.usda.gov/fdc-app.html#/food-details/1105314/nutrients"
                     ]
+                },
+                "phosphorus": {
+                    "value": 22,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://fdc.nal.usda.gov/fdc-app.html#/food-details/328841/nutrients"
+                    ]
                 }
             }
         },
@@ -826,6 +847,13 @@
                 "copper": {
                     "value": 0,
                     "measurement": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Fish_oil%2C_cod_liver_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "phosphorus": {
+                    "value": 0,
+                    "measurement": "mg",
                     "sources": [
                         "https://www.nutritionvalue.org/Fish_oil%2C_cod_liver_nutritional_value.html?size=100+g"
                     ]
@@ -1037,6 +1065,13 @@
                     "sources": [
                         "https://www.nutritionvalue.org/Carrots%2C_raw_nutritional_value.html?size=100+g"
                     ]
+                },
+                "phosphorus": {
+                    "value": 35,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Carrots%2C_raw_nutritional_value.html?size=100+g"
+                    ]
                 }
             }
         },
@@ -1242,6 +1277,13 @@
                 "copper": {
                     "value": 1770,
                     "measurement": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Chocolate%2C_70-85%25_cacao_solids%2C_dark_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "phosphorus": {
+                    "value": 308,
+                    "measurement": "mg",
                     "sources": [
                         "https://www.nutritionvalue.org/Chocolate%2C_70-85%25_cacao_solids%2C_dark_nutritional_value.html?size=100+g"
                     ]
@@ -1453,6 +1495,13 @@
                     "sources": [
                         "https://www.nutritionvalue.org/Milk%2C_reduced_fat_%282%25%29_11112110_nutritional_value.html?size=100+g"
                     ]
+                },
+                "phosphorus": {
+                    "value": 103,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Milk%2C_reduced_fat_%282%25%29_11112110_nutritional_value.html?size=100+g"
+                    ]
                 }
             }
         },
@@ -1661,6 +1710,13 @@
                     "sources": [
                         "https://www.nutritionvalue.org/Kiwifruit%2C_raw%2C_green_nutritional_value.html?size=100+g"
                     ]
+                },
+                "phosphorus": {
+                    "value": 34,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Kiwifruit%2C_raw%2C_green_nutritional_value.html?size=100+g"
+                    ]
                 }
             }
         },
@@ -1858,6 +1914,13 @@
                 "copper": {
                     "value": 30,
                     "measurement": "mcg",
+                    "sources": [
+                        "https://fdc.nal.usda.gov/fdc-app.html#/food-details/173468/nutrients"
+                    ]
+                },
+                "phosphorus": {
+                    "value": 0,
+                    "measurement": "mg",
                     "sources": [
                         "https://fdc.nal.usda.gov/fdc-app.html#/food-details/173468/nutrients"
                     ]
@@ -2065,6 +2128,13 @@
                 "copper": {
                     "value": 130,
                     "measurement": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Spinach%2C_raw_nutritional_value.html?size=100%20g"
+                    ]
+                },
+                "phosphorus": {
+                    "value": 49,
+                    "measurement": "mg",
                     "sources": [
                         "https://www.nutritionvalue.org/Spinach%2C_raw_nutritional_value.html?size=100%20g"
                     ]
@@ -2276,6 +2346,13 @@
                     "sources": [
                         "https://www.nutritionvalue.org/Nuts%2C_almonds_nutritional_value.html?size=100+g"
                     ]
+                },
+                "phosphorus": {
+                    "value": 481,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Nuts%2C_almonds_nutritional_value.html?size=100+g"
+                    ]
                 }
             }
         },
@@ -2481,6 +2558,13 @@
                 "copper": {
                     "value": 27,
                     "measurement": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Apples%2C_with_skin%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "phosphorus": {
+                    "value": 11,
+                    "measurement": "mg",
                     "sources": [
                         "https://www.nutritionvalue.org/Apples%2C_with_skin%2C_raw_nutritional_value.html?size=100+g"
                     ]
@@ -2692,6 +2776,13 @@
                     "sources": [
                         "https://www.nutritionvalue.org/Yogurt%2C_whole_milk%2C_plain_nutritional_value.html?size=100%20g"
                     ]
+                },
+                "phosphorus": {
+                    "value": 95,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Yogurt%2C_whole_milk%2C_plain_nutritional_value.html?size=100%20g"
+                    ]
                 }
             }
         },
@@ -2897,6 +2988,13 @@
                 "copper": {
                     "value": 50,
                     "measurement": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Strawberries%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "phosphorus": {
+                    "value": 24,
+                    "measurement": "mg",
                     "sources": [
                         "https://www.nutritionvalue.org/Strawberries%2C_raw_nutritional_value.html?size=100+g"
                     ]
@@ -3108,6 +3206,13 @@
                     "sources": [
                         "https://www.nutritionvalue.org/Bread%2C_whole_wheat_51300110_nutritional_value.html?size=100+g"
                     ]
+                },
+                "phosphorus": {
+                    "value": 212,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Bread%2C_whole_wheat_51300110_nutritional_value.html?size=100+g"
+                    ]
                 }
             }
         },
@@ -3313,6 +3418,13 @@
                 "copper": {
                     "value": 40,
                     "measurement": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Chicken%2C_raw%2C_meat_only%2C_boneless%2C_skinless%2C_breast%2C_broiler_or_fryers_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "phosphorus": {
+                    "value": 213,
+                    "measurement": "mg",
                     "sources": [
                         "https://www.nutritionvalue.org/Chicken%2C_raw%2C_meat_only%2C_boneless%2C_skinless%2C_breast%2C_broiler_or_fryers_nutritional_value.html?size=100+g"
                     ]
@@ -3524,6 +3636,13 @@
                     "sources": [
                         "https://www.nutritionvalue.org/Oil%2C_salad_or_cooking%2C_olive_nutritional_value.html?size=100%20g"
                     ]
+                },
+                "phosphorus": {
+                    "value": 213,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Oil%2C_salad_or_cooking%2C_olive_nutritional_value.html?size=100%20g"
+                    ]
                 }
             }
         },
@@ -3729,6 +3848,13 @@
                 "copper": {
                     "value": 270,
                     "measurement": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Raisins%2C_seedless%2C_dark_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "phosphorus": {
+                    "value": 98,
+                    "measurement": "mg",
                     "sources": [
                         "https://www.nutritionvalue.org/Raisins%2C_seedless%2C_dark_nutritional_value.html?size=100+g"
                     ]
@@ -3940,6 +4066,13 @@
                     "sources": [
                         "https://www.nutritionvalue.org/Pasta%2C_dry%2C_whole-wheat_nutritional_value.html?size=100+g"
                     ]
+                },
+                "phosphorus": {
+                    "value": 343,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Pasta%2C_dry%2C_whole-wheat_nutritional_value.html?size=100+g"
+                    ]
                 }
             }
         },
@@ -4145,6 +4278,13 @@
                 "copper": {
                     "value": 1590,
                     "measurement": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Nuts%2C_english%2C_walnuts_nutritional_value.html?size=100%20g"
+                    ]
+                },
+                "phosphorus": {
+                    "value": 346,
+                    "measurement": "mg",
                     "sources": [
                         "https://www.nutritionvalue.org/Nuts%2C_english%2C_walnuts_nutritional_value.html?size=100%20g"
                     ]
@@ -4356,6 +4496,13 @@
                     "sources": [
                         "https://fdc.nal.usda.gov/fdc-app.html#/food-details/1101825/nutrients"
                     ]
+                },
+                "phosphorus": {
+                    "value": 410,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://fdc.nal.usda.gov/fdc-app.html#/food-details/1101825/nutrients"
+                    ]
                 }
             }
         },
@@ -4561,6 +4708,13 @@
                 "copper": {
                     "value": 150,
                     "measurement": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Sweet_potato%2C_unprepared%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "phosphorus": {
+                    "value": 47,
+                    "measurement": "mg",
                     "sources": [
                         "https://www.nutritionvalue.org/Sweet_potato%2C_unprepared%2C_raw_nutritional_value.html?size=100+g"
                     ]
@@ -4772,6 +4926,13 @@
                     "sources": [
                         "https://www.nutritionvalue.org/Fish%2C_raw%2C_wild%2C_Atlantic%2C_salmon_nutritional_value.html?size=100+g"
                     ]
+                },
+                "phosphorus": {
+                    "value": 200,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Fish%2C_raw%2C_wild%2C_Atlantic%2C_salmon_nutritional_value.html?size=100+g"
+                    ]
                 }
             }
         },
@@ -4977,6 +5138,13 @@
                 "copper": {
                     "value": 10,
                     "measurement": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Kefir%2C_LIFEWAY%2C_plain%2C_lowfat_nutritional_value.html?size=100+g#google_vignette"
+                    ]
+                },
+                "phosphorus": {
+                    "value": 104,
+                    "measurement": "mg",
                     "sources": [
                         "https://www.nutritionvalue.org/Kefir%2C_LIFEWAY%2C_plain%2C_lowfat_nutritional_value.html?size=100+g#google_vignette"
                     ]
@@ -5188,6 +5356,13 @@
                     "sources": [
                         "https://www.nutritionvalue.org/Chickpeas_%28garbanzo_beans%2C_bengal_gram%29%2C_raw%2C_mature_seeds_nutritional_value.html?size=100+g"
                     ]
+                },
+                "phosphorus": {
+                    "value": 252,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Chickpeas_%28garbanzo_beans%2C_bengal_gram%29%2C_raw%2C_mature_seeds_nutritional_value.html?size=100+g"
+                    ]
                 }
             }
         },
@@ -5396,6 +5571,13 @@
                     "sources": [
                         "https://www.nutritionvalue.org/Honey_nutritional_value.html?size=100+g"
                     ]
+                },
+                "phosphorus": {
+                    "value": 4,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Honey_nutritional_value.html?size=100+g"
+                    ]
                 }
             }
         },
@@ -5601,6 +5783,13 @@
                 "copper": {
                     "value": 0.06,
                     "measurement": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Blueberries%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "phosphorus": {
+                    "value": 12,
+                    "measurement": "mg",
                     "sources": [
                         "https://www.nutritionvalue.org/Blueberries%2C_raw_nutritional_value.html?size=100+g"
                     ]
