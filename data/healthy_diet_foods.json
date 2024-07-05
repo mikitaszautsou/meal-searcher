@@ -5795,6 +5795,221 @@
                     ]
                 }
             }
+        },
+        {
+            "name": "Tomatoes",
+            "nutrients": {
+                "calories": {
+                    "value": 18,
+                    "measurement": "kkal",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Tomatoes%2C_year_round_average%2C_raw%2C_ripe%2C_red_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "carbohydrates": {
+                    "value": 3.89,
+                    "measurement": "g",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Tomatoes%2C_year_round_average%2C_raw%2C_ripe%2C_red_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "protein": {
+                    "value": 0.9,
+                    "measurement": "g",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Tomatoes%2C_year_round_average%2C_raw%2C_ripe%2C_red_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "fat": {
+                    "value": 0.2,
+                    "measurement": "g",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Tomatoes%2C_year_round_average%2C_raw%2C_ripe%2C_red_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "saturated_fat": {
+                    "value": 0.03,
+                    "measurement": "g",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Tomatoes%2C_year_round_average%2C_raw%2C_ripe%2C_red_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "fiber": {
+                    "value": 1.2,
+                    "measurement": "g",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Tomatoes%2C_year_round_average%2C_raw%2C_ripe%2C_red_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "vitamin_d": {
+                    "value": 0.0,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Tomatoes%2C_year_round_average%2C_raw%2C_ripe%2C_red_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "vitamin_a": {
+                    "value": 42,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://fdc.nal.usda.gov/fdc-app.html#/food-details/170457/nutrients"
+                    ]
+                },
+                "iron": {
+                    "value": 0.27,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://fdc.nal.usda.gov/fdc-app.html#/food-details/170457/nutrients"
+                    ]
+                },
+                "calcium": {
+                    "value": 10.0,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://fdc.nal.usda.gov/fdc-app.html#/food-details/170457/nutrients"
+                    ]
+                },
+                "trans_fat": {
+                    "value": 0,
+                    "measurement": "g",
+                    "sources": [
+                        "https://fdc.nal.usda.gov/fdc-app.html#/food-details/170457/nutrients"
+                    ]
+                },
+                "vitamin_c": {
+                    "value": 13.7,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://fdc.nal.usda.gov/fdc-app.html#/food-details/170457/nutrients"
+                    ]
+                },
+                "sodium": {
+                    "value": 5,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://fdc.nal.usda.gov/fdc-app.html#/food-details/170457/nutrients"
+                    ]
+                },
+                "zinc": {
+                    "value": 0.17,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://fdc.nal.usda.gov/fdc-app.html#/food-details/170457/nutrients"
+                    ]
+                },
+                "vitamin_k": {
+                    "value": 7.9,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://fdc.nal.usda.gov/fdc-app.html#/food-details/170457/nutrients"
+                    ]
+                },
+                "vitamin_b12": {
+                    "value": 0.0,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://fdc.nal.usda.gov/fdc-app.html#/food-details/170457/nutrients"
+                    ]
+                },
+                "vitamin_e": {
+                    "value": 0.54,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://fdc.nal.usda.gov/fdc-app.html#/food-details/170457/nutrients"
+                    ]
+                },
+                "potassium": {
+                    "value": 237,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://fdc.nal.usda.gov/fdc-app.html#/food-details/170457/nutrients"
+                    ]
+                },
+                "thiamin": {
+                    "value": 0.037,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://fdc.nal.usda.gov/fdc-app.html#/food-details/170457/nutrients"
+                    ]
+                },
+                "omega-3": {
+                    "value": 0.04,
+                    "measurement": "g",
+                    "sources": [
+                        "https://nutrientoptimiser.com/nutritional-value-tomatoes-red-ripe-raw-year-round-average/"
+                    ]
+                },
+                "omega-6": {
+                    "value": 0.08,
+                    "measurement": "g",
+                    "sources": [
+                        "https://www.matvaretabellen.no/en/omega-6/"
+                    ]
+                },
+                "vitamin_b6": {
+                    "value": 0.08,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://fdc.nal.usda.gov/fdc-app.html#/food-details/170457/nutrients"
+                    ]
+                },
+                "folate": {
+                    "value": 15,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://fdc.nal.usda.gov/fdc-app.html#/food-details/170457/nutrients"
+                    ]
+                },
+                "riboflavin": {
+                    "value": 0.019,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://fdc.nal.usda.gov/fdc-app.html#/food-details/170457/nutrients"
+                    ]
+                },
+                "niacin": {
+                    "value": 0.594,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://fdc.nal.usda.gov/fdc-app.html#/food-details/170457/nutrients"
+                    ]
+                },
+                "magnesium": {
+                    "value": 11,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://fdc.nal.usda.gov/fdc-app.html#/food-details/170457/nutrients"
+                    ]
+                },
+                "iodine": {
+                    "value": 0.0,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://wholefoodcatalog.info/nutrient/iodine/foods/t/"
+                    ]
+                },
+                "selenium": {
+                    "value": 0,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://fdc.nal.usda.gov/fdc-app.html#/food-details/170457/nutrients"
+                    ]
+                },
+                "copper": {
+                    "value": 0.059,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://fdc.nal.usda.gov/fdc-app.html#/food-details/170457/nutrients"
+                    ]
+                },
+                "phosphorus": {
+                    "value": 24,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://fdc.nal.usda.gov/fdc-app.html#/food-details/170457/nutrients"
+                    ]
+                }
+            }
         }
     ]
 }
