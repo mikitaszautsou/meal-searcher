@@ -3650,38 +3650,38 @@
             "name": "Raisins",
             "nutrients": {
                 "calories": {
-                    "value": 299,
+                    "value": 329,
                     "measurement": "kkal",
                     "sources": [
-                        "https://www.nutritionvalue.org/Raisins%2C_seedless%2C_dark_nutritional_value.html?size=100+g"
+                        "Manufacturer"
                     ]
                 },
                 "carbohydrates": {
-                    "value": 79,
+                    "value": 74,
                     "measurement": "g",
                     "sources": [
-                        "https://www.nutritionvalue.org/Raisins%2C_seedless%2C_dark_nutritional_value.html?size=100+g"
+                        "Manufacturer"
                     ]
                 },
                 "protein": {
-                    "value": 3.3,
+                    "value": 2.7,
                     "measurement": "g",
                     "sources": [
-                        "https://www.nutritionvalue.org/Raisins%2C_seedless%2C_dark_nutritional_value.html?size=100+g"
+                        "Manufacturer"
                     ]
                 },
                 "fat": {
-                    "value": 0.3,
+                    "value": 1.1,
                     "measurement": "g",
                     "sources": [
-                        "https://www.nutritionvalue.org/Raisins%2C_seedless%2C_dark_nutritional_value.html?size=100+g"
+                        "Manufacturer"
                     ]
                 },
                 "saturated_fat": {
-                    "value": 0.1,
+                    "value": 0.3,
                     "measurement": "g",
                     "sources": [
-                        "https://www.nutritionvalue.org/Raisins%2C_seedless%2C_dark_nutritional_value.html?size=100+g"
+                        "Manufacturer"
                     ]
                 },
                 "fiber": {
@@ -3734,10 +3734,10 @@
                     ]
                 },
                 "sodium": {
-                    "value": 26,
+                    "value": 8,
                     "measurement": "mg",
                     "sources": [
-                        "https://www.nutritionvalue.org/Raisins%2C_seedless%2C_dark_nutritional_value.html?size=100+g"
+                        "Manufacturer"
                     ]
                 },
                 "zinc": {
