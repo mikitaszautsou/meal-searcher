@@ -6010,6 +6010,221 @@
                     ]
                 }
             }
+        },
+        {
+            "name": "Coffee Nescafe Classic",
+            "nutrients": {
+                "calories": {
+                    "value": 353,
+                    "measurement": "kkal",
+                    "sources": [
+                        "https://fdc.nal.usda.gov/fdc-app.html#/food-details/171893/nutrients"
+                    ]
+                },
+                "carbohydrates": {
+                    "value": 75.4,
+                    "measurement": "g",
+                    "sources": [
+                        "https://fdc.nal.usda.gov/fdc-app.html#/food-details/171893/nutrients"
+                    ]
+                },
+                "protein": {
+                    "value": 12.2,
+                    "measurement": "g",
+                    "sources": [
+                        "https://fdc.nal.usda.gov/fdc-app.html#/food-details/171893/nutrients"
+                    ]
+                },
+                "fat": {
+                    "value": 0.5,
+                    "measurement": "g",
+                    "sources": [
+                        "https://fdc.nal.usda.gov/fdc-app.html#/food-details/171893/nutrients"
+                    ]
+                },
+                "saturated_fat": {
+                    "value": 0.197,
+                    "measurement": "g",
+                    "sources": [
+                        "https://fdc.nal.usda.gov/fdc-app.html#/food-details/171893/nutrients"
+                    ]
+                },
+                "fiber": {
+                    "value": 0,
+                    "measurement": "g",
+                    "sources": [
+                        "https://fdc.nal.usda.gov/fdc-app.html#/food-details/171893/nutrients"
+                    ]
+                },
+                "vitamin_d": {
+                    "value": 0.0,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://fdc.nal.usda.gov/fdc-app.html#/food-details/171893/nutrients"
+                    ]
+                },
+                "vitamin_a": {
+                    "value": 0,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://fdc.nal.usda.gov/fdc-app.html#/food-details/171893/nutrients"
+                    ]
+                },
+                "iron": {
+                    "value": 4.41,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://fdc.nal.usda.gov/fdc-app.html#/food-details/171893/nutrients"
+                    ]
+                },
+                "calcium": {
+                    "value": 141,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://fdc.nal.usda.gov/fdc-app.html#/food-details/171893/nutrients"
+                    ]
+                },
+                "trans_fat": {
+                    "value": 0,
+                    "measurement": "g",
+                    "sources": [
+                        "https://fdc.nal.usda.gov/fdc-app.html#/food-details/171893/nutrients"
+                    ]
+                },
+                "vitamin_c": {
+                    "value": 0,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://fdc.nal.usda.gov/fdc-app.html#/food-details/171893/nutrients"
+                    ]
+                },
+                "sodium": {
+                    "value": 37,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://fdc.nal.usda.gov/fdc-app.html#/food-details/171893/nutrients"
+                    ]
+                },
+                "zinc": {
+                    "value": 0.35,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://fdc.nal.usda.gov/fdc-app.html#/food-details/171893/nutrients"
+                    ]
+                },
+                "vitamin_k": {
+                    "value": 1.9,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://fdc.nal.usda.gov/fdc-app.html#/food-details/171893/nutrients"
+                    ]
+                },
+                "vitamin_b12": {
+                    "value": 0.0,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://fdc.nal.usda.gov/fdc-app.html#/food-details/171893/nutrients"
+                    ]
+                },
+                "vitamin_e": {
+                    "value": 0.0,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://fdc.nal.usda.gov/fdc-app.html#/food-details/171893/nutrients"
+                    ]
+                },
+                "potassium": {
+                    "value": 3540,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://fdc.nal.usda.gov/fdc-app.html#/food-details/171893/nutrients"
+                    ]
+                },
+                "thiamin": {
+                    "value": 0.008,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://fdc.nal.usda.gov/fdc-app.html#/food-details/171893/nutrients"
+                    ]
+                },
+                "omega-3": {
+                    "value": 0.00,
+                    "measurement": "g",
+                    "sources": [
+                        "https://nutrientoptimiser.com/nutritional-value-beverages-coffee-brewed-breakfast-blend/"
+                    ]
+                },
+                "omega-6": {
+                    "value": 0.00,
+                    "measurement": "g",
+                    "sources": [
+                        "https://nutrientoptimiser.com/nutritional-value-beverages-coffee-brewed-breakfast-blend/"
+                    ]
+                },
+                "vitamin_b6": {
+                    "value": 0.08,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://fdc.nal.usda.gov/fdc-app.html#/food-details/171893/nutrients"
+                    ]
+                },
+                "folate": {
+                    "value": 0.00,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://fdc.nal.usda.gov/fdc-app.html#/food-details/171893/nutrients"
+                    ]
+                },
+                "riboflavin": {
+                    "value": 0.074,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://fdc.nal.usda.gov/fdc-app.html#/food-details/171893/nutrients"
+                    ]
+                },
+                "niacin": {
+                    "value": 28.2,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://fdc.nal.usda.gov/fdc-app.html#/food-details/171893/nutrients"
+                    ]
+                },
+                "magnesium": {
+                    "value": 1.71,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://fdc.nal.usda.gov/fdc-app.html#/food-details/171893/nutrients"
+                    ]
+                },
+                "iodine": {
+                    "value": 3.0,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6073680/"
+                    ]
+                },
+                "selenium": {
+                    "value": 12.6,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://fdc.nal.usda.gov/fdc-app.html#/food-details/171893/nutrients"
+                    ]
+                },
+                "copper": {
+                    "value": 0.139,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://fdc.nal.usda.gov/fdc-app.html#/food-details/171893/nutrients"
+                    ]
+                },
+                "phosphorus": {
+                    "value": 303,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://fdc.nal.usda.gov/fdc-app.html#/food-details/171893/nutrients"
+                    ]
+                }
+            }
         }
     ]
 }
