@@ -6225,6 +6225,221 @@
                     ]
                 }
             }
+        },
+        {
+            "name": "Garlic, raw",
+            "nutrients": {
+                "calories": {
+                    "value": 149,
+                    "measurement": "kkal",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Garlic%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "carbohydrates": {
+                    "value": 33,
+                    "measurement": "g",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Garlic%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "protein": {
+                    "value": 6.4,
+                    "measurement": "g",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Garlic%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "fat": {
+                    "value": 0.5,
+                    "measurement": "g",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Garlic%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "saturated_fat": {
+                    "value": 0.089,
+                    "measurement": "g",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Garlic%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "fiber": {
+                    "value": 2.1,
+                    "measurement": "g",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Garlic%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "vitamin_d": {
+                    "value": 0.0,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Garlic%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "vitamin_a": {
+                    "value": 0,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Garlic%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "iron": {
+                    "value": 1.70,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Garlic%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "calcium": {
+                    "value": 181,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Garlic%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "trans_fat": {
+                    "value": 0,
+                    "measurement": "g",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Garlic%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "vitamin_c": {
+                    "value": 31.2,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Garlic%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "sodium": {
+                    "value": 17,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Garlic%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "zinc": {
+                    "value": 1.16,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Garlic%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "vitamin_k": {
+                    "value": 1.7,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Garlic%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "vitamin_b12": {
+                    "value": 0.0,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Garlic%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "vitamin_e": {
+                    "value": 0.08,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Garlic%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "potassium": {
+                    "value": 401,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Garlic%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "thiamin": {
+                    "value": 0.2,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Garlic%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "omega-3": {
+                    "value": 0.02,
+                    "measurement": "g",
+                    "sources": [
+                        "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4110782/"
+                    ]
+                },
+                "omega-6": {
+                    "value": 0.229,
+                    "measurement": "g",
+                    "sources": [
+                        "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4110782/"
+                    ]
+                },
+                "vitamin_b6": {
+                    "value": 1.235,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Garlic%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "folate": {
+                    "value": 3.0,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Garlic%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "riboflavin": {
+                    "value": 0.110,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Garlic%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "niacin": {
+                    "value": 0.700,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Garlic%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "magnesium": {
+                    "value": 25,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Garlic%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "iodine": {
+                    "value": 1.0,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://www.ars.usda.gov/ARSUSERFILES/80400535/DATA/IODINE/IODINE_DATABASE_RELEASE_3_PER_SERVING.PDF"
+                    ]
+                },
+                "selenium": {
+                    "value": 14.20,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Garlic%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "copper": {
+                    "value": 0.3,
+                    "measurement": "mcg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Garlic%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                },
+                "phosphorus": {
+                    "value": 153,
+                    "measurement": "mg",
+                    "sources": [
+                        "https://www.nutritionvalue.org/Garlic%2C_raw_nutritional_value.html?size=100+g"
+                    ]
+                }
+            }
         }
     ]
 }
